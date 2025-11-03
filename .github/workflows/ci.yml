@@ -41,10 +41,10 @@ jobs:
       - name: Deploy to FTP server
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ${{ secrets.FTP_HOST }}
+          server: ${{ vars.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./site
+          local-dir: ./site/
           protocol: ftp
-          server-dir: ${{ secrets.FTP_PATH }}
-          port: ${{ secrets.FTP_PORT }}
+          server-dir: ./
+          port: ${{ vars.FTP_PORT }}
