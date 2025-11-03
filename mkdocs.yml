@@ -1,0 +1,127 @@
+site_name: "BRAX Tech Open Source"
+site_description: "Official BRAX Handbook – Vision, Processes, and People Growth"
+site_author: "BRAX Tech"
+site_url: "https://opensource.braxtech.net/"
+
+theme:
+  name: "material"
+  language: "en"
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+  palette:
+    - scheme: default
+      primary: "indigo"
+      accent: "pink"
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: "indigo"
+      accent: "pink"
+  font:
+    text: "Inter"
+    code: "JetBrains Mono"
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.ico
+
+nav:
+  - Welcome to BRAX: index.md
+
+  - Vision, Mission, Focus:
+      - Overview: vision-mission-focus/index.md
+      - Vision: vision-mission-focus/vision.md
+      - Mission: vision-mission-focus/mission.md
+      - Pillars: vision-mission-focus/pillars.md
+
+  - How We Make Decisions:
+      - Overview: decision-making/index.md
+      - Strategy: decision-making/strategy.md
+      - Leadership: decision-making/leadership.md
+      - Team Management: decision-making/team-management.md
+
+  - How We Build Processes and a Great Product:
+      - Overview: building-processes-product/index.md
+      - Operations and Roles: building-processes-product/operations-and-roles.md
+      - Knowledge Management: building-processes-product/knowledge-management.md
+      - Engineering Culture: building-processes-product/engineering-culture.md
+
+  - How We Ensure People’s Growth:
+      - Overview: people-growth/index.md
+      - Performance: people-growth/performance.md
+      - Compensation: people-growth/compensation.md
+      - Empowering Growth: people-growth/empowering-growth.md
+
+  - Policies:
+      - Overview: policies/index.md
+      - Internal Rules: policies/internal-rules.md
+      - Salaries: policies/salaries.md
+      - LUNR Knowledge: policies/lunr-knowledge.md
+      - Sources: policies/sources.md
+      - Glossary: policies/glossary.md
+      - License: policies/license.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - def_list
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.keys
+
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - glightbox
+  - minify:
+      minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/braxtechnologies/brax-docs
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/brax-technologies/
+    - icon: fontawesome/solid/globe
+      link: https://community.braxtech.net/
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/BraxSocial
+
+extra_css:
+  - stylesheets/extra.css
+
+repo_url: "https://github.com/braxtechnologies/brax-docs"
+repo_name: "braxtechnologies/brax-docs"
+edit_uri: "edit/main/docs/"
