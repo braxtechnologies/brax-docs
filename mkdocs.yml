@@ -3,6 +3,11 @@ site_description: "Official Brax Technologies Open Source Handbook – Vision, P
 site_author: "Brax Technologies"
 site_url: "https://opensource.braxtech.net/"
 
+docs_dir: docs
+site_dir: site
+watch:
+  - docs
+
 theme:
   name: "material"
   language: "en"
@@ -107,6 +112,7 @@ plugins:
   - glightbox
   - minify:
       minify_html: true
+  - live-edit
 
 
 extra:
