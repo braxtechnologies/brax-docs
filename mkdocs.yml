@@ -1,6 +1,6 @@
-site_name: "BRAX Tech Open Source"
-site_description: "Official BRAX Handbook – Vision, Processes, and People Growth"
-site_author: "BRAX Tech"
+site_name: "Brax Open Source"
+site_description: "Official Brax Technologies Open Source Handbook – Vision, Processes, and People Growth"
+site_author: "Brax Technologies"
 site_url: "https://opensource.braxtech.net/"
 
 theme:
@@ -24,14 +24,14 @@ theme:
     - navigation.footer
   palette:
     - scheme: default
-      primary: "indigo"
-      accent: "pink"
+      primary: custom
+      accent: custom
     - scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: "indigo"
-      accent: "pink"
+      primary: custom
+      accent: custom
   font:
     text: "Inter"
     code: "JetBrains Mono"
@@ -39,7 +39,7 @@ theme:
   favicon: assets/images/favicon.ico
 
 nav:
-  - Welcome to BRAX: index.md
+  - Welcome: index.md
 
   - Vision, Mission, Focus:
       - Overview: vision-mission-focus/index.md
