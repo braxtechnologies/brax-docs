@@ -24,14 +24,14 @@ theme:
     - navigation.footer
   palette:
     - scheme: default
-      primary: custom
-      accent: custom
+      primary: black
+      accent: deep orange
     - scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: custom
-      accent: custom
+      primary: black
+      accent: deep orange
   font:
     text: "Inter"
     code: "JetBrains Mono"
@@ -119,9 +119,6 @@ extra:
       link: https://community.braxtech.net/
     - icon: fontawesome/brands/twitter
       link: https://x.com/BraxSocial
-
-extra_css:
-  - stylesheets/extra.css
 
 repo_url: "https://github.com/braxtechnologies/brax-docs"
 repo_name: "braxtechnologies/brax-docs"
