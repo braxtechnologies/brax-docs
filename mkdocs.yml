@@ -107,6 +107,8 @@ plugins:
   - glightbox
   - minify:
       minify_html: true
+  - live-edit
+
 
 extra:
   social:

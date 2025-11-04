@@ -1,24 +1,13 @@
-# Welcome to Brax!
+# Open Source at Brax Technologies
 
-There’s a **pivotal challenge in the realm of mobile technology**: the need to revolutionize the way people interact with their devices. At Brax, **we’re committed** to spearheading this **change** by crafting **mobile devices** that not only redefine user experiences but also **uphold the highest standards of privacy and data protection** through robust communication solutions.
+At Brax Technologies we embrace open source as a tool to bring more fairness to software. Applying that principle to our phones, we believe that by publishing as much source code as we legally can, we can build trust with the community, support the software long after the phone is launched and put users in control.
 
-Our dedication extends beyond mere innovation; **it’s a responsibility to humanity**. Sustainability isn’t an afterthought for us—it’s a core principle woven into every aspect of our operations. **We’re not just manufacturing mobile devices; we’re pioneering the path towards sustainable and ethical mobile manufacturing.**
+**Because if you can't open it, you don't own it.**
 
-However, achieving this vision isn’t without its hurdles. That’s why **we seek out brilliant minds who share our passion** for transformative change. To attract and retain top talent, we’ve reinvented the traditional management model.
+This website is dedicated to the source code of the operating systems that power our Brax phones. That includes, but is not limited to, the Android framework, the Linux kernel and associated binary blobs. Here you will find instructions on how to access the source code and binary blobs of your Brax phone, and learn how you can build your own version of the operating system.
 
-Many organizations still adhere to outdated, hierarchical structures that stifle creativity and hinder progress. But at Brax, we’ve embraced a flexible and agile management approach that empowers employees to drive meaningful change.
+In addition we invite you to take part in our open source efforts, so therefore you will also find instructions on how to contribute code back to us.
 
-In this guide, you’ll delve into Brax’s innovative management model, exploring:
+Check out the menu on the left to discover what is available for your Brax phone.
 
-• **Mission and Vision:** How we inspire our team to push the boundaries of mobile technology while upholding our commitment to sustainability and ethical practices.
-
-• **Leadership:** How we manage our teams and structure our Leadership to ensure everyone is accountable for their work and has the chance to learn and contribute to our strategy.
-
-• **Knowledge Management:** Facilitating seamless collaboration and access to resources for informed decision-making in our pursuit of sustainable and ethical manufacturing.
-
-• **Development Paths:** Providing clear pathways for career advancement within a company that values growth, innovation, and ethical standards.
-
-• **Competitive and Transparent Compensation:** Attracting top talent through fair and transparent compensation practices that reflect our commitment to excellence and ethical principles. test
-
-
-Take your time and get to know our approach better by deep diving into our Management model and Employee Handbook.\\
+Are you looking for our other open sourcing efforts?
