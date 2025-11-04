@@ -1,4 +1,4 @@
-name: Build and Deploy opensource.braxtetch.net
+name: Build and Deploy opensource.braxtech.net
 
 on:
   push:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: production
-      url: https://opensource.braxtetch.net
+      url: https://opensource.braxtech.net
 
     steps:
       # 1. Checkout repo
