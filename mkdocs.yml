@@ -52,35 +52,14 @@ nav:
       - Overview: for-developers/index.md
       - BraX3:
         - iodéOS:
-          - Overview: for-developers/brax3/iodéOS/index.md
-          - About: for-developers/brax3/iodéOS/about.md
-          - Download: for-developers/brax3/iodéOS/download.md
-          - Repositories: for-developers/brax3/iodéOS/repositories.md
-          - Build: for-developers/brax3/iodéOS/build.md
-          - Test: for-developers/brax3/iodéOS/test.md
-          - Contribute: for-developers/brax3/iodéOS/contribute.md
-          - Issue Board: for-developers/brax3/iodéOS/issue-board.md
-
-  - How We Build Processes and a Great Product:
-      - Overview: building-processes-product/index.md
-      - Operations and Roles: building-processes-product/operations-and-roles.md
-      - Knowledge Management: building-processes-product/knowledge-management.md
-      - Engineering Culture: building-processes-product/engineering-culture.md
-
-  - How We Ensure People’s Growth:
-      - Overview: people-growth/index.md
-      - Performance: people-growth/performance.md
-      - Compensation: people-growth/compensation.md
-      - Empowering Growth: people-growth/empowering-growth.md
-
-  - Policies:
-      - Overview: policies/index.md
-      - Internal Rules: policies/internal-rules.md
-      - Salaries: policies/salaries.md
-      - LUNR Knowledge: policies/lunr-knowledge.md
-      - Sources: policies/sources.md
-      - Glossary: policies/glossary.md
-      - License: policies/license.md
+          - Overview: for-developers/brax3/iodeos/index.md
+          - About: for-developers/brax3/iodeos/about.md
+          - Download: for-developers/brax3/iodeos/download.md
+          - Repositories: for-developers/brax3/iodeos/repositories.md
+          - Build: for-developers/brax3/iodeos/build.md
+          - Test: for-developers/brax3/iodeos/test.md
+          - Contribute: for-developers/brax3/iodeos/contribute.md
+          - Issue Board: for-developers/brax3/iodeos/issue-board.md
 
 markdown_extensions:
   - toc:
