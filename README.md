@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ### 3. Run the local dev server
 
 ```bash
-mkdocs serve
+mkdocs serve --livereload
 ```
 
 Then open <http://localhost:8000>

@@ -1,5 +1,9 @@
+click==8.2.1
 mkdocs-material
 mkdocs-minify-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-glightbox
+mkdocs-alias-plugin
+mkdocs-categories-plugin
+mkdocs-live-edit-plugin
 linkchecker
