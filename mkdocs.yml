@@ -129,6 +129,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://x.com/BraxSocial
 
+use_directory_urls: false
 repo_url: "https://github.com/braxtechnologies/brax-docs"
 repo_name: "braxtechnologies/brax-docs"
 edit_uri: "edit/main/docs/"
