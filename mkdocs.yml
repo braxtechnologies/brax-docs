@@ -51,7 +51,8 @@ nav:
   - For Developers:
       - Overview: for-developers/index.md
       - BraX3:
-        - iodéOS:  for-developers/brax3/index.md
+        - iodéOS:
+          - Overview: for-developers/brax3/iodéOS/index.md
           - About: for-developers/brax3/iodéOS/about.md
           - Download: for-developers/brax3/iodéOS/download.md
           - Repositories: for-developers/brax3/iodéOS/repositories.md
