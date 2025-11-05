@@ -41,17 +41,19 @@ theme:
 nav:
   - Welcome: index.md
 
-  - Vision, Mission, Focus:
-      - Overview: vision-mission-focus/index.md
-      - Vision: vision-mission-focus/vision.md
-      - Mission: vision-mission-focus/mission.md
-      - Pillars: vision-mission-focus/pillars.md
+  - Manifesto: manifesto/index.md
 
-  - How We Make Decisions:
-      - Overview: decision-making/index.md
-      - Strategy: decision-making/strategy.md
-      - Leadership: decision-making/leadership.md
-      - Team Management: decision-making/team-management.md
+  - For Developers:
+      - Overview: for-developers/index.md
+      - BraX3:
+        - iodéOS:  for-developers/brax3/index.md
+          - About: for-developers/brax3/iodéOS/about.md
+          - Download: for-developers/brax3/iodéOS/download.md
+          - Repositories: for-developers/brax3/iodéOS/repositories.md
+          - Build: for-developers/brax3/iodéOS/build.md
+          - Test: for-developers/brax3/iodéOS/test.md
+          - Contribute: for-developers/brax3/iodéOS/contribute.md
+          - Issue Board: for-developers/brax3/iodéOS/issue-board.md
 
   - How We Build Processes and a Great Product:
       - Overview: building-processes-product/index.md
