@@ -52,14 +52,14 @@ nav:
       - Overview: for-developers/index.md
       - BraX3:
         - iodéOS:
-          - Overview: for-developers/brax3/iodeos/index.md
-          - About: for-developers/brax3/iodeos/about.md
-          - Download: for-developers/brax3/iodeos/download.md
-          - Repositories: for-developers/brax3/iodeos/repositories.md
-          - Build: for-developers/brax3/iodeos/build.md
-          - Test: for-developers/brax3/iodeos/test.md
-          - Contribute: for-developers/brax3/iodeos/contribute.md
-          - Issue Board: for-developers/brax3/iodeos/issue-board.md
+          - Overview: for-developers/BraX3/iodeos/index.md
+          - About: for-developers/BraX3/iodeos/about.md
+          - Download: for-developers/BraX3/iodeos/download.md
+          - Repositories: for-developers/BraX3/iodeos/repositories.md
+          - Build: for-developers/BraX3/iodeos/build.md
+          - Test: for-developers/BraX3/iodeos/test.md
+          - Contribute: for-developers/BraX3/iodeos/contribute.md
+          - Issue Board: for-developers/BraX3/iodeos/issue-board.md
 
 markdown_extensions:
   - toc:
