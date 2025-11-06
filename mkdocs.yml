@@ -49,15 +49,98 @@ nav:
       - Overview: devices/index.md
 
       - BraX3:
-          - iodéOS:
-              - Overview: for-developers/BraX3/iodeos/index.md
-              - About: for-developers/BraX3/iodeos/about.md
-              - Download: for-developers/BraX3/iodeos/download.md
-              - Repositories: for-developers/BraX3/iodeos/repositories.md
-              - Build: for-developers/BraX3/iodeos/build.md
-              - Test: for-developers/BraX3/iodeos/test.md
-              - Contribute: for-developers/BraX3/iodeos/contribute.md
-              - Issue Board: for-developers/BraX3/iodeos/issue-board.md
+          - Overview:
+              - Overview: devices/BraX3/Overview/index.md
+              - Unlock Bootloader: devices/BraX3/Overview/unlock-bootloader.md
+              - Manual Install/Update OS: devices/BraX3/Overview/manual-install-update-os.md
+          
+          - Repair Guide:
+              - Overview: devices/BraX3/RepairGuide/index.md
+              - Screen Replacement: devices/BraX3/RepairGuide/screen-replacement.md
+              - Battery Replacement: devices/BraX3/RepairGuide/battery-replacement.md
+              - Charging Port Repair: devices/BraX3/RepairGuide/charging-port-repair.md
+              - Button Replacement: devices/BraX3/RepairGuide/button-replacement.md
+          
+          - Supported OS:
+              - AOSP:
+                  - Overview: devices/BraX3/SupportedOS/AOSP/index.md
+                  - About: devices/BraX3/SupportedOS/AOSP/about.md
+                  - Download: devices/BraX3/SupportedOS/AOSP/download.md
+                  - Repositories: devices/BraX3/SupportedOS/AOSP/repositories.md
+                  - Build: devices/BraX3/SupportedOS/AOSP/build.md
+                  - Test: devices/BraX3/SupportedOS/AOSP/test.md
+                  - Contribute: devices/BraX3/SupportedOS/AOSP/contribute.md
+                  - Issue Board: devices/BraX3/SupportedOS/AOSP/issue-board.md
+              
+              - BraxOS:
+                  - Overview: devices/BraX3/SupportedOS/BraxOS/index.md
+                  - About: devices/BraX3/SupportedOS/BraxOS/about.md
+                  - Download: devices/BraX3/SupportedOS/BraxOS/download.md
+                  - Repositories: devices/BraX3/SupportedOS/BraxOS/repositories.md
+                  - Build: devices/BraX3/SupportedOS/BraxOS/build.md
+                  - Test: devices/BraX3/SupportedOS/BraxOS/test.md
+                  - Contribute: devices/BraX3/SupportedOS/BraxOS/contribute.md
+                  - Issue Board: devices/BraX3/SupportedOS/BraxOS/issue-board.md
+              
+              - CypherOS:
+                  - Overview: devices/BraX3/SupportedOS/CypherOS/index.md
+              
+              - iodéOS:
+                  - Overview: devices/BraX3/SupportedOS/iodeos/index.md
+                  - About: devices/BraX3/SupportedOS/iodeos/about.md
+                  - Download: devices/BraX3/SupportedOS/iodeos/download.md
+                  - Repositories: devices/BraX3/SupportedOS/iodeos/repositories.md
+                  - Build: devices/BraX3/SupportedOS/iodeos/build.md
+                  - Test: devices/BraX3/SupportedOS/iodeos/test.md
+                  - Contribute: devices/BraX3/SupportedOS/iodeos/contribute.md
+                  - Issue Board: devices/BraX3/SupportedOS/iodeos/issue-board.md
+              
+              - LineageOS:
+                  - Overview: devices/BraX3/SupportedOS/LineageOS/index.md
+              
+              - LunarOS:
+                  - Overview: devices/BraX3/SupportedOS/LunarOS/index.md
+                  - About: devices/BraX3/SupportedOS/LunarOS/about.md
+                  - Download: devices/BraX3/SupportedOS/LunarOS/download.md
+                  - Build: devices/BraX3/SupportedOS/LunarOS/build.md
+                  - Test: devices/BraX3/SupportedOS/LunarOS/test.md
+                  - Contribute: devices/BraX3/SupportedOS/LunarOS/contribute.md
+                  - Issue Board: devices/BraX3/SupportedOS/LunarOS/issue-board.md
+              
+              - Ubuntu Touch:
+                  - Overview: devices/BraX3/SupportedOS/ubuntu-touch/index.md
+                  - About: devices/BraX3/SupportedOS/ubuntu-touch/about.md
+                  - Download: devices/BraX3/SupportedOS/ubuntu-touch/download.md
+                  - Build: devices/BraX3/SupportedOS/ubuntu-touch/build.md
+                  - Test: devices/BraX3/SupportedOS/ubuntu-touch/test.md
+                  - Contribute: devices/BraX3/SupportedOS/ubuntu-touch/contribute.md
+                  - Issue Board: devices/BraX3/SupportedOS/ubuntu-touch/issue-board.md
+  
+  - Manifesto: manifesto/index.md
+  
+  - Governance:
+      - Overview: governance/index.md
+      
+      - Code of Conduct:
+          - Overview: governance/code-of-conduct/index.md
+          - Conflict Resolution: governance/code-of-conduct/conflict-resolution.md
+      
+      - Companies:
+          - Brax Technologies: governance/Companies/BraxTechnologies.md
+          - Dynames IT: governance/Companies/DynamesIT.md
+          - Lunr Technologies: governance/Companies/Lunr Technologies.md
+      
+      - Management Model:
+          - Overview: governance/Management Model and Employee Handbook/index.md
+          - About Us: governance/Management Model and Employee Handbook/about-us.md
+          - Vision, Mission & Focus: governance/Management Model and Employee Handbook/vision-mission-focus.md
+          - How We Make Decisions: governance/Management Model and Employee Handbook/how-we-make-decisions.md
+          - Leadership: governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Leadership.md
+          - Strategy: governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Strategy.md
+          - Team Management: governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Team Management.md
+  
+  - Technical Blog: blog/index.md
+  - Events: events/index.md
 
 markdown_extensions:
   - toc:
@@ -87,6 +170,22 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - blog:
+      blog_dir: blog
+      post_dir: "{blog}/posts"
+      post_date_format: medium
+      post_url_format: "{slug}"
+      archive: true
+      archive_name: Archive
+      archive_date_format: yyyy
+      archive_url_format: "archive/{date}"
+      categories: true
+      categories_name: Categories
+      categories_url_format: "category/{slug}"
+      authors: true
+      authors_file: "{blog}/.authors.yml"
+      pagination: true
+      pagination_per_page: 10
   - git-revision-date-localized:
       fallback_to_build_date: true
   - glightbox

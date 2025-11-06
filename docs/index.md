@@ -4,18 +4,57 @@ hide:
   - navigation
 ---
 
-# Brax Open Source Community Hub and Developers Ressources
+# Brax Open Source Community Hub and Developers Resources
 
 <style>
-  .community-hero {
-    border-radius: 1.5rem;
+  .hero-container {
+    position: relative;
+    margin-bottom: 3rem;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 1rem;
     overflow: hidden;
-    box-shadow: 0 40px 80px rgba(8, 10, 20, 0.45);
+  }
+  .hero-content {
+    display: grid;
+    gap: 2rem;
+    align-items: center;
+    padding: 3rem 2rem;
+  }
+  @media (min-width: 768px) {
+    .hero-content {
+      grid-template-columns: 1fr 1fr;
+      padding: 4rem 3rem;
+    }
+  }
+  .project-intro {
+    color: white;
+  }
+  .project-intro h2 {
+    margin-top: 0;
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .project-intro p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 1rem;
+  }
+  .community-hero {
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    min-height: 100%;
   }
   .community-hero img {
     display: block;
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
+    min-height: 400px;
   }
   .section-heading {
     margin-top: 3rem;
@@ -91,8 +130,21 @@ hide:
   }
 </style>
 
-<div class="community-hero">
-  <img src="../assets/images/community-hero.svg" alt="Join the Brax Community: connect with builders, privacy advocates, and open tech creators." />
+<div class="hero-container">
+  <div class="hero-content">
+    <div class="project-intro">
+      <h2>Brax Open Source Community</h2>
+      <p>
+        We are an international community with a mission to bring free software to the widest possible audience. Our name "Brax" means "humanity towards others". Join us and share in our mission to bring open-source mobile technology to the entire world!
+      </p>
+      <p>
+        Welcome to the Brax Open Source Documentation Hub—a comprehensive resource for developers, contributors, and enthusiasts working with Brax Technologies devices and operating systems. From detailed device guides to in-depth technical articles on Android development, security, and firmware.
+      </p>
+    </div>
+    <div class="community-hero">
+      <img src="../assets/images/community-hero.svg" alt="BraX3: Privacy, done better - Secure & private mobile technology from Brax Technologies" />
+    </div>
+  </div>
 </div>
 
 ## Highlighted Event
@@ -114,51 +166,26 @@ hide:
   </div>
 </div>
 
-<<<<<<< HEAD
-## Engineering Blog
+## Technical Blog
 
-<div class="Engineering Blog">
+<div class="event-grid">
   <div class="card">
     <h3>Android Debugging Crash Course</h3>
-    <span class="meta">Every Tuesday · 18:00 UTC · Virtual</span>
-    <p>Bring your Brax device and we’ll walk through installing custom ROMs, verifying builds, and tuning privacy settings.</p>
-    <a class="cta secondary" href="/community/events/privacy-rom-clinic/">Learn more</a>
+    <span class="meta">06 January 2025</span>
+    <p>A comprehensive guide to debugging Android systems, from basic logging to advanced kernel debugging techniques. Learn ADB, logcat, and kernel-level debugging.</p>
+    <a class="cta secondary" href="blog/2025-01-06-android-debugging-crash-course/">Read more</a>
   </div>
   <div class="card">
     <h3>Working with SELinux on Android</h3>
-    <span class="meta">07 Nov 2025 · 15:00 UTC · Discord</span>
-    <p>Product engineering AMA focused on repairability, spare parts sourcing, and community hardware mods.</p>
-    <a class="cta secondary" href="/community/events/hardware-office-hours/">Save your seat</a>
+    <span class="meta">07 January 2025</span>
+    <p>Understanding and working with Security-Enhanced Linux in Android development - from basics to advanced policy writing.</p>
+    <a class="cta secondary" href="blog/2025-01-07-working-with-selinux-android/">Read more</a>
   </div>
   <div class="card">
-    <h3>Qualcomm’s Chain of Trust</h3>
-    <span class="meta">14 Nov 2025 · 19:00 UTC · Hybrid</span>
-    <p>Share findings, coordinate responsible disclosure, and co-design mitigations with our security response team.</p>
-    <a class="cta secondary" href="/community/events/security-roundtable/">Join the session</a>
-  </div>
-</div>
-
-## Video Tutorials
-
-<div class="Video Tutorials">
-  <div class="card list-card">
-    <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/NCA0xJ9kL4c?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin"></iframe></div>
-  </div>
-  <div class="card list-card">
-    <h3>Europe</h3>
-    <ul>
-      <li><strong>Brax Berlin</strong><span> Open hardware co-working every first Saturday.</span></li>
-      <li><strong>Brax Balkans</strong><span> Collaborative device repair clinics.</span></li>
-      <li><strong>Brax Nordic</strong><span> Community translations and documentation sprints.</span></li>
-    </ul>
-  </div>
-  <div class="card list-card">
-    <h3>Asia-Pacific</h3>
-    <ul>
-      <li><strong>Brax Manila</strong><span> Youth-focused privacy education events.</span></li>
-      <li><strong>Brax Bengaluru</strong><span> Kernel hacking and firmware hardening sessions.</span></li>
-      <li><strong>Brax Aotearoa</strong><span> Sustainable hardware builds with repair cafés.</span></li>
-    </ul>
+    <h3>Qualcomm's Chain of Trust</h3>
+    <span class="meta">08 January 2025</span>
+    <p>Understanding Qualcomm's boot sequence, security mechanisms, and how bootloaders work together to secure modern Android devices.</p>
+    <a class="cta secondary" href="blog/2025-01-08-qualcomm-chain-of-trust/">Read more</a>
   </div>
 </div>
 
@@ -188,7 +215,4 @@ hide:
 - Join the weekly community call for Q&A with product, hardware, and security leads.
 - Follow us on Matrix, Mastodon, and Brax Community forums for daily discussions.
 
-> “We build, learn, and ship together—because privacy, openness, and user choice thrive in community.”
-=======
-Are you looking for our other open sourcing efforts?
->>>>>>> b525d649259cbb9d627ee00702f8350ef7a1e45d
+> "We build, learn, and ship together—because privacy, openness, and user choice thrive in community."
