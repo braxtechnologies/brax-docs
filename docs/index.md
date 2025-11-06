@@ -11,5 +11,3 @@ In addition we invite you to take part in our open source efforts, so therefore 
 Check out the menu on the left to discover what is available for your Brax phone.
 
 Are you looking for our other open sourcing efforts?
-
-<div style="left: 0; width: 100%; height: 533px; position: relative;"><iframe src="https://airtable.com/embed/appM6drI0QppiS8mq/shrR7Y4CcYqizcIv5" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
