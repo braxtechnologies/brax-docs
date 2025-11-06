@@ -1,35 +1,56 @@
-name: Build and Deploy opensource.braxtech.net
+name: Build and Deploy
 
 on:
   push:
     branches:
       - main
+      - dev
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - branch: main
+            environment: production
+            url: https://opensource.braxtech.net
+            ftp_host_var: FTP_HOST
+            ftp_port_var: FTP_PORT
+            ftp_username_secret: FTP_USERNAME
+            ftp_password_secret: FTP_PASSWORD
+            server_dir_var: FTP_DIR
+          - branch: dev
+            environment: development
+            url: https://opensource-dev.braxtech.net
+            ftp_host_var: FTP_HOST_DEV
+            ftp_port_var: FTP_PORT_DEV
+            ftp_username_secret: FTP_USERNAME_DEV
+            ftp_password_secret: FTP_PASSWORD_DEV
+            server_dir_var: FTP_DIR_DEV
+
+    if: github.ref == format('refs/heads/{0}', matrix.branch)
+
     environment:
-      name: production
-      url: https://opensource.braxtech.net
+      name: ${{ matrix.environment }}
+      url: ${{ matrix.url }}
 
     steps:
-      # 1. Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # 3. Install dependencies
       - name: Install MkDocs and plugins
         run: pip install -r requirements.txt
 
-      # 4. Build the site
       - name: Build MkDocs site
         run: mkdocs build --clean
+
       - name: Verify build output
         run: |
           if [ ! -d "./site" ]; then
@@ -37,14 +58,13 @@ jobs:
             exit 1
           fi
 
-      # 5. Deploy via FTP
-      - name: Deploy to FTP server
+      - name: Deploy to FTP server (${{ matrix.environment }})
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ${{ vars.FTP_HOST }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
+          server: ${{ vars[matrix.ftp_host_var] }}
+          username: ${{ secrets[matrix.ftp_username_secret] }}
+          password: ${{ secrets[matrix.ftp_password_secret] }}
           local-dir: ./site/
           protocol: ftp
-          server-dir: ./
-          port: ${{ vars.FTP_PORT }}
+          server-dir: ${{ vars[matrix.server_dir_var] }}
+          port: ${{ vars[matrix.ftp_port_var] }}
