@@ -1,0 +1,51 @@
+name: Deploy Production Server
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: production
+      url: https://opensource.braxtech.net
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install MkDocs and plugins
+        run: pip install -r requirements.txt
+
+      - name: Build MkDocs site
+        run: mkdocs build --clean
+
+      - name: Verify build output
+        run: |
+          if [ ! -d "./site" ]; then
+            echo "Build failed - site directory not found"
+            exit 1
+          fi
+
+      - name: Deploy to Production FTP
+        if: github.event_name == 'push'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ vars.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./site/
+          protocol: ftp
+          server-dir: ${{ vars.FTP_DIR }}
+          port: ${{ vars.FTP_PORT }}
