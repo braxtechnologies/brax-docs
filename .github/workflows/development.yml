@@ -1,0 +1,50 @@
+name: Deploy Development Server
+
+on:
+  push:
+    branches:
+      - dev
+  pull_request:
+    branches:
+      - dev
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: development
+      url: https://opensource-dev.braxtech.net
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install MkDocs and plugins
+        run: pip install -r requirements.txt
+
+      - name: Build MkDocs site
+        run: mkdocs build --clean
+
+      - name: Verify build output
+        run: |
+          if [ ! -d "./site" ]; then
+            echo "Build failed - site directory not found"
+            exit 1
+          fi
+
+      - name: Deploy to Development FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ vars.FTP_HOST_DEV }}
+          username: ${{ secrets.FTP_USERNAME_DEV }}
+          password: ${{ secrets.FTP_PASSWORD_DEV }}
+          local-dir: ./site/
+          protocol: ftp
+          server-dir: ${{ vars.FTP_DIR_DEV }}
+          port: ${{ vars.FTP_PORT_DEV }}
