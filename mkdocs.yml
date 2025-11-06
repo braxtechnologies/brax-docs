@@ -49,167 +49,15 @@ nav:
       - Overview: devices/index.md
 
       - BraX3:
-        - BraxOS:
-          - Overview: devices/BraX3/BraxOS/index.md
-          - About: devices/BraX3/BraxOS/about.md
-          - Download: devices/BraX3/BraxOS/download.md
-          - Repositories: devices/BraX3/BraxOS/repositories.md
-          - Build: devices/BraX3/BraxOS/build.md
-          - Test: devices/BraX3/BraxOS/test.md
-          - Contribute: devices/BraX3/BraxOS/contribute.md
-          - Issue Board: devices/BraX3/BraxOS/issue-board.md
-        - Ubuntu touch:
-          - Overview: devices/BraX3/BraxOS/index.md
-          - About: devices/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: devices/BraX3/BraxOS/repositories.md
-          - Build: devices/BraX3/BraxOS/build.md
-          - Test: devices/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: devices/BraX3/BraxOS/issue-board.md
-        - iodéOS:
-          - Overview: for-developers/BraX3/iodeos/index.md
-          - About: for-developers/BraX3/iodeos/about.md
-          - Download: for-developers/BraX3/iodeos/download.md
-          - Repositories: for-developers/BraX3/iodeos/repositories.md
-          - Build: for-developers/BraX3/iodeos/build.md
-          - Test: for-developers/BraX3/iodeos/test.md
-          - Contribute: for-developers/BraX3/iodeos/contribute.md
-          - Issue Board: for-developers/BraX3/iodeos/issue-board.md
-        - LineageOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-        - AOSP:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-        - CypherOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-        - LunarOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-
-      - BraXTab:
-        - BraxOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-        - Ubuntu touch:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-
-      - Granite:
-        - BraxOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-        - Ubuntu touch:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-      - WallUp:
-        - LunarOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-        - AOSP:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-      - 00Phone:
-        - PostOS:
-          - Overview: for-developers/BraX3/BraxOS/index.md
-          - About: for-developers/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: for-developers/BraX3/BraxOS/repositories.md
-          - Build: for-developers/BraX3/BraxOS/build.md
-          - Test: for-developers/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: for-developers/BraX3/BraxOS/issue-board.md
-
-  - Manifesto: manifesto/index.md
-
-  - Governance:
-      - Overview: governance/index.md
-
-      - Project Governance:
-        - Companies:
-          - Brax Technologies: devices/BraX3/BraxOS/index.md
-          - Lunar Technologies: devices/BraX3/BraxOS/about.md
-          - Dynames IT: devices/BraX3/BraxOS/download.md
-        - Management Model and Employee Handbook:
-          - Overview: devices/BraX3/BraxOS/index.md
-          - About: devices/BraX3/BraxOS/about.md
-          - Download: for-developers/BraX3/BraxOS/download.md
-          - Repositories: devices/BraX3/BraxOS/repositories.md
-          - Build: devices/BraX3/BraxOS/build.md
-          - Test: devices/BraX3/BraxOS/test.md
-          - Contribute: for-developers/BraX3/BraxOS/contribute.md
-          - Issue Board: devices/BraX3/BraxOS/issue-board.md
-
-  - Partners: partners/index.md
-  - Careers: careers/index.md
-  - Events: events/index.md
-  - Technical Blog: technical-blog/index.md
-
-
-
-
+          - iodéOS:
+              - Overview: for-developers/BraX3/iodeos/index.md
+              - About: for-developers/BraX3/iodeos/about.md
+              - Download: for-developers/BraX3/iodeos/download.md
+              - Repositories: for-developers/BraX3/iodeos/repositories.md
+              - Build: for-developers/BraX3/iodeos/build.md
+              - Test: for-developers/BraX3/iodeos/test.md
+              - Contribute: for-developers/BraX3/iodeos/contribute.md
+              - Issue Board: for-developers/BraX3/iodeos/issue-board.md
 
 markdown_extensions:
   - toc:
@@ -245,7 +93,7 @@ plugins:
   - minify:
       minify_html: true
   - live-edit
-
+  - mkdocs-pdf
 
 extra:
   social:
@@ -261,4 +109,4 @@ extra:
 use_directory_urls: false
 repo_url: "https://github.com/braxtechnologies/brax-docs"
 repo_name: "braxtechnologies/brax-docs"
-edit_uri: "edit/main/docs/"
+edit_uri: "edit/dev/docs/"

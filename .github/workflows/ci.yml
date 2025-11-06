@@ -1,35 +1,39 @@
-name: Build and Deploy opensource.braxtech.net
+name: Deploy MkDocs Site
 
 on:
   push:
     branches:
+      - dev
+      - main
+  pull_request:
+    branches:
+      - dev
       - main
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
+    # Dynamically select environment and URL based on branch
     environment:
-      name: production
-      url: https://opensource.braxtech.net
+      name: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+      url: ${{ github.ref == 'refs/heads/main' && 'https://opensource.braxtech.net' || 'https://opensource-dev.braxtech.net' }}
 
     steps:
-      # 1. Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # 3. Install dependencies
       - name: Install MkDocs and plugins
         run: pip install -r requirements.txt
 
-      # 4. Build the site
       - name: Build MkDocs site
         run: mkdocs build --clean
+
       - name: Verify build output
         run: |
           if [ ! -d "./site" ]; then
@@ -37,8 +41,22 @@ jobs:
             exit 1
           fi
 
-      # 5. Deploy via FTP
-      - name: Deploy to FTP server
+      # --- Development deployment ---
+      - name: Deploy to Development FTP
+        if: github.ref == 'refs/heads/dev'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ vars.FTP_HOST_DEV }}
+          username: ${{ secrets.FTP_USERNAME_DEV }}
+          password: ${{ secrets.FTP_PASSWORD_DEV }}
+          local-dir: ./site/
+          protocol: ftp
+          server-dir: ${{ vars.FTP_DIR_DEV }}
+          port: ${{ vars.FTP_PORT_DEV }}
+
+      # --- Production deployment ---
+      - name: Deploy to Production FTP
+        if: github.ref == 'refs/heads/main'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ vars.FTP_HOST }}
@@ -46,5 +64,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./site/
           protocol: ftp
-          server-dir: ./
+          server-dir: ${{ vars.FTP_DIR }}
           port: ${{ vars.FTP_PORT }}

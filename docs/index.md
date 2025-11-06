@@ -114,6 +114,7 @@ hide:
   </div>
 </div>
 
+<<<<<<< HEAD
 ## Engineering Blog
 
 <div class="Engineering Blog">
@@ -188,3 +189,6 @@ hide:
 - Follow us on Matrix, Mastodon, and Brax Community forums for daily discussions.
 
 > “We build, learn, and ship together—because privacy, openness, and user choice thrive in community.”
+=======
+Are you looking for our other open sourcing efforts?
+>>>>>>> b525d649259cbb9d627ee00702f8350ef7a1e45d
