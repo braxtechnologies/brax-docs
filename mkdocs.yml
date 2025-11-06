@@ -111,4 +111,4 @@ extra:
 use_directory_urls: false
 repo_url: "https://github.com/braxtechnologies/brax-docs"
 repo_name: "braxtechnologies/brax-docs"
-edit_uri: "edit/main/docs/"
+edit_uri: "edit/dev/docs/"
