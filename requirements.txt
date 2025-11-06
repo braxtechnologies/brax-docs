@@ -7,3 +7,4 @@ mkdocs-alias-plugin
 mkdocs-categories-plugin
 mkdocs-live-edit-plugin
 linkchecker
+mkdocs-pdf

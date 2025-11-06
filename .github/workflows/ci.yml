@@ -1,20 +1,23 @@
-name: Deploy Development Server
+name: Deploy MkDocs Site
 
 on:
   push:
     branches:
       - dev
+      - main
   pull_request:
     branches:
       - dev
+      - main
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
+    # Dynamically select environment and URL based on branch
     environment:
-      name: development
-      url: https://opensource-dev.braxtech.net
+      name: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+      url: ${{ github.ref == 'refs/heads/main' && 'https://opensource.braxtech.net' || 'https://opensource-dev.braxtech.net' }}
 
     steps:
       - name: Checkout repository
@@ -38,7 +41,9 @@ jobs:
             exit 1
           fi
 
+      # --- Development deployment ---
       - name: Deploy to Development FTP
+        if: github.ref == 'refs/heads/dev'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ vars.FTP_HOST_DEV }}
@@ -48,3 +53,16 @@ jobs:
           protocol: ftp
           server-dir: ${{ vars.FTP_DIR_DEV }}
           port: ${{ vars.FTP_PORT_DEV }}
+
+      # --- Production deployment ---
+      - name: Deploy to Production FTP
+        if: github.ref == 'refs/heads/main'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ vars.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./site/
+          protocol: ftp
+          server-dir: ${{ vars.FTP_DIR }}
+          port: ${{ vars.FTP_PORT }}
