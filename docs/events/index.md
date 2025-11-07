@@ -4,7 +4,7 @@ Stay connected with Brax Technologies through our community events, workshops, a
 
 ## Upcoming Events
 
-Check back soon for information about upcoming Brax community events.
+- [Open Source Experience 2025 - Paris](upcoming-events/opensource-experience-2025.md)
 
 ## Past Events
 
