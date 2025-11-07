@@ -130,8 +130,14 @@ nav:
           - Dynames IT: governance/Companies/DynamesIT.md
           - Lunr Technologies: governance/Companies/Lunr Technologies.md
       
-      - Environmental Impact: governance/Environmental Impact/index.md
-      - Social Impact: governance/Social Impact/index.md
+      - Environmental Impact:
+          - Overview: governance/Environmental Impact/index.md
+      
+      - Social Impact:
+          - Overview: governance/Social Impact/index.md
+      
+      - Project Governance:
+          - Overview: governance/Project Governance/index.md
       
       - Management Model:
           - Overview: governance/Management Model and Employee Handbook/index.md
