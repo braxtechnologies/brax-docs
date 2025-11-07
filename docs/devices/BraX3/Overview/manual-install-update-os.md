@@ -2,7 +2,7 @@
 
 This guide will walk you through the process of manually installing or updating the OS on your BraX3 device. While this is considered an advanced modification, we're sharing a simple how-to guide which can be used by a wider audience to achieve their goal.
 
-{% include alerts/warning.html content="Manually flashing or updating the OS may brick your device, rendering it unusable. By proceeding, you accept full responsibility for any risks involved, including potential data loss or hardware malfunction." %}
+> **⚠️ WARNING:** Manually flashing or updating the OS may brick your device, rendering it unusable. By proceeding, you accept full responsibility for any risks involved, including potential data loss or hardware malfunction.
 
 ## Two Installation Methods
 
