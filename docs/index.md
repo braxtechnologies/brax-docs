@@ -139,6 +139,11 @@ hide:
     width: 100%;
     border: none;
   }
+  .event-logo {
+    max-width: 150px;
+    margin-bottom: 1rem;
+    display: block;
+  }
 </style>
 
 <div class="hero-container">
@@ -162,15 +167,16 @@ hide:
 
 <div class="event-grid highlighted">
   <div class="card">
-    <h3>Brax Summit 2025</h3>
-    <span class="meta">12–13 December 2025 · Montréal, QC + livestream</span>
-    <p>Two days of deep dives into privacy-first hardware, ethical supply chains, and community-led operating systems. Expect hardware labs, open ROM workshops, and roadmap roundtables with our product teams.</p>
-    <a class="cta secondary" href="/community/events/brax-summit-2025/">Reserve your spot</a>
+    <img src="../assets/images/opensource-experience-logo.png" alt="Open Source Experience" class="event-logo" />
+    <h3>Open Source Experience 2025</h3>
+    <span class="meta">Paris, France · November 2025</span>
+    <p>Join the leading European open source event bringing together developers, decision-makers, and innovators. Discover the latest in open source technologies, cloud computing, digital sovereignty, and sustainable IT solutions.</p>
+    <a class="cta secondary" href="https://www.opensource-experience.com/" target="_blank" rel="noopener">Learn more</a>
   </div>
   <div class="card list-card">
     <h3>Why attend?</h3>
     <ul>
-      <li><strong>Hands-on labs</strong><span> Learn how to flash and harden the latest Brax firmware.</span></li>
+      <li><strong>Hands-on labs</strong><span> Learn how to flash and get to see the latest Brax Hardware.</span></li>
       <li><strong>Meet the builders</strong><span> Chat with the engineers and maintainers behind BraX3.</span></li>
       <li><strong>Community showcase</strong><span> Discover partner ROMs and privacy projects in the expo space.</span></li>
     </ul>

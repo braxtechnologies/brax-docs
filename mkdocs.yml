@@ -140,8 +140,14 @@ nav:
           - Team Management: governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Team Management.md
   
   - Bounties: bounties/index.md
+  - Careers: careers/index.md
   - Technical Blog: blog/index.md
-  - Events: events/index.md
+  - Events:
+      - Overview: events/index.md
+      - Upcoming Events:
+          - Open Source Experience 2025: events/upcoming-events/opensource-experience-2025.md
+      - Community Events: events/community-events/index.md
+      - Past Events: events/past-events/index.md
 
 markdown_extensions:
   - toc:

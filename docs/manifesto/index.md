@@ -1,5 +1,5 @@
 ---
-title: "We Are Here to Fix Mobile Tech: The Brax Technologies Manifesto"
+title: "The Brax Technologies Manifesto"
 description: "As a Public Benefit Corporation, Brax Technologies is building ethical, open, and sustainable technology that empowers users, protects privacy, and respects the planet."
 author: "Brax Technologies"
 date: 2025-01-25
