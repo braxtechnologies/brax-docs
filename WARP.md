@@ -4,7 +4,16 @@ This file provides guidance to WARP (warp.dev) when working with code in this re
 
 ## Project Overview
 
-This is the BRAX Tech open source documentation site built with **MkDocs Material**. The documentation covers BRAX's management model, vision, processes, and employee handbook. The site is deployed automatically to `https://opensource.braxtetch.net` via GitHub Actions on push to main.
+This is the **BRAX Technologies open source documentation site** built with **MkDocs Material**. The documentation covers:
+- **Device documentation** for BRAX hardware (primarily BraX3 smartphone)
+- **Operating system guides** (AOSP, BraxOS, LineageOS, Ubuntu Touch, iodéOS, etc.)
+- **Repair guides** (screen, battery, charging port, buttons)
+- **Company governance** (code of conduct, management model, organizational structure)
+- **Manifesto** and community resources
+
+The site is deployed to **two environments**:
+- `https://opensource.braxtech.net` (production - `main` branch)
+- `https://opensource-dev.braxtech.net` (development - `dev` branch)
 
 ## Common Commands
 
@@ -65,11 +74,19 @@ brax-docs/
 ├── docs/                              # All documentation content
 │   ├── index.md                       # Homepage/landing page
 │   ├── assets/                        # Images, icons, and static assets
-│   ├── vision-mission-focus/          # Company vision and mission docs
-│   ├── decision-making/               # Leadership and strategy docs
-│   ├── building-processes-product/    # Operations and engineering culture
-│   ├── people-growth/                 # Performance, compensation, growth
-│   └── policies/                      # Rules, glossary, license, sources
+│   ├── devices/                       # Device documentation (BraX3, etc.)
+│   │   └── BraX3/                     # BraX3 smartphone documentation
+│   │       ├── Overview/              # Device overview, bootloader, OS install
+│   │       ├── RepairGuide/           # Hardware repair instructions
+│   │       └── SupportedOS/           # OS-specific build/install guides
+│   ├── governance/                    # Company governance and policies
+│   │   ├── code-of-conduct/           # Community guidelines
+│   │   ├── Companies/                 # Partner organizations
+│   │   └── Management Model and Employee Handbook/  # Leadership structure
+│   ├── manifesto/                     # Company manifesto
+│   ├── bounties/                      # Bug bounty program
+│   ├── events/                        # Community events
+│   └── blog/                          # Technical blog (with .authors.yml)
 ├── mkdocs.yml                         # MkDocs configuration and nav structure
 ├── requirements.txt                   # Python dependencies
 └── .github/workflows/ci.yml           # CI/CD pipeline for deployment
@@ -88,9 +105,16 @@ The `mkdocs.yml` file controls:
 
 Documentation follows a **section-based structure** with each major topic in its own directory:
 - Each section has an `index.md` as the landing page
-- Related docs grouped together (e.g., all people-growth topics in one folder)
+- Related docs grouped together (e.g., all BraX3 repair guides in one folder)
 - Navigation hierarchy matches directory structure
 - Assets centralized in `docs/assets/`
+
+**Device documentation structure** (e.g., BraX3):
+- **Overview**: General device info, bootloader unlocking, OS installation
+- **RepairGuide**: Hardware repair instructions (screen, battery, charging port, buttons)
+- **SupportedOS**: Per-OS subdirectories (AOSP, BraxOS, LineageOS, Ubuntu Touch, iodéOS, LunarOS, CypherOS)
+  - Each OS has: Overview, About, Download, Repositories, Build, Test, Contribute, Issue Board
+  - Some OSes (LineageOS, CypherOS) only have Overview pages
 
 ### Markdown Extensions
 
