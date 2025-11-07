@@ -128,6 +128,17 @@ hide:
   .resource-grid .card a:hover {
     text-decoration: underline;
   }
+  .video-container {
+    margin: 2rem 0;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+  .video-container iframe {
+    display: block;
+    width: 100%;
+    border: none;
+  }
 </style>
 
 <div class="hero-container">
@@ -187,6 +198,12 @@ hide:
     <p>Understanding Qualcomm's boot sequence, security mechanisms, and how bootloaders work together to secure modern Android devices.</p>
     <a class="cta secondary" href="blog/2025-01-08-qualcomm-chain-of-trust/">Read more</a>
   </div>
+</div>
+
+## Video Tutorials
+
+<div class="video-container">
+  <iframe src='https://widgets.sociablekit.com/youtube-playlist-videos/iframe/25619455' frameborder='0' width='100%' height='250'></iframe>
 </div>
 
 ## Learn More
