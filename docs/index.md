@@ -1,10 +1,11 @@
 ---
-# markdownlint-disable-file MD041 MD007 MD032
+
 hide:
   - navigation
+  - toc
 ---
 
-# Brax Open Source Community Hub and Developers Resources
+# Welcome
 
 <style>
   .hero-container {
@@ -183,7 +184,7 @@ hide:
   </div>
 </div>
 
-## Technical Blog
+## Guide
 
 <div class="event-grid">
   <div class="card">
