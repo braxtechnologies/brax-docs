@@ -1,6 +1,6 @@
 # We Are Here to Fix Mobile Tech
 
-![](../assets/images/image.png)
+&nbsp;
 
 ## The Problem in the Technology Industry
 
