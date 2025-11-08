@@ -1,4 +1,4 @@
-name: Deploy MkDocs Site
+name: Deploy Zensical Site
 
 on:
   push:
@@ -28,11 +28,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install MkDocs and plugins
+      - name: Install zensical and plugins
         run: pip install -r requirements.txt
 
-      - name: Build MkDocs site
-        run: mkdocs build --clean
+      - name: Build zensical site
+        run: zensical build --clean
 
       - name: Verify build output
         run: |
