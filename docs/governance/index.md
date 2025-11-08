@@ -1,5 +1,7 @@
 # We Are Here to Fix Mobile Tech
 
+![](/uploads/image.png)
+
 ## The Problem in the Technology Industry
 
 Closed systems, planned obsolescence, data exploitation, and environmental harm dominate the industry. Too often, the needs of people, communities, and the planet are neglected in favor of corporate profits.
@@ -54,19 +56,18 @@ With extensive experience in mobile technology and custom hardware design, Plame
 
 ## Our Commitments
 
-- Prioritize user freedom and choice by supporting custom ROM communities with resources and know-how.
-- Support privacy-focused initiatives and collaborate with aligned communities and organizations.
-- Design for durability and repairability with accessible guides, tools, and resources.
-- Remain transparent about product impact, including lifecycle, testing, manufacturing, and data practices.
-- Share revenue with open-source projects and ethical organizations that further the mission.
-- Educate and empower users with resources that help them understand and maintain their technology.
-- Champion ethical, open, and sustainable practices across the broader tech ecosystem.
+* Prioritize user freedom and choice by supporting custom ROM communities with resources and know-how.
+* Support privacy-focused initiatives and collaborate with aligned communities and organizations.
+* Design for durability and repairability with accessible guides, tools, and resources.
+* Remain transparent about product impact, including lifecycle, testing, manufacturing, and data practices.
+* Share revenue with open-source projects and ethical organizations that further the mission.
+* Educate and empower users with resources that help them understand and maintain their technology.
+* Champion ethical, open, and sustainable practices across the broader tech ecosystem.
 
 ## Signatures
 
 ### Founders
 
-- Robert Braxman — 15 January 2025
-- Plamen Todorov — 15 January 2025
-- Dominic Gingras — 25 January 2025
-
+* Robert Braxman — 15 January 2025
+* Plamen Todorov — 15 January 2025
+* Dominic Gingras — 25 January 2025
