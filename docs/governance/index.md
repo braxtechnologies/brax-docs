@@ -1,10 +1,10 @@
 # We Are Here to Fix Mobile Tech
 
-![](/uploads/image.png)
+![](../assets/images/image.png)
 
-## The Problem in the Technology Industry test
+## The Problem in the Technology Industry
 
-Closed systems, planned obsolescence, data exploitation, and environmental harm dominate the industry. Too often, the needs of people, communities, and the planet are neglected in favor of corporate profits.
+Closed systems, test planned obsolescence, data exploitation, and environmental harm dominate the industry. Too often, the needs of people, communities, and the planet are neglected in favor of corporate profits.
 
 ## Brax Technologies Mission
 
