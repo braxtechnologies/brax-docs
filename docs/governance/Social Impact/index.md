@@ -4,7 +4,7 @@
 
 At Brax Technologies, we believe technology should empower everyone, not just the privileged few. We are dedicated to creating positive social change through inclusive design, ethical practices, and community engagement.
 
-![](/docs/assets/images/opensource-experience-logo.png)
+![](../../assets/images/opensource-experience-logo.png)
 
 ## Core Principles
 
