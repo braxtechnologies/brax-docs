@@ -2,7 +2,7 @@
 
 ![](/uploads/image.png)
 
-## The Problem in the Technology Industry
+## The Problem in the Technology Industry test
 
 Closed systems, planned obsolescence, data exploitation, and environmental harm dominate the industry. Too often, the needs of people, communities, and the planet are neglected in favor of corporate profits.
 
