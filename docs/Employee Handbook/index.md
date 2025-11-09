@@ -1,37 +1,66 @@
 # 👋 Welcome to brax!
 
-There's a **pivotal challenge in the realm of mobile technology**: the need to revolutionize the way people interact with their devices. At brax, **we're committed** to spearheading this **change** by crafting **mobile devices** that not only redefine user experiences but also **uphold the highest standards of privacy and data protection** through robust communication solutions.
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2.5em; border-radius: 12px; margin: 2em 0;">
+  <h2 style="margin-top: 0; color: white; font-size: 1.75rem;">🎯 Our Mission: Privacy-First Mobile Tech</h2>
+  <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 0;">We’re rethinking how people use their phones—without compromising privacy or control. We build devices and communication tools that feel simple, fast, and secure.</p>
+</div>
 
-Our dedication extends beyond mere innovation; **it's a responsibility to humanity**. Sustainability isn't an afterthought for us—it's a core principle woven into every aspect of our operations. **We're not just manufacturing mobile devices; we're pioneering the path towards sustainable and ethical mobile manufacturing.**
+## 🔓 Why Transparency Matters
 
-However, achieving this vision isn't without its hurdles. That's why **we seek out brilliant minds who share our passion** for transformative change. To attract and retain top talent, we've reinvented the traditional management model.
+Transparency isn’t an afterthought—it’s how we work. We share:
 
-Many organizations still adhere to outdated, hierarchical structures that stifle creativity and hinder progress. But at brax, we've embraced a flexible and agile management approach that empowers employees to drive meaningful change.
+- 🛠️ **How we build products** — Open development, public roadmaps
+- 👥 **How we organize teams** — Flat structures, clear ownership  
+- 💰 **How we pay people** — Open salary framework, publicly documented
 
-In this guide, you'll delve into brax's innovative management model, exploring:
+That openness keeps us honest and helps everyone do their best work.
 
-• **Mission and Vision:** How we inspire our team to push the boundaries of mobile technology while upholding our commitment to sustainability and ethical practices.
+---
 
-• **Leadership:** How we manage our teams and structure our Leadership to ensure everyone is accountable for their work and has the chance to learn and contribute to our strategy.
+## 🚀 How We Work
 
-• **Knowledge Management:** Facilitating seamless collaboration and access to resources for informed decision-making in our pursuit of sustainable and ethical manufacturing.
+Instead of rigid hierarchies, we use a **flexible, accountable model** that puts decision-making close to the work. We hire people who care about meaningful change and give them room to lead.
 
-• **Development Paths:** Providing clear pathways for career advancement within a company that values growth, innovation, and ethical standards.
+### What You’ll Find in This Guide:
 
-• **Competitive and Transparent Compensation:** Attracting top talent through fair and transparent compensation practices that reflect our commitment to excellence and ethical principles.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
+  <div style="background: #f8f9fa; padding: 1.5em; border-radius: 8px; border-left: 4px solid #667eea;">
+    <h4 style="margin-top: 0; color: #667eea;">🎯 Mission & Vision</h4>
+    <p style="margin-bottom: 0; font-size: 0.95rem;">What we're building, why it matters, and how transparency shapes our choices.</p>
+  </div>
+  
+  <div style="background: #f8f9fa; padding: 1.5em; border-radius: 8px; border-left: 4px solid #764ba2;">
+    <h4 style="margin-top: 0; color: #764ba2;">👨‍💼 Leadership</h4>
+    <p style="margin-bottom: 0; font-size: 0.95rem;">How teams are structured, how we make decisions, and how we hold ourselves accountable.</p>
+  </div>
+  
+  <div style="background: #f8f9fa; padding: 1.5em; border-radius: 8px; border-left: 4px solid #667eea;">
+    <h4 style="margin-top: 0; color: #667eea;">📚 Knowledge Management</h4>
+    <p style="margin-bottom: 0; font-size: 0.95rem;">How we share information so anyone can find what they need and move quickly.</p>
+  </div>
+  
+  <div style="background: #f8f9fa; padding: 1.5em; border-radius: 8px; border-left: 4px solid #764ba2;">
+    <h4 style="margin-top: 0; color: #764ba2;">🎓 Development Paths</h4>
+    <p style="margin-bottom: 0; font-size: 0.95rem;">Clear ways to grow your skills and advance your career at brax.</p>
+  </div>
+  
+  <div style="background: #f8f9fa; padding: 1.5em; border-radius: 8px; border-left: 4px solid #667eea;">
+    <h4 style="margin-top: 0; color: #667eea;">💵 Open, Transparent Pay</h4>
+    <p style="margin-bottom: 0; font-size: 0.95rem;">A salary framework that’s fair, consistent, and publicly documented.</p>
+  </div>
+</div>
 
-Whether you're a new addition to our team or a seasoned veteran, this guide serves as a roadmap for understanding brax's ethos, culture, and operational principles as we continue to redefine the mobile landscape with a focus on privacy, security, and ethical manufacturing.
+---
 
-Take your time and get to know our approach better by deep diving into our Management model and Employee Handbook.
+## 📖 How to Use This Handbook
 
-<details>
-<summary>How to use it?</summary>
+!!! tip "Start Here"
+    This handbook is designed to be read linearly. Start with **Vision, Mission & Focus** and work your way through each section. We recommend reading everything in one sitting, then revisiting sections as needed.
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
-</details>
+Whether you’re new to brax or a seasoned team member, this guide explains our values, culture, and the principles that guide our work.
 
 ---
 
 > **📜 License Notice**
 >
-> The 'brax Management Model and Employee Handbook' © 2024 by Dominic Gingras is licensed under a [Creative Commons CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1). Feel free to share it under the terms of the license, but please refrain from adapting or using it for commercial purposes without permission.
+> The 'brax Management Model and Employee Handbook' © 2024 by Dominic Gingras is licensed under a [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and use this material for any purpose, including commercially, as long as you provide attribution to Brax Technologies and indicate if changes were made.
