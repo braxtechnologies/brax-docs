@@ -1,77 +1,149 @@
----
-cover: ../../.gitbook/assets/11.png
-coverY: 0
----
+🌍 Global Compensation Philosophy
 
-# 💰 Compensation
+At Brax, we believe that paying people well builds a high-performance culture — one where our team members feel valued for their great work, regardless of where they live or work.
 
-**Being paid well builds a High-Performance culture in which our team members feel valued for their great work.**\
-\
-Companies should strive to reward their people with the highest salary for any particular position. Why is it so important? It’s simple – **we believe when employees are paid well they are able to provide top performance.**
+Our guiding principle is simple:
 
-Salary is important for every worker – we all have personal needs and expenses, and making enough to cover them is a main consideration when applying for work. We understand that, and we want to minimize the anxieties candidates have when applying to IT roles. By paying top of the market, we guarantee the compensation they get for their work will be highly competitive, and aspects such as skills and a fitting mindset will have the biggest weight in their decision. We strongly believe that one outstanding person gets more done and is a better value than two mediocre people, so we prefer to not engage in bidding wars and jump straight to putting the best offer on the table. No need for unproductive salary negotiations here.
+Top performance deserves top compensation — everywhere.
 
-**Offering top compensation also attracts top performers**. We want the best and brightest talent to help us achieve our company goals, and we are ready to reward them for their hard work with us. It’s a great way for people to feel valued for their skills and stay motivated.
+We strive to offer market-leading salaries for every role in every country we operate in. This ensures that each employee can focus on doing their best work without anxiety about financial security or pay equity.
 
-Lastly, we understand topics of salaries and bonuses are common in every workplace. Oftentimes, they may trigger discussions and arguments which steer attention away from the common goal, which has a negative effect on performance and team morale. **Being transparent about compensation and allowing people to find out how much their colleagues are paid will put everyone on the same page and minimize the harmful effects of toxic office behavior by ensuring all employees are treated fairly.**
+💎 Why Top-of-Market Pay Matters Globally
 
-Paying top of the market is not just an empty claim - it’s an active process of adjusting our compensation so it reflects the current market value of a position. We achieve this by monitoring both the labor markets in Sofia and abroad, as we are an international company with international clients, and we strive for fair compensation.
+Salary is an essential consideration for everyone — we all have personal needs, family commitments, and local living costs. Brax’s goal is to minimize the stress and uncertainty that often come with job searches and salary negotiations.
 
-Compentsation Review
+By paying at the top of each local market, we guarantee our team members receive highly competitive compensation in their country, adjusted for cost of living, taxation, and currency differences.
 
-* At brax, we have a dynamic approach to compensation and regularly monitor the market, especially before hiring someone new.
-* If we detect the market value of a given position has increased, every employee in this position gets a raise.
-* Employees can trust that their pay will be automatically adjusted to keep up with increases in the top-line market rate.
+This approach allows candidates and employees to make decisions based primarily on values, skills, and mindset fit, rather than on who offers the highest paycheck.
 
-Compensation Over Time
+We believe one outstanding individual can achieve more — and deliver greater value — than multiple average performers. That’s why we skip unproductive back-and-forth salary negotiations and instead put forward our best offer upfront.
 
-* We remain at top of the market by benchmarking our compensation against competitors and consulting with recruiting agencies.
-* Market forces, namely changing supply and demand for specific skills, may lead to higher relative increases in pay for some people.
-* Depends in part on inflation and economy.
+🌐 Attracting and Retaining Global Talent
 
-We compensate based on personal success
+Offering top compensation helps us attract and retain exceptional professionals across the world. We want the brightest minds to join our mission — and we’re ready to reward their contribution fairly, whether they work from Sofia, São Paulo, or Singapore.
 
-* ﻿﻿We know that rewarding the best will deliver success for brax\
-  We compensate at the top of the market, regardless of whether brax's experiences succeeds or struggles.
-* ﻿﻿We reward our high performers for their outstanding work and commitment to our winning team.
+Pay transparency and consistent methodology ensure all team members understand how their compensation is determined and how to grow within the company.
 
-**When hiring a new colleague, we check the current value of their position.** If we find an increase from our current range, we accordingly raise the salaries of all our employees within that position once they step up. This guarantees the continued competitiveness of our salaries, even for employees who’ve been with us for years.
+💬 Transparency and Fairness
 
-**Constant growth is in the DNA of our organization**, and we want the same for our people. The dynamic nature of our industry must be matched by our people. This pace is not for everyone, and we understand some employees choose to follow a different path. As we say, if you don’t grow, you have to go and that's also why all our processes are well documented in our knowledge database, so new people can quickly get on board, and knowledge doesn’t leave when an individual does.
+We know that salary discussions can sometimes cause tension or distraction within teams. At Brax, we minimize this by being open about our compensation systems.
 
-Some companies choose to be obscure about their compensation systems, hoping to get away with offering lower payments. We think this is immature and ineffective, and it hurts employee morale and motivation. This is why **we are proudly transparent in our management and our salary rules.**
+Our employees can review how salaries are calculated, how market benchmarks are applied, and how growth opportunities are defined. Everyone can see that pay is determined objectively and consistently, which helps build trust and eliminate toxic workplace behavior.
 
-As mentioned above, companies need to ensure that new employees are compensated at the top of the market. But once part of the organization, they rely not only on the market value of their position to determine their level of compensation. They are also compensated based on personal success and achievements. **We believe that employees should know just how much their skills and experience are worth.** This is why we developed the Management model, which provides a clear development path for any employee.
+💰 Compensation Framework Across Countries
 
-Want to understand your salary calculation, or make a career progression path? Go for it! We have created a salary grid, as well as a formula for how we calculate salaries, which gives you the power to check your compensation and contest us if you find any mismatch.
+Paying at the top of the market is not a slogan — it’s an ongoing process. We continuously monitor local and international labor markets to ensure our salaries reflect current realities.
 
-The formula is:
+We benchmark compensation in each country using:
 
-<figure><img src="../../.gitbook/assets/1000px-ICForm.png" alt=""><figcaption></figcaption></figure>
+Local Market Data (LMV): Based on trusted regional salary surveys, recruiting partners, and public data sources.
 
-In which:
+Global Market Value (IMV): Referencing international platforms like PayScale and Glassdoor to align with global IT industry trends.
 
-* LMV - Local Market Value (Zaplatomer and Recruiting Agencies)
-* 10% increase over the highest salary announced in Zaplatomer
-* IMV - International Market Value for a low-cost city ([PayScale.com](http://payscale.com/); [Glassdoor.com](http://glassdoor.com/))
-* 38% - taxes deduction for USD salary
+Cost-of-Living and Tax Adjustments: Ensuring net pay is competitive after factoring in currency, taxes, and purchasing power.
 
-This formula corresponds to Level 2 Step 1 in our grid. Once you start on a particular level with a base NET salary (like Level 2 above), you can find clear guidelines for moving up to the next level. Each move up/down in Levels comes with a compensation increase/decrease of 1000 BGN, and each Step applies an increase/decrease of 150 BGN.
+This guarantees fair and competitive pay no matter where you are in the world.
 
-The formula for  management positions would be:
+🔁 Compensation Review
+
+At Brax, compensation is dynamic and responsive to market changes:
+
+We review market data regularly, especially before new hires.
+
+If the market value for a position increases, all employees in that role worldwide receive an adjustment.
+
+Pay updates happen automatically — no need to request or negotiate.
+
+Employees can trust that their compensation keeps pace with the top of the market, not only at the time of hiring but throughout their career at Brax.
+
+📈 Compensation Over Time
+
+We maintain competitiveness through:
+
+Regular benchmarking against global and regional competitors.
+
+Collaboration with international recruitment agencies and compensation experts.
+
+Adjustments for inflation, exchange rates, and economic shifts.
+
+Some markets evolve faster due to specific skill demand; our pay structure adapts accordingly. We also ensure internal equity so that people with comparable skills and performance receive comparable pay across countries.
+
+🧭 Compensation Based on Personal Success
+
+We reward personal excellence and growth, not just tenure or company results.
+Regardless of whether Brax is thriving or facing challenges, top performers are always recognized and rewarded.
+
+When new employees join at a higher market rate, we review and adjust compensation for others in the same role to ensure fairness and alignment.
+
+This creates a culture of continuous growth and reward, where commitment and performance are directly linked to tangible outcomes.
+
+🚀 Growth, Mobility, and Knowledge Sharing
+
+Growth is in Brax’s DNA — both as an organization and for every individual.
+We move fast, adapt often, and value people who thrive in this dynamic environment.
+
+When employees move across countries or take on broader responsibilities, we reassess their compensation to reflect:
+
+The new local market value,
+
+The cost of living and taxation, and
+
+The scope of their new responsibilities.
+
+All processes are well documented in our knowledge base, ensuring smooth onboarding and consistent practices globally.
+
+⚖️ Transparency and the Salary Grid
+
+Some companies hide compensation data to save costs. We believe the opposite — transparency drives trust and performance.
+
+Employees can access Brax’s global salary grid and formulas to understand how compensation is calculated in each location and how progression works.
+
+📊 Example Global Compensation Formulas
+For Individual Contributors:
+Compensation = max(LMV, IMV adjusted for cost of living and taxes)
 
 
+Where:
 
-<figure><img src="../../.gitbook/assets/MgtForm.png" alt=""><figcaption></figcaption></figure>
+LMV (Local Market Value): Highest salary from trusted local data sources (e.g., Zaplatomer, recruitment agencies), plus a 10% buffer.
 
-In which:
+IMV (International Market Value): Global benchmark adjusted for cost of living and tax (for example, 38% deduction for U.S.-based salaries).
 
-* HAS- Highest Announced Salary for the position in a US Salary Information Website ([PayScale.com](http://payscale.com/);[Glassdoor.com](http://glassdoor.com/))
-* Deduction of 38% which is related to taxes for USD salary
-* Adding a 75% multiplier for the cost of living in Sofia
+Compensation bands are defined in local currency, with clear progression rules between levels and steps.
 
-This formula corresponds to Step 3 of each Level for the Management Path.
+For Management Positions:
+Compensation = (Highest Announced International Salary × Tax Adjustment × Cost-of-Living Multiplier)
 
-As you can see, companies should reward its passionate people with clear and fair compensation. **A high-performance culture is key to the goal of providing industry-leading solutions to digital security, and we motivate and empower employees by putting them in charge of their career growth path and ensuring their personal development.**
 
-In the next chapters you will find the frameworks for every Individual contributor and Manager.
+HAS: Highest published salary for equivalent role on global platforms (PayScale, Glassdoor).
+
+Tax Adjustment: e.g., 38% deduction for U.S. taxes.
+
+COL Multiplier: Local cost-of-living adjustment (e.g., 0.75 for Sofia).
+
+Each level and step corresponds to a global grid for transparent progression.
+
+🌱 Empowering Career Growth
+
+We give every employee the tools to:
+
+Understand their compensation.
+
+Plan their career progression.
+
+Verify calculations through transparent formulas and data sources.
+If someone finds a discrepancy, they are encouraged to challenge it — that’s part of our commitment to fairness.
+
+Our Management Model outlines how skills, experience, and results translate into levels, steps, and compensation across all countries.
+
+🏁 Summary
+
+At Brax, compensation is:
+
+Globally fair, locally competitive.
+
+Transparent and data-driven.
+
+Linked to performance, growth, and contribution.
+
+By paying at the top of each market and empowering people to understand and own their career trajectory, we reinforce our commitment to excellence — building a truly high-performance global culture.

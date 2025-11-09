@@ -1,3 +1,0 @@
-# Confluence
-
-Our wiki acts as a single source of all knowledge for our organization which can be created, edited, and modified by any employee. Confluence functions as a central repository for managing and distributing all company knowledge and information. Here, all co-workers are responsible and accountable for storing internal documentation about company policies, processes, projects or products they are building, common workflows, procedure checklists, and more. We currently have Departments spaces composed of standard operation procedures, playbooks, how-to-guides and processes documentation, Teams spaces composed of operational artifacts and Divisions spaces hyperlinking all the content.
