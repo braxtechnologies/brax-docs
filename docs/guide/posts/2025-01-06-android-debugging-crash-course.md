@@ -12,6 +12,9 @@ tags:
   - development
   - adb
   - logcat
+
+---
+comments: true
 ---
 
 # Android Debugging Crash Course

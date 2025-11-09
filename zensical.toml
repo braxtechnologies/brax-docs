@@ -22,7 +22,7 @@ name = "material"
 language = "en"
 logo = "assets/images/logo.svg"
 favicon = "assets/images/favicon.ico"
-nav_order= ["Home", "Devices", "Manifesto", "Governance", "Bounties", "Careers", "Technical Partner Program", "Guide", "Events"]
+nav_order= ["Home", "Devices", "Manifesto", "Governance", "Bounties", "Careers", "Partners", "Guide", "Apps", "Brax Network", "Events", "Employee Handbook"]
 features = [
 "navigation.tabs",
 "navigation.instant",
@@ -132,6 +132,78 @@ code = "JetBrains Mono"
 [nav."Manifesto"]
 "" = "manifesto/index.md"
 
+[nav."Employee Handbook"]
+"Overview" = "Employee Handbook/index.md"
+
+[nav."Employee Handbook"."About Us"]
+"Vision, Mission & Focus" = "Employee Handbook/about-us/vision-mission-and-focus/index.md"
+"Vision" = "Employee Handbook/about-us/vision-mission-and-focus/vision.md"
+"Mission" = "Employee Handbook/about-us/vision-mission-and-focus/mission.md"
+"Pillars" = "Employee Handbook/about-us/vision-mission-and-focus/pillars.md"
+
+[nav."Employee Handbook"."How We Make Decisions"]
+"Strategy" = "Employee Handbook/how-we-make-decisions/strategy/index.md"
+"Context, not control" = "Employee Handbook/how-we-make-decisions/strategy/context-not-control.md"
+"Strategic management" = "Employee Handbook/how-we-make-decisions/strategy/strategic-management.md"
+"Culture code" = "Employee Handbook/how-we-make-decisions/strategy/culture-code.md"
+"Leadership" = "Employee Handbook/how-we-make-decisions/leadership/index.md"
+"Managers" = "Employee Handbook/how-we-make-decisions/leadership/managers.md"
+"Tech leads" = "Employee Handbook/how-we-make-decisions/leadership/tech-leads.md"
+"Traits of leadership" = "Employee Handbook/how-we-make-decisions/leadership/traits-of-leadership.md"
+"Leaders Performance" = "Employee Handbook/how-we-make-decisions/leadership/leaders-performance.md"
+"Team management" = "Employee Handbook/how-we-make-decisions/team-management/index.md"
+"Team Structure" = "Employee Handbook/how-we-make-decisions/team-management/team-structure-designed-for-success.md"
+"Effective Ceremonies" = "Employee Handbook/how-we-make-decisions/team-management/embracing-effective-ceremonies.md"
+"Strategic Sessions" = "Employee Handbook/how-we-make-decisions/team-management/strategic-sessions-empowering-innovation.md"
+
+[nav."Employee Handbook"."How We Build"]
+"Operations and roles" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-roles/index.md"
+"Growth and Complexity" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-roles/how-we-navigate-growth-and-complexity.md"
+"RACI & CODE-KS" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-roles/our-responsibility-assignment-matrixes-raci-and-code-ks.md"
+"Knowledge management" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/index.md"
+"Knowledge Categories" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/knowledge-categories.md"
+"Knowledge Accountability" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/knowledge-accountability-index.md"
+"Confluence" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/confluence.md"
+"Learning day" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/learning-day.md"
+"Knowledge Centricity" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/company-knowledge-centricity-level.md"
+"Realms" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/realms.md"
+"Engineering culture" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/index.md"
+"Team culture" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/team-culture.md"
+"Process and Roles" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/engineering-process-and-roles.md"
+"Team Events" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/team-events-and-processes/index.md"
+"Scrum Events" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/team-events-and-processes/scrum-events.md"
+"Ongoing Meetings" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/team-events-and-processes/ongoing-meetings.md"
+"Concepts" = "Employee Handbook/how-we-build-processes-and-a-great-product/engineering-culture/team-events-and-processes/concepts.md"
+
+[nav."Employee Handbook"."People Growth"]
+"Performance" = "Employee Handbook/how-we-ensure-peoples-growth/performance/index.md"
+"Paths" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/index.md"
+"IC Path" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/individual-contributors-path/index.md"
+"IC Levels" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/individual-contributors-path/individual-contributors-levels-software-engineering.md"
+"IC Steps" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/individual-contributors-path/individual-contributors-steps.md"
+"Management Path" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/management-path/index.md"
+"Level 1 Pace setters" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/management-path/level-1-our-pace-setters.md"
+"Level 2 Coaches" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/management-path/level-2-our-coaches.md"
+"Level 3 Visionaries" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/management-path/level-3-our-visionaries-and-servant-leaders.md"
+"Level 4 Leaders" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/management-path/level-4-our-transformational-leaders.md"
+"Key concepts" = "Employee Handbook/how-we-ensure-peoples-growth/performance/paths/management-path/key-concepts.md"
+"Performance evaluation" = "Employee Handbook/how-we-ensure-peoples-growth/performance/performance-evaluation.md"
+"360 Evaluation" = "Employee Handbook/how-we-ensure-peoples-growth/performance/360-evaluation-matrix.md"
+"K-POC" = "Employee Handbook/how-we-ensure-peoples-growth/performance/k-poc.md"
+"CAP" = "Employee Handbook/how-we-ensure-peoples-growth/performance/cap.md"
+"Golden Rules" = "Employee Handbook/how-we-ensure-peoples-growth/performance/management-model-golden-rules.md"
+"Compensation" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/index.md"
+"IC Frameworks" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/ic-frameworks/index.md"
+"MGT Frameworks" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/mgt-frameworks/index.md"
+"Empowering Growth" = "Employee Handbook/how-we-ensure-peoples-growth/empowering-growth-through-transparent-management-your-path-to-success.md"
+
+[nav."Employee Handbook"."Policies"]
+"Internal rules" = "Employee Handbook/policies/internal-rules/index.md"
+"Salaries" = "Employee Handbook/policies/salaries.md"
+"brax knowledge" = "Employee Handbook/policies/brax-knowledge.md"
+"Sources" = "Employee Handbook/policies/sources.md"
+"Glossary" = "Employee Handbook/policies/glossary.md"
+
 [nav."Governance"]
 "Overview" = "governance/index.md"
 
@@ -139,19 +211,16 @@ code = "JetBrains Mono"
 "Overview" = "governance/code-of-conduct/index.md"
 "Conflict Resolution" = "governance/code-of-conduct/conflict-resolution.md"
 
-[nav."Governance"."Companies"]
-"Brax Technologies" = "governance/Companies/BraxTechnologies.md"
-"Dynames IT" = "governance/Companies/DynamesIT.md"
-"Lunr Technologies" = "governance/Companies/Lunr Technologies.md"
+[nav."Governance"."Corporate Structure"]
+"" = "governance/Corporate Structure/index.md"
 
-[nav."Governance"."Environmental Impact"]
-"Overview" = "governance/Environmental Impact/index.md"
-
-[nav."Governance"."Social Impact"]
-"Overview" = "governance/Social Impact/index.md"
+[nav."Governance"."Social and Environmental Impact"]
+"" = "governance/Social and Environmental Impact/index.md"
 
 [nav."Governance"."Project Governance"]
 "Overview" = "governance/Project Governance/index.md"
+"Code of Conduct" = "governance/Project Governance/code_of_conduct.md"
+"Contributing" = "governance/Project Governance/contributing.md"
 
 [nav."Governance"."Management Model"]
 "Overview" = "governance/Management Model and Employee Handbook/index.md"
@@ -168,11 +237,26 @@ code = "JetBrains Mono"
 [nav."Careers"]
 "" = "careers/index.md"
 
-[nav."Technical Partner Program"]
-"" = "technical-partner-program/index.md"
+[nav."Partners"]
+"" = "partners/index.md"
 
 [nav."Guide"]
 "Guide" = "blog/index.md"
+
+[nav."Apps"]
+"Overview" = "apps/index.md"
+"Brax Chat" = "apps/brax-chat.md"
+"Brax Vault" = "apps/brax-vault.md"
+"APK Station" = "apps/apk-station.md"
+
+[nav."Brax Network"]
+"Overview" = "brax-network/index.md"
+"Overview Details" = "brax-network/overview.md"
+"Architecture" = "brax-network/architecture.md"
+"Deployment" = "brax-network/deployment.md"
+"Security & Privacy" = "brax-network/security.md"
+"Compliance" = "brax-network/compliance.md"
+"Roadmap" = "brax-network/roadmap.md"
 
 [nav."Events"]
 "Overview" = "events/index.md"
