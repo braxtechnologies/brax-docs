@@ -26,12 +26,20 @@ coverY: 0
 2. 🧩 **Growth adds complexity** → More teams, more dependencies, more coordination
 3. 💥 **Chaos emerges** → Things break, confusion spreads, productivity drops
 4. 📋 **Bureaucracy enters** → Processes, approvals, committees, endless meetings
-5. 🚻 **Talent leaves** → The best people don’t stick around for red tape
+5. 🚻 **Talent leaves** → The best people don't stick around for red tape
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="../../../assets/images/complexity.png" alt="Business complexity visualization" width="400" />
+</div>
 
 <div style="background: #ffebee; border-left: 4px solid #d32f2f; padding: 1rem; border-radius: 6px; margin: 1.5rem 0;">
   <p style="margin: 0; line-height: 1.6;">
     <strong>⚠️ The problem:</strong> Bureaucracy stops chaos temporarily, but it also stops innovation. You trade speed for control—and lose your edge.
   </p>
+</div>
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="../../../assets/images/business complexity.png" alt="Business complexity with bureaucracy" width="500" />
 </div>
 
 ---
@@ -65,6 +73,10 @@ coverY: 0
   </p>
 </div>
 
+</div>
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="../../../assets/images/procedure.png" alt="Our informal procedure approach" width="400" />
 </div>
 
 ---
