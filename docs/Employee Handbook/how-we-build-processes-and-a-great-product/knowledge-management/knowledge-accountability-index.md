@@ -1,4 +1,4 @@
-# Knowledge Accountability Index (KAI)
+# 📊 Knowledge Accountability Index (KAI)
 
 <figure><img src="/assets/images/kai.png" alt="Knowledge Accountability Index"><figcaption>The Knowledge Accountability Index framework</figcaption></figure>
 

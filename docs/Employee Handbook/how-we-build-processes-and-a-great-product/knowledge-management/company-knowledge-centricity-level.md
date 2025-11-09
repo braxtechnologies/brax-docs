@@ -1,4 +1,4 @@
-# Company Knowledge Centricity Level
+# 📈 Company Knowledge Centricity Level
 
 > **TL;DR:** We measure how well knowledge flows at brax. We're currently at Grades 2-3, aiming for Grade 5 by next year—where finding and sharing information becomes effortless.
 
