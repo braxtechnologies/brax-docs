@@ -164,26 +164,6 @@ hide:
   </div>
 </div>
 
-## Highlighted Event
-
-<div class="event-grid highlighted">
-  <div class="card">
-    <img src="../assets/images/opensource-experience-logo.png" alt="Open Source Experience" class="event-logo" />
-    <h3>Open Source Experience 2025</h3>
-    <span class="meta">Paris, France · November 2025</span>
-    <p>Join the leading European open source event bringing together developers, decision-makers, and innovators. Discover the latest in open source technologies, cloud computing, digital sovereignty, and sustainable IT solutions.</p>
-    <a class="cta secondary" href="https://www.opensource-experience.com/" target="_blank" rel="noopener">Learn more</a>
-  </div>
-  <div class="card list-card">
-    <h3>Why attend?</h3>
-    <ul>
-      <li><strong>Hands-on labs</strong><span> Learn how to flash and get to see the latest Brax Hardware.</span></li>
-      <li><strong>Meet the builders</strong><span> Chat with the engineers and maintainers behind BraX3.</span></li>
-      <li><strong>Community showcase</strong><span> Discover partner ROMs and privacy projects in the expo space.</span></li>
-    </ul>
-  </div>
-</div>
-
 ## Guide
 
 <div class="event-grid">
