@@ -1,4 +1,4 @@
-# Brax Vault
+# 🔒 Brax Vault
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# We Are Here to Fix Mobile Tech
+# ⚖️ We Are Here to Fix Mobile Tech
 
 &nbsp;
 

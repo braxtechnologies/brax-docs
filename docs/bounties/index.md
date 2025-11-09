@@ -1,4 +1,4 @@
-# Bounties
+# 💰 Bounties
 
 Welcome to the Brax Technologies Bounties program.
 

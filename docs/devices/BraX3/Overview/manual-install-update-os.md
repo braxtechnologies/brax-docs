@@ -1,4 +1,4 @@
-# How to Manually Install or Update Your OS on Your BraX3
+# 📥 How to Manually Install or Update Your OS on Your BraX3
 
 This guide will walk you through the process of manually installing or updating the OS on your BraX3 device. While this is considered an advanced modification, we're sharing a simple how-to guide which can be used by a wider audience to achieve their goal.
 

@@ -1,4 +1,4 @@
-# Community Events
+# 👥 Community Events
 
 Join us for community-organized events, meetups, and gatherings focused on privacy, open source, and the Brax ecosystem.
 

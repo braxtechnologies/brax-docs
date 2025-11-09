@@ -1,4 +1,4 @@
-# Projects
+# 📦 Projects
 
 Explore our open-source projects built with privacy, security, and user freedom in mind.
 

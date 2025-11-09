@@ -1,4 +1,4 @@
-# Security & Privacy
+# 🔒 Security & Privacy
 
 | Layer | Security Feature | Description |
 |------|-------------------|-------------|

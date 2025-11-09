@@ -1,4 +1,4 @@
-# Deployment
+# ☁️ Deployment
 
 | Mode | Description | Example |
 |------|-------------|---------|

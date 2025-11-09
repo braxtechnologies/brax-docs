@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# Welcome
+# 🏠 Welcome
 
 <style>
   .hero-container {

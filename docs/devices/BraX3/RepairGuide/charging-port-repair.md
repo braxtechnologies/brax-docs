@@ -1,4 +1,4 @@
-# Charging Port Repair
+# 🔌 Charging Port Repair
 
 Guide for fixing or replacing the USB‑C charging port.
 

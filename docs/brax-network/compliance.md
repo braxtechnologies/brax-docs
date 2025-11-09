@@ -1,4 +1,4 @@
-# Compliance
+# ✅ Compliance
 
 Brax Network aligns with:
 - **GDPR (Articles 5 & 25)** – Data Protection by Design

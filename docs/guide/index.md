@@ -1,4 +1,4 @@
-# Technical Blog
+# 📚 Technical Blog
 
 Welcome to the Brax Technologies Technical Blog. Here we share insights, tutorials, and updates about our open-source projects and technologies.
 

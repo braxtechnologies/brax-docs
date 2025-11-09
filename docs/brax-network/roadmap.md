@@ -1,4 +1,4 @@
-# Roadmap
+# 🗺️ Roadmap
 
 - 🛰 **Brax Mesh** – Peer‑to‑peer encrypted discovery & location sharing
 - 🔏 **Post‑Quantum Crypto** – Kyber & Dilithium support

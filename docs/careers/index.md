@@ -1,4 +1,4 @@
-# Careers at Brax Technologies
+# 💼 Careers at Brax Technologies
 
 Join our mission to bring privacy-first, open-source mobile technology to the world.
 

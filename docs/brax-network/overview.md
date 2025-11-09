@@ -1,4 +1,4 @@
-# Overview
+# 📋 Overview
 
 Brax Network provides secure, stateless communication and core network services — **without tracking, logging, or user identification**.
 

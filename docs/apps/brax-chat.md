@@ -1,4 +1,4 @@
-# Brax Chat
+# 💬 Brax Chat
 
 ## Overview
 

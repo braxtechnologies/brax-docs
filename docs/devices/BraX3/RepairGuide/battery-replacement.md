@@ -1,4 +1,4 @@
-# Battery Replacement
+# 🔋 Battery Replacement
 
 Step-by-step guide for replacing the battery.
 
