@@ -235,8 +235,6 @@ hide:
 
 ## Stay Updated
 
-- Subscribe to the Brax Community Dispatch for release notes, event recaps, and contributor spotlights.
-- Join the weekly community call for Q&A with product, hardware, and security leads.
-- Follow us on Matrix, Mastodon, and Brax Community forums for daily discussions.
+Join the [BraXTech community](https://community.braxtech.net/) to connect with users, developers, and privacy advocates. Get support, share ideas, participate in discussions, and stay informed about releases, events, and project updates.
 
 > "We build, learn, and ship together—because privacy, openness, and user choice thrive in community."
