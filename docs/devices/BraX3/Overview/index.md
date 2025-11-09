@@ -28,21 +28,21 @@ The **BraX3** is Brax Technologies' flagship secure smartphone, meticulously eng
 
 | Category | Specification |
 |----------|---------------|
-| **Display** | 6.5" FHD+ AMOLED, 2400×1080, 90Hz |
-| **Processor** | MediaTek Dimensity 900 5G |
+|| **Display** | 6.56" HD+ IPS, 90Hz, 840 nits (HBM), ~83.7% screen-to-body |
+|| **Processor** | MediaTek Dimensity 6300 (6 nm); Octa-core (2×2.4 GHz Cortex‑A76 + 6×2.0 GHz Cortex‑A55); Mali‑G57 MC2 |
 | **RAM** | 8GB LPDDR4X |
-| **Storage** | 128GB/256GB UFS 2.2 (expandable via microSD) |
-| **Battery** | 5000mAh, 33W fast charging |
-| **Rear Camera** | 64MP main + 8MP ultra-wide + 2MP macro |
-| **Front Camera** | 16MP |
-| **Operating System** | Multi-OS support (AOSP, BraxOS, LineageOS, etc.) |
-| **Connectivity** | 5G, WiFi 6, Bluetooth 5.2, NFC |
+|| **Storage** | 256GB (microSD up to 512GB; shared SIM slot) |
+|| **Battery** | 5,000 mAh; 10W USB‑C wired |
+|| **Rear Cameras** | 50 MP main + 2 MP secondary |
+|| **Front Camera** | 5 MP |
+|| **Operating System** | Multi-OS support (AOSP, BraxOS, LineageOS, iodéOS, Ubuntu Touch, etc.) |
+|| **Connectivity** | 5G/4G/3G/2G; Wi‑Fi 5 (802.11ac), Bluetooth 5.2, NFC, 3.5mm; eSIM + Dual SIM |
 | **Security** | Side-mounted fingerprint, Face unlock |
 | **Bootloader** | Unlockable |
 | **Ports** | USB-C, 3.5mm headphone jack |
-| **Dimensions** | 164.5 × 76.6 × 8.9 mm |
-| **Weight** | 195g |
-| **Build** | Gorilla Glass front, aluminum frame |
+|| **Dimensions** | 167.9 × 76.8 × 8.94 mm |
+|| **Weight** | 192 g |
+|| **Certifications** | CE, FCC, RoHS |
 
 ---
 
