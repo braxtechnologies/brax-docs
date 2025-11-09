@@ -37,7 +37,7 @@
 
 Understanding how we reach customers, communicate value, and build brand. Covers positioning, campaigns, channels, analytics, and growth strategies.
 
-<div><figure><img src="/assets/images/Marketing_Destinations_Realm.png" alt="Marketing Destinations Realm"><figcaption></figcaption></figure> <figure><img src="/assets/images/Marketing_Strategy_and_Concepts.png" alt="Marketing Strategy and Concepts"><figcaption></figcaption></figure></div>
+<div><figure><img src="/assets/images/marketing-realm.png" alt="Marketing Realm"><figcaption></figcaption></figure> <figure><img src="/assets/images/marketing-realm-2.png" alt="Marketing Strategy and Concepts"><figcaption></figcaption></figure></div>
 
 ---
 
@@ -45,7 +45,7 @@ Understanding how we reach customers, communicate value, and build brand. Covers
 
 Identifying and capturing new opportunities. Includes partnerships, channel strategy, deal structures, and competitive positioning.
 
-<figure><img src="/assets/images/BDev_Realm.png" alt="Business Development Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/businessdev-realm.png" alt="Business Development Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -53,7 +53,7 @@ Identifying and capturing new opportunities. Includes partnerships, channel stra
 
 Supporting users post-sale. Covers ticketing, SLAs, escalation paths, customer success, retention, and account growth.
 
-<figure><img src="/assets/images/Customer_Service_TAM_Realm (1).png" alt="Customer Service Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/custome-service-realm.png" alt="Customer Service Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -61,7 +61,7 @@ Supporting users post-sale. Covers ticketing, SLAs, escalation paths, customer s
 
 Defining what to build and why. Includes user research, roadmapping, prioritization, feature specs, and go-to-market.
 
-<figure><img src="/assets/images/Product_Mgt_Realm.png" alt="Product Management Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Product-Management-Realm.png" alt="Product Management Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -69,7 +69,7 @@ Defining what to build and why. Includes user research, roadmapping, prioritizat
 
 Delivering work on time and on budget. Covers planning, estimation, risk management, stakeholder communication, and execution.
 
-<figure><img src="/assets/images/PM_Realm.png" alt="Project Management Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Project-Management-Realm.png" alt="Project Management Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -77,7 +77,7 @@ Delivering work on time and on budget. Covers planning, estimation, risk managem
 
 Building reliable, scalable systems. Includes architecture, code quality, testing, CI/CD, observability, and technical debt management.
 
-<figure><img src="/assets/images/Soft_Eng_Realm.png" alt="Software Engineering Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Software-Engineering-Realm.png" alt="Software Engineering Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -85,7 +85,7 @@ Building reliable, scalable systems. Includes architecture, code quality, testin
 
 Bridging product vision and engineering execution. Covers backlog management, sprint planning, acceptance criteria, and stakeholder alignment.
 
-<figure><img src="/assets/images/Product_Mgt_Realm (1).png" alt="Product Owner Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Product-Management-Realm.png" alt="Product Owner Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -93,7 +93,7 @@ Bridging product vision and engineering execution. Covers backlog management, sp
 
 Protecting systems, data, and users. Includes threat modeling, incident response, compliance, encryption, and privacy-by-design.
 
-<figure><img src="/assets/images/Information_Security_Realm.png" alt="Information Security Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Information-Security-Realm.png" alt="Information Security Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -101,7 +101,7 @@ Protecting systems, data, and users. Includes threat modeling, incident response
 
 Producing hardware at scale. Covers sourcing, assembly, QA, logistics, and vendor management.
 
-<figure><img src="/assets/images/Manufacturing_Realm (1).png" alt="Manufacturing Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Manufacturing-Realm.png" alt="Manufacturing Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -109,7 +109,7 @@ Producing hardware at scale. Covers sourcing, assembly, QA, logistics, and vendo
 
 Hiring, developing, and retaining talent. Includes recruiting, onboarding, performance management, compensation, and culture.
 
-<figure><img src="/assets/images/HR_Realm.png" alt="HR Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/HR-Realm.png" alt="HR Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -117,7 +117,7 @@ Hiring, developing, and retaining talent. Includes recruiting, onboarding, perfo
 
 Getting products from factory to customer. Covers inventory, fulfillment, shipping, and reverse logistics.
 
-<figure><img src="/assets/images/HR_Realm (1).png" alt="Supply Chain Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Supply-Chain-Realm.png" alt="Supply Chain Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -125,7 +125,7 @@ Getting products from factory to customer. Covers inventory, fulfillment, shippi
 
 Managing money and forecasting growth. Includes budgeting, reporting, cash flow, revenue ops, and compliance.
 
-<figure><img src="/assets/images/Finance_Realm.png" alt="Finance Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Finance-Realm.png" alt="Finance Realm"><figcaption></figcaption></figure>
 
 ---
 
@@ -133,7 +133,7 @@ Managing money and forecasting growth. Includes budgeting, reporting, cash flow,
 
 Helping users troubleshoot and resolve issues. Covers diagnostics, documentation, ticket triage, and escalation.
 
-<figure><img src="/assets/images/Technical_Support_Realm.png" alt="Technical Support Realm"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/Technical-Support-Realm.png" alt="Technical Support Realm"><figcaption></figcaption></figure>
 
 ---
 
