@@ -30,5 +30,7 @@ However, we understand that this journey cannot be traveled alone. We seek out i
 
 **Do's and Dont's at brax**
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/appqJtye5H41Bn5vS/shrRtXfnIfeuk5eLS?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 at 12.18.33.png" alt=""><figcaption></figcaption></figure>
 

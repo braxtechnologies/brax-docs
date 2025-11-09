@@ -1,21 +1,51 @@
-# Knowledge Accountability Index
+# Knowledge Accountability Index (KAI)
 
-We believe **high-performance is all about accountability:** and that includes accountability in knowledge. Once information is systemized and available to all, it becomes measurable and this allows it to be considered within the employees’ performances. In order to manage the existing knowledge in the company and to promote such accountability, we created a **Knowledge Accountability Index a.k.a. KAI.**
+<figure><img src="/assets/images/kai.png" alt="Knowledge Accountability Index"><figcaption>The Knowledge Accountability Index framework</figcaption></figure>
 
-To help us measure competency in a skill, the i**ndex describes the grades of everyone’s ability and competency in a specific occupation.** It is **separated into six grades**, each outlining the capabilities and value to be delivered by the person, and allowing them to plan their learning journey. These range **from “Fundamental awareness” to “Expert”**. The index can be used by an individual to compare their current level of proficiency to top performers in the same occupation and it enables us to:
+> **Core belief:** High performance is all about accountability—and that includes accountability in knowledge.
 
-* Centralize effort to understand technology trends from a holistic view
-* Define knowledge as a key component in high performance
-* Anticipate and adapt to changes in external/internal environments to obtain/retain a competitive advantage in a quantifiable structure
+---
 
-It's clear that the effective management of knowledge aids competitive advantage. When people are accountable for knowledge it can be shared more efficiently and productively. We have put in place systems and good processes to achieve this so armed with knowledge, our employees are better able to innovate in their work.\
+## 🎯 What Is KAI?
 
+The **Knowledge Accountability Index (KAI)** is our framework for making knowledge measurable and actionable. Once information is systematized and available to everyone, we can measure it—and that means we can include it in performance evaluations.
 
-### Knowledge Grade Description
+### How It Works
 
-This scale serves as the guide to understanding the expected proficiency in each grade.
+KAI describes **six grades of ability and competency** for any specific skill or occupation:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 at 13.03.58.png" alt=""><figcaption></figcaption></figure>
+- 📊 Ranges from **"Fundamental Awareness"** to **"Expert"**
+- 🗺️ Helps you plan your learning journey
+- 📈 Lets you compare your proficiency to top performers
+- 🎓 Outlines the capabilities and value expected at each level
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 at 13.05.44.png" alt=""><figcaption></figcaption></figure>
+---
 
+## 💪 Why This Matters
+
+KAI enables us to:
+
+✅ **Centralize understanding** → Get a holistic view of technology trends and capabilities  
+✅ **Define knowledge as performance** → Make knowledge a key component of high performance  
+✅ **Stay competitive** → Anticipate and adapt to changes with a quantifiable structure  
+
+---
+
+## 🚀 The Impact
+
+**When people are accountable for knowledge, magic happens:**
+
+- Knowledge gets shared more efficiently and productively
+- Teams have the context they need to innovate
+- We maintain competitive advantage through smarter, faster execution
+- Everyone knows exactly what's expected at their level
+
+With the right systems and processes in place, our employees are better equipped to do groundbreaking work.
+
+---
+
+## 📊 Knowledge Grade Description
+
+**This scale guides you through the expected proficiency at each grade:**
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appqJtye5H41Bn5vS/shrhylDxsDAkBm2gH?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

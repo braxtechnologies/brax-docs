@@ -31,7 +31,6 @@ features = [
 "navigation.tracking",
 "navigation.tabs.sticky",
 "navigation.sections",
-"navigation.path",
 "navigation.footer",
 "content.action.edit", # Edit this page
 "content.action.view"  # View source of this page

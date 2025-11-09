@@ -3,14 +3,95 @@ cover: ../../.gitbook/assets/8.png
 coverY: 0
 ---
 
-# 📚 Knowledge management
+# 📚 Knowledge Management Policy
 
-Our knowledge management strategy enables our organization to create, apply, and share information, breaking down silos and increasing the usage of valuable data.
+> **Our philosophy:** We treat knowledge like a product. It should be easy to find, easy to use, and constantly improving.
 
-We developed a **culture in which people feel independent and autonomous when working.** We believe traditional rigid management structures do not create a supportive environment, but cause unnecessary stress and distracts employees, which jeopardizes performance. Because of that, **we respect our people's skills and knowledge and support them to pursue the company’s goals in their own way.** This mutual respect between parties is essential to our Knowledge Management strategy and we can only afford this level of trust in our people if we know they are fully capable of doing their work and can fill any knowledge gaps quickly and efficiently.
+---
 
-It's a no-brainer that **knowledge enables us to grow and innovate**. But, it's a fact also that this is easier said than done. Before we reached our ideal Knowledge Management strategy, we faced some problems as the old way we managed information at was inefficient. Information was shared in a fragmented way, through email and messaging apps. When people needed information, they’d go to an expert and ask them, which not only wasted time but would only benefit one person. It was difficult for the person to retain the new information, especially if it was shared in passing conversation or buried among emails. The process was also not being overseen, so embellishments and inaccuracies could slip through, which could jeopardize the information. Finally, when a knowledge gap formed, we had no way to fill it, as the one-to-one nature of knowledge sharing was impossible to scale, and the gap would remain.
+## 🎯 The Goal
 
-After learning from these past mistakes, we then decided where knowledge should NOT be. We realized our **knowledge should be easily accessible by our employees.** It should not be stuck in someone’s head, where it is of no use to anyone but the person - it would even be unhelpful since people would constantly interrupt their work with questions. It should also not be chaotically thrown around emails and messages, where it is impossible to track and collect. Nor should it be dumped in guides and manuals and be forgotten about, becoming obsolete and misleading.
+People do their best work when they aren't blocked by missing context. Our approach ensures the right answers live in the right place—so you don't have to:
 
-To ensure the effectiveness of our knowledge management strategy we also defined knowledge sharing as criteria in the Levels of our Frameworks so to progress with us, individuals must demonstrate the capability of sharing knowledge in a structured way.
+- ❌ DM an expert for basic info
+- ❌ Dig through old email threads
+- ❌ Recreate work that's already been done
+
+---
+
+## ❌ What Didn't Work
+
+**The old way created chaos:**
+
+| Problem | Impact |
+|---------|--------|
+| 💬 Information scattered across chats | Hard to find answers |
+| 🧠 Knowledge trapped in people's heads | Doesn't scale, creates bottlenecks |
+| 🔄 Facts drift without single source of truth | Conflicting information, mistakes |
+
+**Result:** Duplicate work, slow onboarding, avoidable mistakes.
+
+---
+
+## ✅ What We Do Instead
+
+### Our Four Pillars
+
+📝 **Write it down** → Default to written, searchable docs  
+🗂 **Organize smartly** → Structure by audience and purpose (how-to, decisions, reference)  
+👥 **Assign ownership** → Every page has an owner; stale content gets flagged  
+🌐 **Share by default** → Public inside the company (sensitive docs clearly marked)
+
+---
+
+## 🤝 Culture Over Control
+
+**We optimize for autonomy, not gatekeeping.**
+
+- People are trusted to act with good judgment
+- Sharing knowledge is part of everyone's job
+- Capturing what you learn helps the whole team move faster
+
+---
+
+## 📊 Clear Expectations
+
+Knowledge sharing is built into our growth frameworks. **To progress, you don't just ship—you also:**
+
+✅ Document your decisions  
+✅ Write how-to guides  
+✅ Improve existing documentation  
+
+---
+
+## 🏠 Where Knowledge Lives
+
+<div style="display: flex; gap: 2rem; margin: 1rem 0;">
+
+### ✅ SHOULD Live Here
+- Our central docs platform
+- Clear titles and tags
+- Assigned owners
+- Searchable format
+
+### ❌ SHOULD NOT Live Here
+- Only in someone's head
+- Buried in chat threads
+- Forgotten PDF files
+- Random email attachments
+
+</div>
+
+---
+
+## 🔄 Keeping It Fresh
+
+**Our maintenance strategy:**
+
+📅 **Track freshness** → "Last reviewed" date and owner on every page  
+📝 **Record decisions** → Document major choices (what we decided and why)  
+🗁️ **Clean up regularly** → Archive or merge outdated pages (don't let them rot)
+
+---
+
+> 💡 **The payoff:** Good documentation reduces meetings, speeds up onboarding, and lets experts focus on hard problems—not repeating the same answers over and over.

@@ -159,7 +159,7 @@ hide:
       </p>
     </div>
     <div class="community-hero">
-      <img src="../assets/images/community-hero.svg" alt="BraX3: Privacy, done better - Secure & private mobile technology from Brax Technologies" />
+      <img src="../assets/images/1.jpg" alt="BraX3: Privacy, done better - Secure & private mobile technology from Brax Technologies" />
     </div>
   </div>
 </div>
