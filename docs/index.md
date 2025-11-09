@@ -168,7 +168,7 @@ hide:
 
 <div class="event-grid highlighted">
   <div class="card">
-    <img src="../assets/images/opensource-experience-logo.png" alt="Open Source Experience" class="event-logo" />
+    <img src="../assets/images/opensourceexp.jpg" alt="Open Source Experience" class="event-logo" />
     <h3>Open Source Experience 2025</h3>
     <span class="meta">Paris, France · November 2025</span>
     <p>Join the leading European open source event bringing together developers, decision-makers, and innovators. Discover the latest in open source technologies, cloud computing, digital sovereignty, and sustainable IT solutions.</p>
