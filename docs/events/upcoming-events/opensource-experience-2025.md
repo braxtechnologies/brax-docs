@@ -6,13 +6,12 @@ tags:
 
 # 🎪 Open Source Experience 2025 - Paris
 
-<img src="../assets/images/opensource-experience-logo.png" alt="Open Source Experience" style="max-width: 200px; margin-bottom: 2rem;" />
+<img src="../../assets/images/opensourceexp.jpg" alt="Open Source Experience" style="max-width: 200px; margin-bottom: 2rem;" />
 
 ## Event Details
 
-**Date**: November 2025  
-**Location**: Paris, France  
-**Website**: [opensource-experience.com](https://www.opensource-experience.com/)
+**Date**: 10 & 11 December 2025 
+**Details**: [opensource-experience.com](https://opensource.braxtech.net/events/upcoming-events/opensource-experience-2025/)
 
 ## About Open Source Experience
 
