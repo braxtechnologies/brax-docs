@@ -6,7 +6,7 @@ tags:
 
 # 🎪 Open Source Experience 2025 - Paris
 
-<img src="/assets/images/opensourceexp.jpg" alt="Open Source Experience" style="max-width: 200px; margin-bottom: 2rem;" />
+<img src="/assets/images/opensourceexp.jpg" alt="Open Source Experience" style="max-width: 500px; margin-bottom: 2rem;" />
 
 ## Event Details
 
