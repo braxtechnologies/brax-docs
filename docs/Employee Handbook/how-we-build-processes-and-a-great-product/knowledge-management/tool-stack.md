@@ -163,6 +163,10 @@
 
 ## 🔄 Decision Process
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/images/tool-stack-flowchart.png" alt="Tool Stack Decision Flowchart" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #667eea; margin-bottom: 2rem;">
   <ol style="line-height: 1.8; margin: 0; padding-left: 1.5rem;">
     <li><strong>Propose:</strong> Engineer or team identifies a need.</li>
