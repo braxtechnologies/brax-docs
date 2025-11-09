@@ -150,12 +150,12 @@ hide:
 <div class="hero-container">
   <div class="hero-content">
     <div class="project-intro">
-      <h2>Brax Open Source Community</h2>
+      <h2>Brax Docs — build, repair, and secure your BraX devices</h2>
       <p>
-        We are an international community with a mission to bring free software to the widest possible audience. Our name "Brax" means "humanity towards others". Join us and share in our mission to bring open-source mobile technology to the entire world!
+        This is the official documentation for the BraX ecosystem. Find step‑by‑step device guides (unlock, install, repair), supported OS installs for BraX3, and best practices for privacy‑first Android.
       </p>
       <p>
-        Welcome to the Brax Open Source Documentation Hub—a comprehensive resource for developers, contributors, and enthusiasts working with Brax Technologies devices and operating systems. From detailed device guides to in-depth technical articles on Android development, security, and firmware.
+        New here? Start with <a href="devices/">Devices</a>, explore the <a href="brax-network/">Brax Network</a> services, read our <a href="guide/">technical blog</a>, or learn how we work in the <a href="Employee%20Handbook/">Employee Handbook</a>.
       </p>
     </div>
     <div class="community-hero">
