@@ -1,4 +1,4 @@
-# Button Replacement
+# ⏺️ Button Replacement
 
 Instructions for replacing power, volume, or other physical buttons.
 

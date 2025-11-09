@@ -6,7 +6,7 @@ This directory contains the dev container configuration for the BRAX Management 
 
 - **Python 3.12** environment
 - **Git** and **GitHub CLI** pre-installed
-- **MkDocs** and all project dependencies
+- **zensical** and all project dependencies
 - Pre-configured VS Code extensions for Markdown editing:
   - Markdown All in One
   - Markdown Lint
@@ -30,23 +30,23 @@ This directory contains the dev container configuration for the BRAX Management 
 3. Wait for the container to build and start (first time may take a few minutes)
 4. Once ready, you'll have a fully configured development environment!
 
-### Running MkDocs
+### Running zensical
 
-Once inside the container, you can run MkDocs commands:
+Once inside the container, you can run zensical commands:
 
 ```bash
 # Start the development server
-mkdocs serve
+zensical serve
 
 # Build the documentation
-mkdocs build
+zensical build
 ```
 
-The MkDocs development server will be available at `http://localhost:8000` and will automatically reload when you make changes.
+The zensical development server will be available at `http://localhost:8000` and will automatically reload when you make changes.
 
 ## Port Forwarding
 
-Port `8000` is automatically forwarded, so you can access the MkDocs dev server from your browser at `http://localhost:8000`.
+Port `8000` is automatically forwarded, so you can access the zensical dev server from your browser at `http://localhost:8000`.
 
 ## Troubleshooting
 

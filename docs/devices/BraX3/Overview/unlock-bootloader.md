@@ -1,4 +1,4 @@
-# How to Unlock the Bootloader of your BraX3
+# 🔓 How to Unlock the Bootloader of your BraX3
 
 Unlocking your BraX3 bootloader gives you full access to the system and allows advanced operations like flashing custom ROMs, rooting, or performing deep-level maintenance. This guide will walk you through the official unlock method for BraX3.
 

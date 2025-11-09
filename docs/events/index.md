@@ -1,4 +1,4 @@
-# Events
+# 📅 Events
 
 Stay connected with Brax Technologies through our community events, workshops, and meetups.
 

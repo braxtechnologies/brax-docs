@@ -1,10 +1,10 @@
-click==8.2.1
-mkdocs-material
-mkdocs-minify-plugin
-mkdocs-git-revision-date-localized-plugin
-mkdocs-glightbox
-mkdocs-alias-plugin
-mkdocs-categories-plugin
-mkdocs-live-edit-plugin
+# Zensical - Modern static site generator by Material for MkDocs creators
+# Note: Zensical is currently in alpha (0.0.x)
+zensical>=0.0.5
+
+# Core dependencies (most are included with Zensical)
+click>=8.1.8
+pymdown-extensions>=10.15
+
+# Additional tooling
 linkchecker
-mkdocs-pdf

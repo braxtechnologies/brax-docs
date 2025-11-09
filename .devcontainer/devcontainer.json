@@ -51,7 +51,7 @@
   ],
   "portsAttributes": {
     "8000": {
-      "label": "MkDocs Dev Server",
+      "label": "Zensical Dev Server",
       "onAutoForward": "notify"
     }
   },

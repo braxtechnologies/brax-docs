@@ -7,7 +7,7 @@ venv/
 .idea
 .venv/
 
-# MkDocs build output
+# Zensical build output
 site/
 
 # VSCode
@@ -20,5 +20,8 @@ Thumbs.db
 # Logs
 *.log
 
+.zensical-quickstart.md
+WARP.md
+ZENSICAL_MIGRATION.md
 
 tmp

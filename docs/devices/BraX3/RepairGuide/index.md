@@ -1,4 +1,4 @@
-# BraX3 Repair Guide
+# 🔧 BraX3 Repair Guide
 
 Welcome to the BraX3 repair guide. This section provides instructions for common repairs and maintenance procedures for your BraX3 device.
 

@@ -1,10 +1,11 @@
 ---
-# markdownlint-disable-file MD041 MD007 MD032
+
 hide:
   - navigation
+  - toc
 ---
 
-# Brax Open Source Community Hub and Developers Resources
+# 🏠 Welcome
 
 <style>
   .hero-container {
@@ -149,12 +150,12 @@ hide:
 <div class="hero-container">
   <div class="hero-content">
     <div class="project-intro">
-      <h2>Brax Open Source Community</h2>
+      <h2>Brax Technologies Documentation</h2>
       <p>
-        We are an international community with a mission to bring free software to the widest possible audience. Our name "Brax" means "humanity towards others". Join us and share in our mission to bring open-source mobile technology to the entire world!
+        Your complete resource for BraX devices, privacy-first mobile technology, and open-source operating systems. Whether you're unlocking your BraX3, installing a custom ROM, or exploring our secure network services, you'll find the guides and technical documentation you need.
       </p>
       <p>
-        Welcome to the Brax Open Source Documentation Hub—a comprehensive resource for developers, contributors, and enthusiasts working with Brax Technologies devices and operating systems. From detailed device guides to in-depth technical articles on Android development, security, and firmware.
+        Get started with our <strong>device guides</strong>, explore <strong>supported operating systems</strong>, learn about <strong>Brax Network</strong>, or dive into our <strong>technical blog</strong> covering Android development, security, and firmware topics.
       </p>
     </div>
     <div class="community-hero">
@@ -183,7 +184,7 @@ hide:
   </div>
 </div>
 
-## Technical Blog
+## Guide
 
 <div class="event-grid">
   <div class="card">

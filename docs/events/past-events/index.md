@@ -1,4 +1,4 @@
-# Past Events
+# 📚 Past Events
 
 Welcome to our archive of past events where Brax Technologies has participated or hosted.
 
