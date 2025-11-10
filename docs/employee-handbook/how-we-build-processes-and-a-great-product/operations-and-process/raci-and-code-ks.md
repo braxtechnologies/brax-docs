@@ -19,7 +19,9 @@ The RACI matrix is a snapshot of all the roles within a cross-department process
 The CODE-KS matrix is used for in-department processes and it defines the accountability of each team member in every part of every process. An employee can be accountable for the process:
 
 <div align="center" style="margin: 2rem 0;">
-  <img src="/assets/images/code-ks.png" alt="CODE-KS Matrix" width="600" />
+  <a href="/assets/images/code-ks.png" target="_blank">
+    <img src="/assets/images/code-ks.png" alt="CODE-KS Matrix" width="600" style="cursor: pointer;" />
+  </a>
 </div>
 
 &#x20;
