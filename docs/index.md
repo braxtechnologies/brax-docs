@@ -208,7 +208,7 @@ hide:
 ## Video Tutorials
 
 <div class="video-container">
-  <iframe src='https://widgets.sociablekit.com/youtube-playlist-videos/iframe/25619455' frameborder='0' width='100%' height='250'></iframe>
+  <iframe src='https://widgets.sociablekit.com/youtube-playlist-videos/iframe/25619455' frameborder='0' width='100%' height='270'></iframe>
 </div>
 
 ## Learn More
