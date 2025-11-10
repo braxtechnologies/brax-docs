@@ -5,7 +5,7 @@ To **maintain clarity and accountability**, we utilize the **RACI matrix for cro
 ### RACI MATRIX
 
 <div align="center" style="margin: 2rem 0;">
-  <img src="../../../assets/images/raci.png" alt="RACI Matrix" width="500" />
+  <img src="/assets/images/raci.png" alt="RACI Matrix" width="500" />
 </div>
 
 The RACI matrix is a snapshot of all the roles within a cross-department process. It allows us to track accountability and visualize who is responsible for tasks and make sure all assignments are running effectively. This way every member of a project can be informed and easily updated on the progress. It usually contains only 4 roles people can be assigned to, but in brax we have 6. They are:
@@ -19,7 +19,7 @@ The RACI matrix is a snapshot of all the roles within a cross-department process
 The CODE-KS matrix is used for in-department processes and it defines the accountability of each team member in every part of every process. An employee can be accountable for the process:
 
 <div align="center" style="margin: 2rem 0;">
-  <img src="../../../assets/images/code-ks.png" alt="CODE-KS Matrix" width="600" />
+  <img src="/assets/images/code-ks.png" alt="CODE-KS Matrix" width="600" />
 </div>
 
 &#x20;
