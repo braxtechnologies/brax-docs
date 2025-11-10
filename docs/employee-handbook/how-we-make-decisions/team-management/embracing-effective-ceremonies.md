@@ -1,4 +1,4 @@
-# Embracing Effective Ceremonies
+# 🔄 Embracing Effective Ceremonies
 
 ## Overview
 
