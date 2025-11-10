@@ -60,6 +60,8 @@
 
 </div>
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/appqJtye5H41Bn5vS/shrvjYS925sg72rme?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ---
 
 
@@ -72,12 +74,7 @@
   </p>
 </div>
 
-<div align="center" style="margin: 2rem 0;">
-  <a href="/assets/images/code-ks.png" target="_blank">
-    <img src="/assets/images/code-ks.png" alt="CODE-KS Matrix" width="600" style="cursor: pointer;" />
-  </a>
-  <p style="font-size: .9rem; color: #666; margin-top: .5rem;">Click to view full size</p>
-</div>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appqJtye5H41Bn5vS/shrSjAhGnCmFz2c0c?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ---
 

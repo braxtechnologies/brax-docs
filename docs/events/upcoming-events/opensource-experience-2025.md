@@ -10,7 +10,7 @@ tags:
 
 ## Event Details
 
-**Date**: 10 & 11 December 2025 
+**Date and Location**: 10 & 11 December 2025, Paris, Cité des Sciences
 **Details**: [opensource-experience.com](https://opensource.braxtech.net/events/upcoming-events/opensource-experience-2025/)
 
 ## About Open Source Experience

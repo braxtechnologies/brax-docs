@@ -169,10 +169,8 @@ hide:
 <div class="event-grid highlighted">
   <div class="card">
     <img src="../assets/images/opensourceexp.jpg" alt="Open Source Experience" class="event-logo" />
-    <h3>Open Source Experience 2025</h3>
-    <span class="meta">Paris, France · November 2025</span>
     <p>Join the leading European open source event bringing together developers, decision-makers, and innovators. Discover the latest in open source technologies, cloud computing, digital sovereignty, and sustainable IT solutions.</p>
-    <a class="cta secondary" href="https://www.opensource-experience.com/" target="_blank" rel="noopener">Learn more</a>
+    <a class="cta secondary" href="/events/upcoming-events/opensource-experience-2025/" target="_blank" rel="noopener">Learn more</a>
   </div>
   <div class="card list-card">
     <h3>Why attend?</h3>
@@ -219,7 +217,7 @@ hide:
   <div class="card">
     <h3>Community Code of Conduct</h3>
     <p>We align on shared values—respect, transparency, and security-conscious collaboration—so everyone can contribute safely.</p>
-    <a href="/community/code-of-conduct/">Read the guidelines</a>
+    <a href="/governance/Community Code Of Conduct/">Read the guidelines</a>
   </div>
   <div class="card">
     <h3>Mission & Principles</h3>
@@ -229,7 +227,7 @@ hide:
   <div class="card">
     <h3>Project Governance</h3>
     <p>Understand how working groups, maintainers, and community councils collaborate to steer the roadmap.</p>
-    <a href="/community/governance/">See the framework</a>
+    <a href="/governance/">See the framework</a>
   </div>
 </div>
 

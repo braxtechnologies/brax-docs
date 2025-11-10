@@ -17,6 +17,7 @@ At Brax Technologies, we're building more than products—we're building a movem
 
 We're always looking for talented individuals who share our mission and values. Check back regularly for new opportunities, or reach out to express your interest in joining our team.
 
+<iframe src='https://widgets.sociablekit.com/linkedin-page-jobs/iframe/25619466' frameborder='0' width='100%' height='1000'></iframe>
 ### Areas We're Hiring
 
 - **Software Engineering**: Android developers, systems engineers, and security specialists
