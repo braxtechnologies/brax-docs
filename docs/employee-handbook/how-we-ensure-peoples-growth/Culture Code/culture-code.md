@@ -17,7 +17,7 @@ These aren't aspirational ideals; they're **non-negotiable requirements**:
 - We don't tolerate employees who fail to exhibit these values
 - These values apply equally to everyone, regardless of role or seniority
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 at 12.17.25.png" alt="brax Culture Code Values"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/culture.avif" alt="brax Culture Code"><figcaption>Our Culture Code in Action</figcaption></figure>
 
 ### 1. 🔥 Intensity
 

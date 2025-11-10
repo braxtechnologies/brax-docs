@@ -21,3 +21,9 @@ Here you can find the main sources that served as an inspiration for the creatio
 * Zaplatomer
 * Payscale
 * Glassdoor
+* Growth Mindset”: The Empowering Growth through Transparent Management
+* George T. Doran Management Review
+* Patrick Lencioni HBR
+* Robert K. Greenleaf 
+* Transformational Leadership James MacGregor Burns, Bernard Bass
+
