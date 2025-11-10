@@ -1,4 +1,4 @@
-# RACI & CODE-KS
+# 📋 RACI & CODE-KS
 
 To **maintain clarity and accountability**, we utilize the **RACI matrix for cross-department processes and the CODE-KS matrix for in-department processes.** These matrices help us track roles, responsibilities, and progress efficiently.
 
