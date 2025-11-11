@@ -4,7 +4,7 @@ In the Individual Contributors Path there are 6 levels in each framework and eac
 
 To move up from one level to the next is a huge milestone in terms of knowledge application, role complexity and overall scope. Steps serve as smaller indicators of growth in ownership and initiative.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-05-31 at 13.19.52.png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="/assets/images/level1to6.avif" alt="Individual Contributors Path Levels 1-6" width="281"><figcaption></figcaption></figure>
 
 Each Level and Step for Individual Contributors is evaluated based on well-defined criteria as shown below:
 
