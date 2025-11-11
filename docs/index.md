@@ -188,20 +188,20 @@ hide:
   <div class="card">
     <h3>Android Debugging Crash Course</h3>
     <span class="meta">06 January 2025</span>
-    <p>A comprehensive guide to debugging Android systems, from basic logging to advanced kernel debugging techniques. Learn ADB, logcat, and kernel-level debugging.</p>
-    <a class="cta secondary" href="blog/2025-01-06-android-debugging-crash-course/">Read more</a>
+    <p>Master Android debugging from logs to kernel panics. Learn ADB, logcat, and kernel-level debugging techniques for diagnosing issues at every level of the Android stack.</p>
+    <a class="cta secondary" href="guide/posts/android-debugging-crash-course/">Read more</a>
   </div>
   <div class="card">
-    <h3>Working with SELinux on Android</h3>
-    <span class="meta">07 January 2025</span>
-    <p>Understanding and working with Security-Enhanced Linux in Android development - from basics to advanced policy writing.</p>
-    <a class="cta secondary" href="blog/2025-01-07-working-with-selinux-android/">Read more</a>
+    <h3>Manually Install or Update Your OS</h3>
+    <span class="meta">BraX3 Guide</span>
+    <p>Complete control over your device's OS. Step-by-step instructions for manually installing or updating using fastboot or spflash tool on your BraX3.</p>
+    <a class="cta secondary" href="guide/posts/manual-install-update-os/">Read more</a>
   </div>
   <div class="card">
-    <h3>Qualcomm's Chain of Trust</h3>
-    <span class="meta">08 January 2025</span>
-    <p>Understanding Qualcomm's boot sequence, security mechanisms, and how bootloaders work together to secure modern Android devices.</p>
-    <a class="cta secondary" href="blog/2025-01-08-qualcomm-chain-of-trust/">Read more</a>
+    <h3>Unlock the BraX3 Bootloader</h3>
+    <span class="meta">BraX3 Guide</span>
+    <p>Get full access to your system for advanced operations like flashing custom ROMs or rooting. Official unlock method for BraX3 with troubleshooting tips.</p>
+    <a class="cta secondary" href="guide/posts/unlock-bootloader/">Read more</a>
   </div>
 </div>
 
