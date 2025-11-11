@@ -8,7 +8,7 @@ To move up from one level to the next is a huge milestone in terms of knowledge 
 
 Each Level and Step for Individual Contributors is evaluated based on well-defined criteria as shown below:
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-05-31 at 13.20.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/images/criteria.png" alt="Individual Contributors Evaluation Criteria"><figcaption></figcaption></figure>
 
 This path was designed for those employees **who do not want to follow a career as a manager** but instead **plan to develop their technical skills** and use them to contribute to the goals and mission of the organization.
 
