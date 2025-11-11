@@ -24,6 +24,12 @@ Even though we strive to hire dedicated and reliable people, we recognize that s
   <figcaption>Task Assignation within Corrective Action Plan (click to enlarge)</figcaption>
 </figure>
 
+<div style="background: #e3f2fd; padding: 1rem; border-left: 4px solid #1976d2; border-radius: 6px; margin: 1.5rem 0;">
+  <p style="margin: 0;">
+    📄 <strong>Download:</strong> <a href="/assets/images/cap.pdf" download style="color: #1976d2; font-weight: 600;">CAP Process Guide (PDF)</a>
+  </p>
+</div>
+
 ---
 
 ## 🔍 When Is a CAP Used?
