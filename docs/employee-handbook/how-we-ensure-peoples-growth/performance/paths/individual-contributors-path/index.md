@@ -20,7 +20,7 @@ Progress up the Levels expands not only the technical competencies and knowledge
 
 Each Level and Step for Individual Contributors are evaluated based on well-defined criteria, as we already learnt. Here is more about each criteria.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-05-31 at 13.35.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/images/icinfo.png" alt="Individual Contributors Level Criteria Details" width="281"><figcaption></figcaption></figure>
 
 #### Knowledge <a href="#epicmap-knowledge" id="epicmap-knowledge"></a>
 
