@@ -1,31 +1,31 @@
 ---
-title: WallUp - Privacy Firewall Device
-description: Hardware firewall and privacy router for your home network
+title: WallUp - Smart Home Tablet
+description: Wall-mounted tablet for home automation with Home Assistant support
 ---
 
-# 🛡️ WallUp Overview
+# 🏠 WallUp Overview
 
 !!! info "Coming Soon"
     **Status**: In Development  
     **Expected Release**: TBA  
-    **Platform**: Network Security Device
+    **Platform**: Wall-Mounted Smart Home Tablet
 
 <div style="text-align: center; margin: 2em 0;">
-  <p style="font-style: italic; color: #666; font-size: 1.2em;">Your network's privacy guardian</p>
+  <p style="font-style: italic; color: #666; font-size: 1.2em;">Your home automation control center</p>
 </div>
 
 ## 🚀 About WallUp
 
-**WallUp** is Brax Technologies' hardware firewall and privacy router designed to protect your entire home network. It acts as a privacy shield between your devices and the internet, blocking trackers, ads, and malicious content at the network level.
+**WallUp** is Brax Technologies' wall-mounted tablet designed for home automation and smart home control. Built with privacy and local control in mind, WallUp seamlessly integrates with the Home Assistant ecosystem to give you complete control over your smart home.
 
 ### Why Choose WallUp?
 
-- 🛡️ **Network-Wide Protection** — Protect all devices on your network simultaneously
-- 🚫 **Ad & Tracker Blocking** — Block ads, trackers, and malware at the DNS level
-- 🔒 **VPN Gateway** — Route all network traffic through a VPN
-- 🌐 **Privacy DNS** — Use privacy-respecting DNS servers
-- 📊 **Network Analytics** — Monitor and control your network traffic
-- ⚙️ **Easy Setup** — Simple plug-and-play configuration
+- 🏠 **Home Assistant Ready** — Seamless integration with Home Assistant ecosystem
+- 🔒 **Privacy-First** — Local control, no cloud dependency
+- 📱 **Always-On Display** — Dedicated home control interface
+- 🎨 **Customizable** — Fully customizable dashboards and automations
+- ⚡ **PoE Powered** — Power over Ethernet for clean installation
+- 🔧 **Open Platform** — Install any Android apps or custom software
 
 ---
 
@@ -33,23 +33,23 @@ description: Hardware firewall and privacy router for your home network
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
   <div style="background: #e8f5e9; padding: 1.75rem; border-radius: 8px; border-top: 4px solid #4caf50;">
-    <h3 style="color: #2e7d32; margin-top: 0;">🚫 Ad Blocking</h3>
-    <p style="line-height: 1.7; margin: 0;">Block ads and trackers across all devices without installing software</p>
+    <h3 style="color: #2e7d32; margin-top: 0;">🏠 Home Assistant</h3>
+    <p style="line-height: 1.7; margin: 0;">Native integration with Home Assistant for complete smart home control</p>
   </div>
   
   <div style="background: #e3f2fd; padding: 1.75rem; border-radius: 8px; border-top: 4px solid #1976d2;">
-    <h3 style="color: #1565c0; margin-top: 0;">🔐 VPN Gateway</h3>
-    <p style="line-height: 1.7; margin: 0;">Route all network traffic through a VPN for complete privacy</p>
+    <h3 style="color: #1565c0; margin-top: 0;">📱 Touchscreen Control</h3>
+    <p style="line-height: 1.7; margin: 0;">High-resolution touchscreen for intuitive home automation control</p>
   </div>
   
   <div style="background: #f3e5f5; padding: 1.75rem; border-radius: 8px; border-top: 4px solid #9c27b0;">
-    <h3 style="color: #7b1fa2; margin-top: 0;">👨‍👩‍👧‍👦 Parental Controls</h3>
-    <p style="line-height: 1.7; margin: 0;">Manage content filtering and screen time for family devices</p>
+    <h3 style="color: #7b1fa2; margin-top: 0;">🎨 Custom Dashboards</h3>
+    <p style="line-height: 1.7; margin: 0;">Create beautiful, personalized dashboards for every room</p>
   </div>
   
   <div style="background: #fff8e1; padding: 1.75rem; border-radius: 8px; border-top: 4px solid #ff9800;">
-    <h3 style="color: #e65100; margin-top: 0;">📊 Traffic Analytics</h3>
-    <p style="line-height: 1.7; margin: 0;">See what your devices are connecting to and block unwanted traffic</p>
+    <h3 style="color: #e65100; margin-top: 0;">⚡ PoE Powered</h3>
+    <p style="line-height: 1.7; margin: 0;">Single cable for power and network, clean wall installation</p>
   </div>
 </div>
 
@@ -58,13 +58,13 @@ description: Hardware firewall and privacy router for your home network
 ## 🏠 Perfect For
 
 <div style="background: #e3f2fd; border-left: 4px solid #1976d2; padding: 1.5rem; border-radius: 8px; margin: 2rem 0;">
-  <h4 style="color: #1565c0; margin-top: 0;">Home & Small Office</h4>
+  <h4 style="color: #1565c0; margin-top: 0;">Smart Home Enthusiasts</h4>
   <ul style="line-height: 1.8; margin: 0; padding-left: 1.5rem;">
-    <li>Families wanting network-wide ad and tracker blocking</li>
-    <li>Remote workers needing secure home office setup</li>
-    <li>Privacy-conscious users protecting IoT devices</li>
-    <li>Anyone wanting VPN protection for all devices</li>
-    <li>Small businesses needing affordable network security</li>
+    <li>Home Assistant users wanting dedicated control panels</li>
+    <li>Smart home builders needing wall-mounted interfaces</li>
+    <li>Privacy-conscious users avoiding cloud-dependent devices</li>
+    <li>Families wanting centralized home control</li>
+    <li>Anyone automating their home with local control</li>
   </ul>
 </div>
 
@@ -72,12 +72,13 @@ description: Hardware firewall and privacy router for your home network
 
 ## 🔧 Technical Highlights
 
-- **Hardware-based** — Dedicated device, not software on your computer
-- **Open Source** — Fully auditable firmware and software
-- **Low Power** — Energy-efficient operation
-- **Gigabit Ethernet** — Fast network performance
-- **WiFi Support** — Optional wireless access point functionality
-- **Easy Updates** — Automatic security updates
+- **Android-Based** — Flexible platform supporting Home Assistant and custom apps
+- **PoE Support** — Power over Ethernet (802.3af/at) for clean installation
+- **High-Resolution Display** — Bright, responsive touchscreen
+- **Wall-Mountable** — Flush mount design for professional installation
+- **Local Processing** — No cloud dependency, all data stays local
+- **WiFi & Ethernet** — Flexible connectivity options
+- **Always-On** — Low power consumption, designed for 24/7 operation
 
 ---
 
