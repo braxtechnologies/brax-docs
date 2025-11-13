@@ -17,7 +17,18 @@
 
 Even though we strive to hire dedicated and reliable people, we recognize that sometimes individuals can lose focus on our mission. Life happens. Challenges arise. Priorities shift. The CAP exists to help re-establish the connection between individual actions and our collective goals.
 
-<figure><img src="../../../assets/images/cap.png" alt="CAP Task Assignation Process"><figcaption>Task Assignation within Corrective Action Plan</figcaption></figure>
+<figure>
+  <a href="/assets/images/cap.png" target="_blank">
+    <img src="/assets/images/cap.png" alt="CAP Task Assignation Process" style="width: 100%; max-width: 800px; cursor: pointer;">
+  </a>
+  <figcaption>Task Assignation within Corrective Action Plan (click to enlarge)</figcaption>
+</figure>
+
+<div style="background: #e3f2fd; padding: 1rem; border-left: 4px solid #1976d2; border-radius: 6px; margin: 1.5rem 0;">
+  <p style="margin: 0;">
+    📄 <strong>Download:</strong> <a href="/assets/images/cap.pdf" download style="color: #1976d2; font-weight: 600;">CAP Process Guide (PDF)</a>
+  </p>
+</div>
 
 ---
 
