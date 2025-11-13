@@ -5,6 +5,15 @@
     **GitHub**: [braxtechnologies/Apk-Station](https://github.com/braxtechnologies/Apk-Station)  
     **Language**: Kotlin  
     **Contributors**: 2 active contributors
+    
+    ![GitHub stars](https://img.shields.io/github/stars/braxtechnologies/Apk-Station?style=social)
+    ![GitHub forks](https://img.shields.io/github/forks/braxtechnologies/Apk-Station?style=social)
+    ![GitHub watchers](https://img.shields.io/github/watchers/braxtechnologies/Apk-Station?style=social)
+    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/braxtechnologies/Apk-Station)
+    ![GitHub last commit](https://img.shields.io/github/last-commit/braxtechnologies/Apk-Station)
+    ![GitHub issues](https://img.shields.io/github/issues/braxtechnologies/Apk-Station)
+    ![GitHub pull requests](https://img.shields.io/github/issues-pr/braxtechnologies/Apk-Station)
+    ![GitHub branch](https://img.shields.io/github/branches/all/braxtechnologies/Apk-Station)
 
 <div class="carousel-placeholder" style="background: #f5f5f5; border: 2px dashed #ccc; border-radius: 8px; padding: 60px 20px; text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 1.1em; margin: 10px 0;">📱 UI Screenshots Carousel</p>
@@ -64,11 +73,12 @@ APK Station provides a complete app store experience without compromising your p
 - [F-Droid](https://f-droid.org/en/)
 
 **Quick Setup:**
-1. Download and install the APK
-2. Grant permissions when prompted
-3. Wait for initial repository sync
-4. Start browsing and installing apps
-5. Configure automatic updates in settings
+
+- **Step 1**: Download and install the APK
+- **Step 2**: Grant permissions when prompted
+- **Step 3**: Wait for initial repository sync
+- **Step 4**: Start browsing and installing apps
+- **Step 5**: Configure automatic updates in settings
 
 ---
 
