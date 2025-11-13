@@ -40,15 +40,19 @@
 
 ## Overview
 
-APK Station provides a complete app store experience without compromising your privacy. Discover and install millions of applications without tracking, data collection, or telemetry.
+APK Station provides a complete app store experience without compromising your privacy. Discover and install millions of **free applications** without tracking, data collection, or telemetry.
+
+!!! note "100% Free Apps"
+    APK Station exclusively offers free applications. We do not host or distribute paid apps.
 
 **Core Features:**
-- Homepage with personalized recommendations
-- Advanced search and category browsing
-- Detailed app pages with privacy information
-- Offline mode for browsing synced apps
-- Open source focus (FOSS priority)
-- Rob Braxman selections (privacy-focused apps from his videos)
+
+- **Personalized Homepage** — Discover new apps with tailored recommendations
+- **Advanced Search** — Find exactly what you need with powerful search and category browsing
+- **Detailed App Pages** — Complete information including privacy details for every app
+- **Offline Mode** — Browse previously synced apps without an internet connection
+- **FOSS Priority** — Open source focus with verified free and open source software
+- **Rob Braxman Selections** — Curated privacy-focused apps featured in his videos
 
 ---
 
@@ -104,14 +108,6 @@ git clone https://github.com/braxtechnologies/apk-station.git
 cd apk-station
 ./gradlew assembleRelease
 ```
-
----
-
-## 📦 Default Repositories
-
-- **Brax Official** — Curated apps from Brax Technologies
-- **FOSS Commons** — Popular open source applications
-- **Privacy Tools** — Security and privacy-focused apps
 
 ---
 
