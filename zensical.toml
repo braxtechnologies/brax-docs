@@ -22,7 +22,7 @@ name = "material"
 language = "en"
 logo = "assets/images/logo.svg"
 favicon = "assets/images/favicon.ico"
-nav_order= ["Home", "Devices", "Manifesto", "Governance", "Bounties", "Careers", "Partners", "Guide", "Apps", "Brax Network", "Events", "Employee Handbook"]
+nav_order= ["Home", "Devices", "Manifesto", "Governance", "Bounty Program", "Careers", "Partners", "Guide", "Apps", "Brax Network", "Events", "Employee Handbook"]
 features = [
 "navigation.tabs",
 "navigation.instant",
@@ -125,7 +125,7 @@ code = "JetBrains Mono"
 "Strategy" = "governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Strategy.md"
 "Team Management" = "governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Team Management.md"
 
-[nav."Bounties"]
+[nav."Bounty Program"]
 "" = "bounties/index.md"
 
 [nav."Careers"]

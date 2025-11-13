@@ -1,4 +1,4 @@
-# 🪙 Bounties
+# 🪙 Bounty Program
 
 !!! info "Coming Soon"
     Our bounty program is currently in development. Check back soon for updates on how you can contribute and earn rewards!
