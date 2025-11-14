@@ -21,11 +21,13 @@
 
 | **Cultural Principle** | **What It Looks Like in Action** | **Expected Outcome** |
 |--------------------------|----------------------------------|----------------------|
-| **Ownership Mentality** | You act like an owner — taking responsibility, solving problems, and driving outcomes. | Promotion and trust in leadership. |
-| **Transparency & Radical Candor** | You communicate openly, seek clarity, and give feedback even when it's uncomfortable. | Team alignment and cultural strength. |
-| **Continuous Learning** | You embrace ambiguity, experiment, and learn from mistakes. | Innovation and professional growth. |
-| **Community Over Ego** | You prioritize team and company goals over personal gain. | Collective success and recognition. |
-| **Fairness & Integrity** | You do what's right, even when no one is watching. | Credibility and long-term trust. |
+| **Responsibility** | You take ownership of your actions, deliver quality work on time, and follow through on commitments. | Trust and accountability in your role. |
+| **Devotion to Learning** | You embrace curiosity, continuously grow your capabilities, and share knowledge generously. | Innovation and professional growth. |
+| **Remarkability** | You deliver exceptional quality, exceed expectations, and take pride in your craftsmanship. | Recognition and advancement opportunities. |
+| **Respect** | You value diverse perspectives, listen empathetically, and create an inclusive environment. | Team cohesion and cultural strength. |
+| **Collaboration** | You work transparently with teammates, share information openly, and celebrate collective wins. | Collective success and team alignment. |
+| **Adaptiveness** | You embrace change as opportunity, pivot quickly, and learn new skills as the business evolves. | Resilience and future readiness. |
+| **Innovation** | You think creatively, experiment fearlessly, and challenge assumptions to push us forward. | Breakthrough solutions and competitive advantage. |
 
 ---
 

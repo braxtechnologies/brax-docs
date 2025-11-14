@@ -54,7 +54,7 @@ In our model, leaders don't function as messengers. Instead, they:
 
 ## Communication Model Comparison
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 at 12.34.07.png" alt="Visual comparison of traditional hierarchical communication vs. brax's direct communication model"><figcaption>Traditional hierarchical communication (left) vs. brax's direct communication model (right)</figcaption></figure>
+<figure><img src="../../../assets/images/ceremony.png" alt="Visual comparison of traditional hierarchical communication vs. brax's direct communication model"><figcaption>Traditional hierarchical communication (left) vs. brax's direct communication model (right)</figcaption></figure>
 
 ---
 

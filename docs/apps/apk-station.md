@@ -15,17 +15,12 @@
     ![GitHub pull requests](https://img.shields.io/github/issues-pr/braxtechnologies/Apk-Station)
     ![GitHub branch](https://img.shields.io/github/branches/all/braxtechnologies/Apk-Station)
 
-<div class="carousel-placeholder" style="background: #f5f5f5; border: 2px dashed #ccc; border-radius: 8px; padding: 60px 20px; text-align: center; margin: 20px 0;">
-  <p style="color: #666; font-size: 1.1em; margin: 10px 0;">📱 UI Screenshots Carousel</p>
-  <p style="color: #999; font-size: 0.9em;">Placeholder for 4 APK Station interface images</p>
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-    <div style="width: 60px; height: 100px; background: #ddd; border-radius: 4px;"></div>
-    <div style="width: 60px; height: 100px; background: #ddd; border-radius: 4px;"></div>
-    <div style="width: 60px; height: 100px; background: #ddd; border-radius: 4px;"></div>
-    <div style="width: 60px; height: 100px; background: #ddd; border-radius: 4px;"></div>
-  </div>
-  <p style="color: #999; font-size: 0.85em; margin-top: 15px;">Images to add: Homepage | Search | App Details | Settings</p>
-</div>
+| Screenshot | Description |
+|:--:|:--|
+| [<img src="/assets/images/apkstation1.png" alt="Homepage" width="600"/>](../assets/images/apkstation1.png) | **Personalized Homepage** — Browse curated app recommendations and featured collections. Discover new apps with tailored suggestions based on categories and popularity. |
+| [<img src="/assets/images/apkstation2.png" alt="Search" width="600"/>](../assets/images/apkstation2.png) | **Advanced Search** — Find exactly what you need with powerful search and category browsing. Filter by app type, ratings, and privacy features. |
+| [<img src="/assets/images/apkstation3.png" alt="App Details" width="600"/>](../assets/images/apkstation3.png) | **Detailed App Pages** — Complete information including permissions, privacy details, and user reviews. Make informed decisions before installing any app. |
+| [<img src="/assets/images/apkstation4.png" alt="Settings" width="600"/>](../assets/images/apkstation4.png) | **Rob Braxman Choice Apps** — Curated selection of privacy-focused applications personally recommended by Rob Braxman. Discover trusted apps featured in his videos and privacy guides. |
 
 **APK Station** is an open-source, privacy-first alternative app store for Android.
 
@@ -41,13 +36,6 @@
 ## Overview
 
 APK Station provides a complete app store experience without compromising your privacy. Discover and install millions of **free applications** without tracking, data collection, or telemetry.
-
-## Screenshots
-
-[![APK Station Screenshot 1](../assets/images/apkstation1.png)](../assets/images/apkstation1.png)
-[![APK Station Screenshot 2](../assets/images/apkstation2.png)](../assets/images/apkstation2.png)
-[![APK Station Screenshot 3](../assets/images/apkstation3.png)](../assets/images/apkstation3.png)
-[![APK Station Screenshot 4](../assets/images/apkstation4.png)](../assets/images/apkstation4.png)
 
 !!! note "100% Free Apps"
     APK Station exclusively offers free applications. We do not host or distribute paid apps.
@@ -180,13 +168,22 @@ See our [Contributing Guidelines](https://github.com/braxtechnologies/apk-statio
 
 ## 📞 Support
 
-- **Documentation**: [apkstation.braxtech.net/docs](https://apkstation.braxtech.net/docs)
 - **Community Forum**: [community.braxtech.net](https://community.braxtech.net)
 - **Issue Tracker**: [GitHub Issues](https://github.com/braxtechnologies/apk-station/issues)
-- **Security**: [security@braxtech.net](mailto:security@braxtech.net)
 
 ---
 
 ## 📜 License
 
-APK Station is released under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+APK Station is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.en.html) with a **Non-Commercial clause**.
+
+You are free to:
+- **Fork and modify** the code for your own projects
+- **Distribute** your modifications
+- **Use** the software for personal and non-commercial purposes
+
+You must:
+- **Attribute** the original project and maintain copyright notices
+- **Keep it open source** — all modifications must be released under the same license
+- **Share source code** — if you run a modified version on a server, you must make the source code available
+- **Not use commercially** — commercial use requires a separate license from Brax Technologies
