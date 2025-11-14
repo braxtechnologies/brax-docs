@@ -17,25 +17,14 @@ The flagship company focused on developing privacy-respecting hardware and softw
 
 ---
 
-### [Dynames IT](DynamesIT.md)
-Specialized in IT infrastructure, consulting, and enterprise solutions built on open-source technologies.
-
-**Focus Areas:**
-- IT consulting and support
-- Enterprise infrastructure
-- Open-source deployment
-- Technical services
-
----
-
 ### [Lunr Technologies](Lunr Technologies.md)
 Dedicated to advancing mobile operating systems and custom ROM development.
 
 **Focus Areas:**
 - Custom ROM development (LunarOS)
-- Android optimization
-- Community engagement
+- Mobile Device Management-MDM (Lunar Control Center)
 - Developer tools
+- The Lunar Network
 
 ---
 
