@@ -22,7 +22,7 @@ name = "material"
 language = "en"
 logo = "assets/images/logo.svg"
 favicon = "assets/images/favicon.ico"
-nav_order= ["Home", "Devices", "Manifesto", "Governance", "Bounties", "Careers", "Partners", "Guide", "Apps", "Brax Network", "Events", "Employee Handbook"]
+nav_order= ["Home", "Devices", "Manifesto", "Governance", "Bounty Program", "Careers", "Partners", "Guide", "Apps", "Brax Network", "Events", "Employee Handbook"]
 features = [
 "navigation.tabs",
 "navigation.instant",
@@ -31,7 +31,6 @@ features = [
 "navigation.tracking",
 "navigation.tabs.sticky",
 "navigation.sections",
-"navigation.path",
 "navigation.footer",
 "content.action.edit", # Edit this page
 "content.action.view"  # View source of this page
@@ -126,7 +125,7 @@ code = "JetBrains Mono"
 "Strategy" = "governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Strategy.md"
 "Team Management" = "governance/Management Model and Employee Handbook/HOW WE MAKE DECISIONS/Team Management.md"
 
-[nav."Bounties"]
+[nav."Bounty Program"]
 "" = "bounties/index.md"
 
 [nav."Careers"]
@@ -187,9 +186,9 @@ code = "JetBrains Mono"
 "Strategic Sessions" = "Employee Handbook/how-we-make-decisions/team-management/strategic-sessions-empowering-innovation.md"
 
 [nav."Employee Handbook"."How We Build"]
-"Operations and roles" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-roles/index.md"
-"Growth and Complexity" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-roles/how-we-navigate-growth-and-complexity.md"
-"RACI & CODE-KS" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-roles/our-responsibility-assignment-matrixes-raci-and-code-ks.md"
+"⚙️ Operations & Process" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-process/index.md"
+"🧭 Growth and Complexity" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-process/how-we-navigate-growth-and-complexity.md"
+"📋 RACI & CODE-KS" = "Employee Handbook/how-we-build-processes-and-a-great-product/operations-and-process/raci-and-code-ks.md"
 "Knowledge management" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/index.md"
 "Knowledge Categories" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/knowledge-categories.md"
 "Knowledge Accountability" = "Employee Handbook/how-we-build-processes-and-a-great-product/knowledge-management/knowledge-accountability-index.md"
@@ -224,6 +223,7 @@ code = "JetBrains Mono"
 "CAP" = "Employee Handbook/how-we-ensure-peoples-growth/performance/cap.md"
 "Golden Rules" = "Employee Handbook/how-we-ensure-peoples-growth/performance/management-model-golden-rules.md"
 "Compensation" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/index.md"
+"Founder Salary" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/founder-salary.md"
 "IC Frameworks" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/ic-frameworks/index.md"
 "MGT Frameworks" = "Employee Handbook/how-we-ensure-peoples-growth/compensation/mgt-frameworks/index.md"
 "Empowering Growth" = "Employee Handbook/how-we-ensure-peoples-growth/empowering-growth-through-transparent-management-your-path-to-success.md"

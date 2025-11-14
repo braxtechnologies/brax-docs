@@ -1,0 +1,928 @@
+Date: Mon, 10 Nov 2025 08:17:42 +0200 (EET)
+Message-ID: <1153956291.3.1762755462679@SOF1CONFLUENCE51252>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2_100745601.1762755462673"
+
+------=_Part_2_100745601.1762755462673
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Types of Employees</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Types of Employees</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"TypesofEmployees-Introduction">Introduction</h1>
+<p>This framework was designed to address systemic key issues and evaluate =
+the organization's culture. It serves as a tool to determine promotions, re=
+demption opportunities, and potential termination based on performance.</p>
+<h1 id=3D"TypesofEmployees-Approach">Approach</h1>
+<p>Our approach aims to define the criteria for career progression among va=
+rious types of employees. It also consistently and systematically addresses=
+ systemic issues, making no exceptions. This ensures fairness and equal tre=
+atment for all employees, fostering our company culture.</p>
+<p><br></p>
+<p>The types of employees that we detected in our structure are:</p>
+<p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 74.=
+7506%;">
+<colgroup>
+<col style=3D"width: 21.3742%;">
+<col style=3D"width: 58.2794%;">
+<col style=3D"width: 20.3742%;">
+</colgroup>
+<tbody>
+<tr>
+<th style=3D"text-align: center;" class=3D"confluenceTh">Type of Employee</=
+th>
+<th style=3D"text-align: center;" class=3D"confluenceTh">Traits</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Outc=
+ome</th>
+</tr>
+<tr>
+<td class=3D"highlight-#ffebe6 confluenceTd" data-highlight-colour=3D"#ffeb=
+e6" title=3D"Background colour : Light red 35%"><p title=3D"">1. Saboteur</=
+p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>Sabotages the company and its processes leading to disruptions in workf=
+low</li>
+<li>Intentionally tries to avoid work by abusing sick leaves and other leav=
+e policies</li>
+<li>Exhibits systematic lateness</li>
+<li>Exhibits disrespectful communication</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Termination</td>
+</tr>
+<tr>
+<td class=3D"highlight-#ffebe6 confluenceTd" data-highlight-colour=3D"#ffeb=
+e6" title=3D"Background colour : Light red 35%">2. Con-Artist</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>Attempts to avoid work in a structured manner</li>
+<li>Works the system/forges reports and/or timesheets</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Termination</td>
+</tr>
+<tr>
+<td class=3D"highlight-#fffae6 confluenceTd" data-highlight-colour=3D"#fffa=
+e6" title=3D"Background colour : Light yellow 35%">3. Disciplined</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>Exhibits a professional and fair-relationship</li>
+<li>Shows reactive behavior when dealing with ambiguity</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Redemption</td>
+</tr>
+<tr>
+<td class=3D"highlight-#fffae6 confluenceTd" data-highlight-colour=3D"#fffa=
+e6" title=3D"Background colour : Light yellow 35%">4. Mercenary</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>Lacks community behavior - focuses only on personal goals</li>
+<li>Performs non-work related activities during working hours</li>
+<li>Works with an agenda in mind, shows transactional behavior based on mon=
+ey</li>
+<li>Exhibits negative attitude towards department/company goals that do not=
+ suit their personal objective</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Redemption</td>
+</tr>
+<tr>
+<td class=3D"highlight-#e3fcef confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e3fcef" title=3D"Background colour : Light green 35%">5. Engaged<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Handles ambiguity in a positive manner</li>
+<li>Tries to overcome challenges by trial / error and takes advantage of th=
+e moment to learn and develop</li>
+<li>Works with department goals in mind</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Promotion</td>
+</tr>
+<tr>
+<td class=3D"highlight-#e3fcef confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e3fcef" title=3D"Background colour : Light green 35%">6. Entrepre=
+neur</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Acts as the owner</li>
+<li>Works with organizational goals in mind and exhibits positive attitude =
+towards it</li>
+<li>Demontrates exceptional work ethics as he/she represents the company</l=
+i>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Promotion</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h1 id=3D"TypesofEmployees-ReportingFramework">Reporting Framework</h1>
+<p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 99.=
+3142%;">
+<colgroup>
+<col style=3D"width: 9.48362%;">
+<col style=3D"width: 5.55774%;">
+<col style=3D"width: 10.5515%;">
+<col style=3D"width: 18.3391%;">
+<col style=3D"width: 11.9962%;">
+<col style=3D"width: 13.3153%;">
+<col style=3D"width: 13.2525%;">
+<col style=3D"width: 17.5251%;">
+</colgroup>
+<tbody>
+<tr>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Repo=
+rt</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Freq=
+uency</th>
+<th style=3D"text-align: center;" class=3D"confluenceTh">Department</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Data=
+</th>
+<th style=3D"text-align: center;" class=3D"confluenceTh">Data Provider</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Tool=
+</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Resp=
+onsible for Consolidation</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">Form=
+at</th>
+</tr>
+<tr>
+<td rowspan=3D"4" style=3D"text-align: center;" class=3D"confluenceTd">IT R=
+eport</td>
+<td rowspan=3D"4" style=3D"text-align: center;" class=3D"confluenceTd">Mont=
+hly</td>
+<td rowspan=3D"3" style=3D"text-align: center;" class=3D"confluenceTd">Tech=
+nical Dpts</td>
+<td colspan=3D"1" class=3D"confluenceTd">Timesheet (weekly)</td>
+<td class=3D"confluenceTd">Manager</td>
+<td colspan=3D"1" style=3D"text-align: left;" class=3D"confluenceTd">JIra</=
+td>
+<td rowspan=3D"3" style=3D"text-align: center;" class=3D"confluenceTd">HR O=
+PS</td>
+<td rowspan=3D"3" class=3D"confluenceTd"><p>Exec summary</p>
+<ul>
+<li>Highlights per department</li>
+<li>3 best performers</li>
+<li>3 lower performers</li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Traffic Monitoring</td>
+<td class=3D"confluenceTd">InfoSec</td>
+<td colspan=3D"1" style=3D"text-align: left;" class=3D"confluenceTd">StaffC=
+op</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Productivity</td>
+<td class=3D"confluenceTd">InfoSec</td>
+<td colspan=3D"1" style=3D"text-align: left;" class=3D"confluenceTd">StaffC=
+op</td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">Busi=
+ness &amp; Operational Dpts</td>
+<td colspan=3D"1" class=3D"confluenceTd">Activity Report</td>
+<td colspan=3D"1" class=3D"confluenceTd">Manager</td>
+<td colspan=3D"1" style=3D"text-align: left;" class=3D"confluenceTd">Specif=
+ic department tools</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">HR O=
+PS</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">KPI =
+Report</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">Mont=
+hly</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">All<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">KPIs per department</td>
+<td colspan=3D"1" class=3D"confluenceTd">TBD</td>
+<td colspan=3D"1" class=3D"confluenceTd">TBD</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">HR O=
+PS</td>
+<td colspan=3D"1" class=3D"confluenceTd">Dashboard in Zoho?</td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">360 =
+Review</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">Mont=
+hly</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">All<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">Based on Helpdesk &amp; Zoho Ticke=
+ts + live interaction + PBX</td>
+<td colspan=3D"1" class=3D"confluenceTd">InfoSec and HR OPS</td>
+<td colspan=3D"1" class=3D"confluenceTd">HaloPSA + Zoho</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">HR O=
+PS</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Exec summary with highlights</p=
+>
+<ul>
+<li>Strong Adherence</li>
+<li>Adherence</li>
+<li>Non Adherence</li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><p>S=
+trategic Report</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Monthly&nbsp;</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd">All<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Goals</p>
+<ul>
+<li>Organizational</li>
+<li>Departmental</li>
+<li>Individual</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h1 id=3D"TypesofEmployees-ReportingCalendar-Example">Reporting Calendar - =
+Example</h1>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 100=
+.0%;">
+<colgroup>
+<col style=3D"width: 10.8507%;">
+<col style=3D"width: 9.47897%;">
+<col style=3D"width: 22.0745%;">
+<col style=3D"width: 22.7594%;">
+<col style=3D"width: 34.8572%;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"highlight-#eae6ff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#eae6ff" style=3D"text-align: center;" title=3D"Background colour =
+: Light purple 35%"><strong title=3D"">Monday</strong></td>
+<td class=3D"highlight-#eae6ff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#eae6ff" style=3D"text-align: center;" title=3D"Background colour =
+: Light purple 35%"><strong title=3D"">Tuesday</strong></td>
+<td class=3D"highlight-#eae6ff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#eae6ff" style=3D"text-align: center;" title=3D"Background colour =
+: Light purple 35%"><strong title=3D"">Wednesday</strong></td>
+<td class=3D"highlight-#eae6ff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#eae6ff" style=3D"text-align: center;" title=3D"Background colour =
+: Light purple 35%"><strong title=3D"">Thursday</strong></td>
+<td class=3D"highlight-#eae6ff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#eae6ff" style=3D"text-align: center;" title=3D"Background colour =
+: Light purple 35%"><strong title=3D"">Friday</strong></td>
+</tr>
+<tr>
+<th style=3D"text-align: center;" class=3D"confluenceTh"><br></th>
+<th style=3D"text-align: center;" class=3D"confluenceTh"><br></th>
+<th style=3D"text-align: center;" class=3D"confluenceTh"><br></th>
+<th style=3D"text-align: center;" class=3D"confluenceTh"><br></th>
+<th style=3D"text-align: center;" class=3D"confluenceTh">1</th>
+</tr>
+<tr>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><br></td>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><br></td>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><br></td>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><br></td>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>4</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>5</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>6</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>7</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>8</strong></td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td class=3D"highlight-#e6fcff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e6fcff" style=3D"text-align: center;" title=3D"Background colour =
+: Light teal 35%"><p style=3D"text-align: left;" title=3D""><strong>Technic=
+al Teams</strong></p><p style=3D"text-align: left;" title=3D"">HR OPS - ext=
+racts timesheets and signalizes operational red flags (hours missing, manua=
+l hours logged in advance)</p><p style=3D"text-align: left;" title=3D"">Man=
+ager - receives timesheets and signalizes performance red flags</p><p style=
+=3D"text-align: left;" title=3D""><br></p><p style=3D"text-align: left;" ti=
+tle=3D""><strong>Business &amp; OPS Teams</strong></p><p style=3D"text-alig=
+n: left;" title=3D"">HR OPS - extracts activity data and consolidates it</p=
+><p style=3D"text-align: left;" title=3D"">Manager - receives activity data=
+ and signalizes performance red flags</p><p style=3D"text-align: left;" tit=
+le=3D""><br></p></td>
+</tr>
+<tr>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>11</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>12</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>13</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>14</strong></td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey" style=3D"text-align: center;" title=3D"Background colour : unde=
+fined"><strong>15</strong></td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td class=3D"highlight-#e6fcff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e6fcff" style=3D"text-align: center;" title=3D"Background colour =
+: Light teal 35%"><p style=3D"text-align: left;" title=3D""><strong>Technic=
+al Teams</strong></p><p style=3D"text-align: left;" title=3D"">HR OPS - ext=
+racts timesheets and signalizes operational red flags (hours missing, manua=
+l hours logged in advance)</p><p style=3D"text-align: left;" title=3D"">Man=
+ager - receives timesheets and signalizes performance red flags</p><p style=
+=3D"text-align: left;" title=3D""><br></p><p style=3D"text-align: left;" ti=
+tle=3D""><strong>Business &amp; OPS Teams</strong></p><p style=3D"text-alig=
+n: left;" title=3D"">HR OPS - extracts activity data and consolidates it</p=
+><p style=3D"text-align: left;" title=3D"">Manager - receives activity data=
+ and signalizes performance red flags</p></td>
+</tr>
+<tr>
+<td class=3D"highlight-grey confluenceTd" data-highlight-colour=3D"grey" st=
+yle=3D"text-align: center;" title=3D"Background colour : undefined"><strong=
+>18</strong></td>
+<td class=3D"highlight-grey confluenceTd" data-highlight-colour=3D"grey" st=
+yle=3D"text-align: center;" title=3D"Background colour : undefined"><strong=
+>19</strong></td>
+<td class=3D"highlight-grey confluenceTd" data-highlight-colour=3D"grey" st=
+yle=3D"text-align: center;" title=3D"Background colour : undefined"><strong=
+>20</strong></td>
+<td class=3D"highlight-grey confluenceTd" data-highlight-colour=3D"grey" st=
+yle=3D"text-align: center;" title=3D"Background colour : undefined"><strong=
+>21</strong></td>
+<td class=3D"highlight-grey confluenceTd" data-highlight-colour=3D"grey" st=
+yle=3D"text-align: center;" title=3D"Background colour : undefined"><strong=
+>22</strong></td>
+</tr>
+<tr>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTd"><br>=
+</td>
+<td class=3D"highlight-#e6fcff confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e6fcff" style=3D"text-align: center;" title=3D"Background colour =
+: Light teal 35%"><p style=3D"text-align: left;" title=3D""><strong>Technic=
+al Teams</strong></p><p style=3D"text-align: left;" title=3D"">HR OPS - ext=
+racts timesheets and signalizes operational red flags (hours missing, manua=
+l hours logged in advance)</p><p style=3D"text-align: left;" title=3D"">Man=
+ager - receives timesheets and signalizes performance red flags</p><p style=
+=3D"text-align: left;" title=3D""><br></p><p style=3D"text-align: left;" ti=
+tle=3D""><strong>Business &amp; OPS Teams</strong></p><p style=3D"text-alig=
+n: left;" title=3D"">HR OPS - extracts activity data and consolidates it</p=
+><p style=3D"text-align: left;" title=3D"">Manager - receives activity data=
+ and signalizes performance red flags</p></td>
+</tr>
+<tr>
+<td class=3D"highlight-#f4f5f7 confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#f4f5f7" style=3D"text-align: center;" title=3D"Background colour =
+: Light grey 100%"><strong>25</strong></td>
+<td class=3D"highlight-#f4f5f7 confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#f4f5f7" style=3D"text-align: center;" title=3D"Background colour =
+: Light grey 100%"><strong>26</strong></td>
+<td class=3D"highlight-#f4f5f7 confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#f4f5f7" style=3D"text-align: center;" title=3D"Background colour =
+: Light grey 100%"><strong>27</strong></td>
+<td class=3D"highlight-#f4f5f7 confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#f4f5f7" style=3D"text-align: center;" title=3D"Background colour =
+: Light grey 100%"><strong>28</strong></td>
+<td class=3D"highlight-#f4f5f7 confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#f4f5f7" style=3D"text-align: center;" title=3D"Background colour =
+: Light grey 100%"><strong>29</strong></td>
+</tr>
+<tr>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><br></td>
+<td style=3D"text-align: center;" class=3D"confluenceTd"><br></td>
+<td class=3D"highlight-#eae6ff confluenceTd" data-highlight-colour=3D"#eae6=
+ff" style=3D"text-align: center;" title=3D"Background colour : Light purple=
+ 35%"><p style=3D"text-align: left;" title=3D""><strong>HR OPS</strong></p>
+<ul title=3D"">
+<li style=3D"text-align: left;">Receives KPIs from managers</li>
+<li style=3D"text-align: left;">Extracts ticket summary from Zoho People</l=
+i>
+<li style=3D"text-align: left;">Receives ticket summary from HaloPSA</li>
+</ul><p><br></p><p style=3D"text-align: left;"><strong>INFOSEC</strong></p>
+<ul>
+<li style=3D"text-align: left;">Extracts ticket summary from Halo PSA</li>
+<li style=3D"text-align: left;">Extracts Productivity and Traffic Monitorin=
+g data</li>
+</ul></td>
+<td class=3D"highlight-#e6fcff confluenceTd" data-highlight-colour=3D"#e6fc=
+ff" style=3D"text-align: center;" title=3D"Background colour : Light teal 3=
+5%"><p style=3D"text-align: left;" title=3D""><strong>Technical Teams</stro=
+ng></p><p style=3D"text-align: left;" title=3D"">HR OPS - extracts timeshee=
+ts and signalizes operational red flags (hours missing, manual hours logged=
+ in advance)</p><p style=3D"text-align: left;" title=3D"">Manager - receive=
+s timesheets and signalizes performance red flags</p><p style=3D"text-align=
+: left;" title=3D""><br></p><p style=3D"text-align: left;" title=3D""><stro=
+ng>Business &amp; OPS Teams</strong></p><p style=3D"text-align: left;" titl=
+e=3D"">HR OPS - extracts activity data and consolidates it</p><p style=3D"t=
+ext-align: left;" title=3D"">Manager - receives activity data and signalize=
+s performance red flags</p></td>
+<td class=3D"highlight-#ffbdad confluenceTd" data-highlight-colour=3D"#ffbd=
+ad" style=3D"text-align: center;" title=3D"Background colour : Light red 10=
+0%"><p style=3D"text-align: left;" title=3D""><br></p><strong>REPORTS CONSO=
+LIDATION AND SHARING - should we call it Culture &amp; Performance report?<=
+/strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h1 id=3D"TypesofEmployees-NextSteps">Next Steps</h1>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable">
+<colgroup>
+<col style=3D"width: 582.0px;">
+<col style=3D"width: 219.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><br></th>
+<th class=3D"confluenceTh">Responsible</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Define KPIs - for both the KPI report and the St=
+rategic Framework</td>
+<td class=3D"confluenceTd">Managers + Dominic</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Extract one report per tool</td>
+<td class=3D"confluenceTd">Ligia</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Define final format</td>
+<td class=3D"confluenceTd">Ligia</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h1 id=3D"TypesofEmployees-Mechanicsandhowtodetectthedifferenttypesofemploy=
+ees">Mechanics and how to detect the different types of employees</h1>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 100=
+.0%;">
+<colgroup>
+<col style=3D"width: 13.4%;">
+<col style=3D"width: 23.4911%;">
+<col style=3D"width: 20.9997%;">
+</colgroup>
+<tbody>
+<tr>
+<th style=3D"text-align: center;" class=3D"confluenceTh">Type of Employee</=
+th>
+<th style=3D"text-align: center;" class=3D"confluenceTh">In which Report wi=
+ll we detect them</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">What=
+ are the iniatives to promote positive behavior</th>
+</tr>
+<tr>
+<td class=3D"highlight-#ffebe6 confluenceTd" data-highlight-colour=3D"#ffeb=
+e6" rowspan=3D"2"><p title=3D"">1. Saboteur</p></td>
+<td class=3D"confluenceTd"><p>Negative&nbsp;<span style=3D"letter-spacing: =
+0.0px;">IT Report</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Negative 360 Report</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#ffebe6 confluenceTd" data-highlight-colour=3D"#ffeb=
+e6">2. Con Artist</td>
+<td class=3D"confluenceTd"><p>Negative KPI Report</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#fffae6 confluenceTd" data-highlight-colour=3D"#fffa=
+e6">3. Disciplined</td>
+<td class=3D"confluenceTd">All reports will be OK - nothing outstanding</td=
+>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Clearly Defined Processes</li>
+<li>Project Management</li>
+<li>HR Processes</li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"highlight-#fffae6 confluenceTd" data-highlight-colour=3D"#fffa=
+e6">4. Mercenary</td>
+<td class=3D"confluenceTd"><p>Strategic Report (no organizational/departmen=
+t vision)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Transition to freelancer</td>
+</tr>
+<tr>
+<td class=3D"highlight-#e3fcef confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e3fcef">5. Engaged</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Strategic Report (no organizati=
+onal vision)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Radical Transparency</td>
+</tr>
+<tr>
+<td class=3D"highlight-#e3fcef confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e3fcef">6. Entrepreneur</td>
+<td colspan=3D"1" class=3D"confluenceTd">All reports are outstanding</td>
+<td colspan=3D"1" class=3D"confluenceTd">Stock Option</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<h1 id=3D"TypesofEmployees-DRAFT&amp;NOTES,DONOTCONSIDERIT"><strong>DRAFT &=
+amp; NOTES, DO NOT CONSIDER IT</strong></h1>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 100=
+.0%;">
+<colgroup>
+<col style=3D"width: 13.4%;">
+<col style=3D"width: 23.4911%;">
+<col style=3D"width: 25.3015%;">
+<col style=3D"width: 20.9997%;">
+<col style=3D"width: 16.8285%;">
+</colgroup>
+<tbody>
+<tr>
+<th style=3D"text-align: center;" class=3D"confluenceTh">Type of Employee</=
+th>
+<th style=3D"text-align: center;" class=3D"confluenceTh">In which Report wi=
+ll we detect them</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">What=
+'s expected to detect the issue</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh">What=
+ are the iniatives to promote positive behavior</th>
+<th colspan=3D"1" style=3D"text-align: center;" class=3D"confluenceTh"><p>W=
+hat's expected from Top Management to detect the issue</p></th>
+</tr>
+<tr>
+<td class=3D"highlight-#ffebe6 confluenceTd" data-highlight-colour=3D"#ffeb=
+e6" rowspan=3D"2"><p title=3D"">1. Saboteur</p></td>
+<td class=3D"confluenceTd"><p>Negative&nbsp;<span>IT Report</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>To extract and evaluate the team's weekly Timesheet from Jira and to pr=
+ovide a summary to HR OPS</li>
+<li>To provide feedback on red flags</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>To consolidate the Monthly IT Report based on UAM and analytics from St=
+affCop</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Negative 360 Report</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>To inform HR of escalated situations</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>To collect monthly feedback from IT, HR and the manager and create the =
+Quarterly Report</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#ffebe6 confluenceTd" data-highlight-colour=3D"#ffeb=
+e6">2. Con-Artist</td>
+<td class=3D"confluenceTd"><p>Negative KPI Report</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Micromanagement - provide solo tasks</li>
+<li>Project Management capabilities</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#fffae6 confluenceTd" data-highlight-colour=3D"#fffa=
+e6">3. Disciplined</td>
+<td class=3D"confluenceTd">All reports will be OK - nothing outstanding</td=
+>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Clearly Defined Processes</li>
+<li>Project Management</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>HR Processes</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#fffae6 confluenceTd" data-highlight-colour=3D"#fffa=
+e6">4. Mercenary</td>
+<td class=3D"confluenceTd"><p>Strategic Report (no organizational/departmen=
+t vision)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Top Management</td>
+<td colspan=3D"1" class=3D"confluenceTd">Transition to freelancer</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#e3fcef confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e3fcef">5. Engaged</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Strategic Report (no organizati=
+onal vision)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Top Management</td>
+<td colspan=3D"1" class=3D"confluenceTd">Radical Transparency</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-#e3fcef confluenceTd" colspan=3D"1" data-highlight-c=
+olour=3D"#e3fcef">6. Entrepreneur</td>
+<td colspan=3D"1" class=3D"confluenceTd">All reports are outstanding</td>
+<td colspan=3D"1" class=3D"confluenceTd">Top Management</td>
+<td colspan=3D"1" class=3D"confluenceTd">Stock Option</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h1 id=3D"TypesofEmployees-Outcomes">Outcomes</h1>
+<ol>
+<li>Passing: Employees who demonstrate satisfactory performance and exhibit=
+ no significant systemic issue continue their employment without any negati=
+ve consequences.</li>
+<li>Redemption: Employees who fall into this category show potential for im=
+provement and redemption are given an opportunity to rectify any negative b=
+ehavior.&nbsp;</li>
+<li>Termination: Employees who consistently underperform and display undeni=
+able systemic issues will face termination. This outcome is reserved for ca=
+ses where all efforts for improvement have been exhausted, and there is no =
+foreseeable redemption.</li>
+</ol>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2_100745601.1762755462673--

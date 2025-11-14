@@ -159,7 +159,7 @@ hide:
       </p>
     </div>
     <div class="community-hero">
-      <img src="../assets/images/community-hero.svg" alt="BraX3: Privacy, done better - Secure & private mobile technology from Brax Technologies" />
+      <img src="../assets/images/1.jpg" alt="BraX3: Privacy, done better - Secure & private mobile technology from Brax Technologies" />
     </div>
   </div>
 </div>
@@ -168,11 +168,9 @@ hide:
 
 <div class="event-grid highlighted">
   <div class="card">
-    <img src="../assets/images/opensource-experience-logo.png" alt="Open Source Experience" class="event-logo" />
-    <h3>Open Source Experience 2025</h3>
-    <span class="meta">Paris, France · November 2025</span>
+    <img src="../assets/images/opensourceexp.jpg" alt="Open Source Experience" class="event-logo" />
     <p>Join the leading European open source event bringing together developers, decision-makers, and innovators. Discover the latest in open source technologies, cloud computing, digital sovereignty, and sustainable IT solutions.</p>
-    <a class="cta secondary" href="https://www.opensource-experience.com/" target="_blank" rel="noopener">Learn more</a>
+    <a class="cta secondary" href="/events/upcoming-events/opensource-experience-2025/" target="_blank" rel="noopener">Learn more</a>
   </div>
   <div class="card list-card">
     <h3>Why attend?</h3>
@@ -190,27 +188,27 @@ hide:
   <div class="card">
     <h3>Android Debugging Crash Course</h3>
     <span class="meta">06 January 2025</span>
-    <p>A comprehensive guide to debugging Android systems, from basic logging to advanced kernel debugging techniques. Learn ADB, logcat, and kernel-level debugging.</p>
-    <a class="cta secondary" href="blog/2025-01-06-android-debugging-crash-course/">Read more</a>
+    <p>Master Android debugging from logs to kernel panics. Learn ADB, logcat, and kernel-level debugging techniques for diagnosing issues at every level of the Android stack.</p>
+    <a class="cta secondary" href="guide/posts/android-debugging-crash-course/">Read more</a>
   </div>
   <div class="card">
-    <h3>Working with SELinux on Android</h3>
-    <span class="meta">07 January 2025</span>
-    <p>Understanding and working with Security-Enhanced Linux in Android development - from basics to advanced policy writing.</p>
-    <a class="cta secondary" href="blog/2025-01-07-working-with-selinux-android/">Read more</a>
+    <h3>Manually Install or Update Your OS</h3>
+    <span class="meta">BraX3 Guide</span>
+    <p>Complete control over your device's OS. Step-by-step instructions for manually installing or updating using fastboot or spflash tool on your BraX3.</p>
+    <a class="cta secondary" href="guide/posts/manual-install-update-os/">Read more</a>
   </div>
   <div class="card">
-    <h3>Qualcomm's Chain of Trust</h3>
-    <span class="meta">08 January 2025</span>
-    <p>Understanding Qualcomm's boot sequence, security mechanisms, and how bootloaders work together to secure modern Android devices.</p>
-    <a class="cta secondary" href="blog/2025-01-08-qualcomm-chain-of-trust/">Read more</a>
+    <h3>Unlock the BraX3 Bootloader</h3>
+    <span class="meta">BraX3 Guide</span>
+    <p>Get full access to your system for advanced operations like flashing custom ROMs or rooting. Official unlock method for BraX3 with troubleshooting tips.</p>
+    <a class="cta secondary" href="guide/posts/unlock-bootloader/">Read more</a>
   </div>
 </div>
 
 ## Video Tutorials
 
 <div class="video-container">
-  <iframe src='https://widgets.sociablekit.com/youtube-playlist-videos/iframe/25619455' frameborder='0' width='100%' height='250'></iframe>
+  <iframe src='https://widgets.sociablekit.com/youtube-playlist-videos/iframe/25619455' frameborder='0' width='100%' height='270'></iframe>
 </div>
 
 ## Learn More
@@ -219,7 +217,7 @@ hide:
   <div class="card">
     <h3>Community Code of Conduct</h3>
     <p>We align on shared values—respect, transparency, and security-conscious collaboration—so everyone can contribute safely.</p>
-    <a href="/community/code-of-conduct/">Read the guidelines</a>
+    <a href="/governance/Community Code Of Conduct/">Read the guidelines</a>
   </div>
   <div class="card">
     <h3>Mission & Principles</h3>
@@ -229,14 +227,12 @@ hide:
   <div class="card">
     <h3>Project Governance</h3>
     <p>Understand how working groups, maintainers, and community councils collaborate to steer the roadmap.</p>
-    <a href="/community/governance/">See the framework</a>
+    <a href="/governance/">See the framework</a>
   </div>
 </div>
 
 ## Stay Updated
 
-- Subscribe to the Brax Community Dispatch for release notes, event recaps, and contributor spotlights.
-- Join the weekly community call for Q&A with product, hardware, and security leads.
-- Follow us on Matrix, Mastodon, and Brax Community forums for daily discussions.
+Join the [BraXTech community](https://community.braxtech.net/) to connect with users, developers, and privacy advocates. Get support, share ideas, participate in discussions, and stay informed about releases, events, and project updates.
 
 > "We build, learn, and ship together—because privacy, openness, and user choice thrive in community."

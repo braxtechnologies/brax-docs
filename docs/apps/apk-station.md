@@ -1,83 +1,104 @@
 # 📦 APK Station
 
+!!! success "Project Status"
+    **Status**: Active Development  
+    **GitHub**: [braxtechnologies/Apk-Station](https://github.com/braxtechnologies/Apk-Station)  
+    **Language**: Kotlin  
+    **Contributors**: 2 active contributors
+    
+    ![GitHub stars](https://img.shields.io/github/stars/braxtechnologies/Apk-Station?style=social)
+    ![GitHub forks](https://img.shields.io/github/forks/braxtechnologies/Apk-Station?style=social)
+    ![GitHub watchers](https://img.shields.io/github/watchers/braxtechnologies/Apk-Station?style=social)
+    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/braxtechnologies/Apk-Station)
+    ![GitHub last commit](https://img.shields.io/github/last-commit/braxtechnologies/Apk-Station)
+    ![GitHub issues](https://img.shields.io/github/issues/braxtechnologies/Apk-Station)
+    ![GitHub pull requests](https://img.shields.io/github/issues-pr/braxtechnologies/Apk-Station)
+    ![GitHub branch](https://img.shields.io/github/branches/all/braxtechnologies/Apk-Station)
+
+| Screenshot | Description |
+|:--:|:--|
+| [<img src="/assets/images/apkstation1.png" alt="Homepage" width="600"/>](../assets/images/apkstation1.png) | **Personalized Homepage** — Browse curated app recommendations and featured collections. Discover new apps with tailored suggestions based on categories and popularity. |
+| [<img src="/assets/images/apkstation2.png" alt="Search" width="600"/>](../assets/images/apkstation2.png) | **Advanced Search** — Find exactly what you need with powerful search and category browsing. Filter by app type, ratings, and privacy features. |
+| [<img src="/assets/images/apkstation3.png" alt="App Details" width="600"/>](../assets/images/apkstation3.png) | **Detailed App Pages** — Complete information including permissions, privacy details, and user reviews. Make informed decisions before installing any app. |
+| [<img src="/assets/images/apkstation4.png" alt="Settings" width="600"/>](../assets/images/apkstation4.png) | **Rob Braxman Choice Apps** — Curated selection of privacy-focused applications personally recommended by Rob Braxman. Discover trusted apps featured in his videos and privacy guides. |
+
+**APK Station** is an open-source, privacy-first alternative app store for Android.
+
+- 🔐 Zero tracking or telemetry
+- 📱 Millions of free apps available
+- 🔄 Automatic updates
+- 🎯 Rob Braxman curated selections
+- 🌐 Powered by Lunar Network
+- 🛡️ Signature verification
+
+---
+
 ## Overview
 
-APK Station is a secure, open-source alternative app store for Android devices. It provides verified, privacy-respecting applications without tracking or ads, giving you full control over your app ecosystem.
+APK Station provides a complete app store experience without compromising your privacy. Discover and install millions of **free applications** without tracking, data collection, or telemetry.
+
+!!! note "100% Free Apps"
+    APK Station exclusively offers free applications. We do not host or distribute paid apps.
 
 ## Key Features
 
-- **Verified Applications**: All apps undergo security and privacy reviews
-- **No Tracking**: Zero telemetry or user tracking
-- **Open Source Focus**: Prioritizes FOSS (Free and Open Source Software)
-- **Automatic Updates**: Keep your apps up-to-date automatically
-- **Reproducible Builds**: Verify app authenticity through reproducible builds
-- **Category Browsing**: Easily discover apps by category
-- **Advanced Filters**: Search by license, permissions, and more
-- **Multi-Repository Support**: Add custom repositories
-- **Offline Mode**: Browse previously synced apps without internet
+**Core Features:**
 
-## Technical Stack
+- **Personalized Homepage** — Discover new apps with tailored recommendations
+- **Advanced Search** — Find exactly what you need with powerful search and category browsing
+- **Detailed App Pages** — Complete information including privacy details for every app
+- **Offline Mode** — Browse previously synced apps without an internet connection
+- **FOSS Priority** — Open source focus with verified free and open source software
+- **Rob Braxman Selections** — Curated privacy-focused apps featured in his videos
 
-- **Platform**: Native Android application
-- **Backend**: Decentralized repository system
-- **Database**: SQLite for local app metadata
-- **Verification**: GPG signature verification
-- **Updates**: Background service for automatic updates
+---
 
-## Getting Started
+## 🛠️ Technical Stack
 
-### Installation
+| Component | Technology |
+|:--|:--|
+| Platform | Native Android (Kotlin) |
+| Backend | Lunar Network (decentralized distribution) |
+| Database | SQLite (local app metadata) |
+| Verification | Signature verification |
+| Updates | Background service |
+| Build System | Gradle with Kotlin DSL |
 
-Download APK Station:
-- [Official Website](#)
+---
+
+## 🚀 Getting Started
+
+**Download APK Station:**
+- [Official Website](https://braxtech.net)
 - [GitHub Releases](https://github.com/braxtechnologies/apk-station/releases)
-- [F-Droid](#)
+- [F-Droid](https://f-droid.org/en/)
 
-### First Time Setup
+**Quick Setup:**
 
-1. Download and install the APK Station APK
-2. Grant necessary permissions when prompted
-3. Wait for initial repository sync
-4. Browse and install your favorite apps
-5. Configure automatic updates in settings
+- **Step 1**: Download and install the APK
+- **Step 2**: Grant permissions when prompted
+- **Step 3**: Wait for initial repository sync
+- **Step 4**: Start browsing and installing apps
+- **Step 5**: Configure automatic updates in settings
 
-## Featured Categories
+---
 
-- **Communication**: Messaging, email, and VoIP apps
-- **Security & Privacy**: VPNs, password managers, and encryption tools
-- **Productivity**: Office suites, note-taking, and organization
-- **Multimedia**: Media players, photo editors, and streaming
-- **Development**: IDEs, terminal emulators, and dev tools
-- **System Tools**: File managers, backup tools, and utilities
+## 📋 Featured Categories
 
-## For Developers
+| Category | Description |
+|:--|:--|
+| **Communication** | Messaging, email, and VoIP apps |
+| **Security & Privacy** | VPNs, password managers, and encryption tools |
+| **Productivity** | Office suites, note-taking, and organization |
+| **Multimedia** | Media players, photo editors, and streaming |
+| **Development** | IDEs, terminal emulators, and dev tools |
+| **System Tools** | File managers, backup tools, and utilities |
 
-### Submitting Your App
+---
 
-Want to get your app on APK Station? Follow these steps:
+## 👨‍💻 For Developers
 
-1. Ensure your app is open source
-2. Review our [App Submission Guidelines](#)
-3. Submit a pull request with your app metadata
-4. Pass our security and privacy review
-5. Your app will be available in the next repository sync
-
-### Repository Format
-
-```yaml
-name: Your App Name
-package: com.example.yourapp
-version: 1.0.0
-versionCode: 1
-license: GPL-3.0
-sourceCode: https://github.com/yourorg/yourapp
-description: Brief description of your app
-permissions:
-  - INTERNET
-  - CAMERA
-```
-
-### Building from Source
+**Building from Source:**
 
 ```bash
 git clone https://github.com/braxtechnologies/apk-station.git
@@ -85,65 +106,84 @@ cd apk-station
 ./gradlew assembleRelease
 ```
 
-## Security
+---
 
-### App Verification
+## 🔒 Privacy
 
-Every app in APK Station is:
-- **Source Code Reviewed**: Manual review of source code
-- **Signature Verified**: GPG signature validation
-- **Permission Analyzed**: Privacy-focused permission review
-- **Reproducibly Built**: Build process can be verified
+APK Station follows a **zero-knowledge, privacy-first** approach:
 
-### Reporting Issues
+- No account required (use anonymously)
+- No analytics or telemetry
+- No ads or tracking
+- No data collection on app usage
+- All data stays local on your device
 
-Found a malicious app or security issue? Report it immediately:
-- **Email**: [security@braxtech.net](mailto:security@braxtech.net)
-- **GitHub**: [Security Advisory](https://github.com/braxtechnologies/apk-station/security)
+---
 
-## Repositories
+## 🗯️ Roadmap
 
-APK Station includes these default repositories:
+**Coming soon:**
 
-- **Brax Official**: Curated apps from Brax Technologies
-- **FOSS Commons**: Popular open source applications
-- **Privacy Tools**: Security and privacy-focused apps
+### 🔗 Multi-Repository Support
 
-### Adding Custom Repositories
+Add custom repositories from multiple platforms:
 
-1. Open APK Station settings
-2. Navigate to "Repositories"
-3. Tap "Add Repository"
-4. Enter repository URL and GPG key
-5. Sync and start installing apps
+- **GitHub** — Direct integration with GitHub releases
+- **GitLab** — Support for GitLab package registries
+- **Forgejo (Codeberg)** — Decentralized Git hosting support
+- **F-Droid** — Official F-Droid repository support
+- **Third Party F-Droid Repos** — Add community F-Droid repositories
+- **IzzyOnDroid** — Popular third-party Android app repository
+- **SourceHut** — Support for sr.ht hosted projects
 
-## Privacy Policy
+### ✔️ App Signing Certificate Verifier
 
-APK Station respects your privacy:
-- **No Account Required**: Use anonymously
-- **No Analytics**: Zero telemetry or tracking
-- **No Ads**: Completely ad-free experience
-- **Local First**: All data stored locally on device
+Easily verify that your apps are genuine! AppVerifier compares app signatures against provided or internal database hashes.
 
-## Support
+**Features:**
+- Share verification info with others
+- Receive and validate verification info from trusted sources
+- Automatic verification status checking
+- Simple, user-friendly verification process
 
-- **Documentation**: [apkstation.braxtech.net/docs](https://apkstation.braxtech.net/docs)
+### 🛡️ Privacy Score
+
+Comprehensive privacy scoring system to help you make informed decisions about which apps to install.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions!
+
+- **Code** — Submit bug fixes and new features
+- **App Reviews** — Help review submitted applications
+- **Documentation** — Improve our documentation
+- **Translation** — Translate APK Station to your language
+- **Testing** — Test beta releases and report bugs
+
+See our [Contributing Guidelines](https://github.com/braxtechnologies/apk-station/blob/main/CONTRIBUTING.md) for details.
+
+---
+
+## 📞 Support
+
 - **Community Forum**: [community.braxtech.net](https://community.braxtech.net)
 - **Issue Tracker**: [GitHub Issues](https://github.com/braxtechnologies/apk-station/issues)
-- **FAQ**: [Frequently Asked Questions](#)
 
-## Contributing
+---
 
-We welcome contributions! Here's how you can help:
+## 📜 License
 
-- **Code**: Submit bug fixes and new features
-- **App Reviews**: Help review submitted applications
-- **Documentation**: Improve our documentation
-- **Translation**: Translate APK Station to your language
-- **Testing**: Test beta releases and report bugs
+APK Station is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.en.html) with a **Non-Commercial clause**.
 
-See our [Contributing Guidelines](https://github.com/braxtechnologies/apk-station/blob/main/CONTRIBUTING.md) for more details.
+You are free to:
+- **Fork and modify** the code for your own projects
+- **Distribute** your modifications
+- **Use** the software for personal and non-commercial purposes
 
-## License
-
-APK Station is released under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+You must:
+- **Attribute** the original project and maintain copyright notices
+- **Keep it open source** — all modifications must be released under the same license
+- **Share source code** — if you run a modified version on a server, you must make the source code available
+- **Not use commercially** — commercial use requires a separate license from Brax Technologies
