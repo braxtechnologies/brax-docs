@@ -8,11 +8,45 @@ description: Ultimate privacy phone with hardware kill switches for complete con
 !!! info "Coming Soon"
     **Status**: In Development  
     **Expected Release**: TBA  
-    **Platform**: Android Smartphone
+    **Platform**: Android Smartphone  
+    **Price**: $750 USD
 
 <div style="text-align: center; margin: 2em 0;">
   <p style="font-style: italic; color: #666; font-size: 1.2em;">Maximum privacy with physical kill switches</p>
 </div>
+
+## 📋 Project Details
+
+### Sponsor
+
+| Category | Status |
+|:---------|:-------|
+| **Financial Involvement** | None, Bounty, Donation, Distribution, Official Partner |
+| **Governance Type** | Sponsor Led, Community Led, Collaboration |
+| **Usability Status** | Bounty, In Progress, BETA, ALPHA, Daily Driver |
+| **Support Type** | Community Built, Official Built |
+
+---
+
+## 📊 Technical Specifications
+
+<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 2rem 0;">
+
+| Component | Specification |
+|:----------|:--------------|
+| **Storage** | 512GB internal + up to 2TB microSD (encrypted) |
+| **Processor** | MediaTek Dimensity 8350 |
+| **Display** | 6.7" AMOLED, 1220x2712 resolution, 120Hz refresh rate |
+| **Rear Cameras** | 108MP (main) + 13MP (ultra-wide) + 2MP (macro) |
+| **Front Camera** | 32MP with Night Vision |
+| **Battery** | 5500mAh high density |
+| **Security** | Hardware kill switches, Fingerprint sensor |
+| **Durability** | MIL-STD-810H certified, IP68 water/dust resistance |
+| **Price** | $750 USD |
+
+</div>
+
+---
 
 ## 🚀 About Granite
 
@@ -79,8 +113,8 @@ Granite takes privacy to the next level with hardware-enforced security:
 The Granite's unlockable bootloader will enable you to install your preferred mobile operating system. Expected OS support includes:
 
 - **BraxOS** — Brax's custom secure operating system
-- **GrapheneOS** — Security-hardened Android distribution
-- **CalyxOS** — Privacy-focused Android OS
+- **iodéOS** — Privacy-focused Android distribution with integrated ad/tracker blocker
+- **Ubuntu Touch** — Mobile Linux distribution for true convergence
 - **LineageOS** — Popular open-source Android distribution
 - **And more** — Full multi-OS support
 
