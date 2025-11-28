@@ -1,6 +1,6 @@
 # Zensical - Modern static site generator by Material for MkDocs creators
 # Note: Zensical is currently in alpha (0.0.x)
-zensical>=0.0.5
+zensical>=0.0.10
 
 # Core dependencies (most are included with Zensical)
 click>=8.1.8
