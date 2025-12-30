@@ -19,3 +19,4 @@ Thumbs.db
 WARP.md
 ZENSICAL_MIGRATION.md
 tmp
+.github/workflows/ci.yml
