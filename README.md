@@ -7,8 +7,8 @@ Built with [Zensical](https://zensical.org) - a modern static site generator by 
 ### 1. Create a virtual environment
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate   # or venv\Scripts\activate on Windows
+python3 -m venv .venv
+source .venv/bin/activate   # or .venv\Scripts\activate on Windows
 ```
 
 ### 2. Install dependencies
