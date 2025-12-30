@@ -41,7 +41,7 @@ jobs:
           fi
 
       - name: Deploy to Development FTP
-        if: github.ref == 'refs/heads/dev'
+        if: github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/main'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ vars.FTP_HOST_DEV }}
