@@ -1,0 +1,53 @@
+name: Deploy Zensical Site
+
+on:
+  push:
+    branches:
+      - dev
+      - main
+  pull_request:
+    branches:
+      - dev
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: 'development'
+      url: 'https://opensource-dev.braxtech.net'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install zensical and plugins
+        run: pip install -r requirements.txt
+
+      - name: Build zensical site
+        run: zensical build --clean
+
+      - name: Verify build output
+        run: |
+          if [ ! -d "./site" ]; then
+            echo "Build failed - site directory not found"
+            exit 1
+          fi
+
+      - name: Deploy to Development FTP
+        if: github.ref == 'refs/heads/dev'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ vars.FTP_HOST_DEV }}
+          username: ${{ secrets.FTP_USERNAME_DEV }}
+          password: ${{ secrets.FTP_PASSWORD_DEV }}
+          local-dir: ./site/
+          protocol: ftp
+          server-dir: ${{ vars.FTP_DIR_DEV }}
+          port: ${{ vars.FTP_PORT_DEV }}
