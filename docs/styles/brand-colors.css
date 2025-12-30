@@ -1,0 +1,245 @@
+:root > * {
+  /* BraX palette (light theme) */
+  --brax-black: #171717;
+  --brax-gray: #7A7A7A;
+  --brax-white: #FFFFFF;
+
+  --brax-orange: #E65035;
+  --brax-green: #00D3A2;
+  --brax-purple: #8400F7;
+  --brax-brown: #D08C48;
+
+  --brax-bg: var(--brax-white);
+  --brax-fg: var(--brax-black);
+  --brax-muted: var(--brax-gray);
+
+  /* Callouts should be visually distinct from the page background */
+  --brax-callout-bg: #F5F4F7;
+
+  /* Material theme variables */
+  --md-default-bg-color: var(--brax-bg);
+  --md-default-fg-color: var(--brax-fg);
+  --md-default-fg-color--light: rgba(23, 23, 23, 0.72);
+  --md-default-fg-color--lighter: rgba(23, 23, 23, 0.48);
+  --md-default-fg-color--lightest: rgba(23, 23, 23, 0.18);
+
+  --md-primary-fg-color: var(--brax-black);
+  --md-primary-bg-color: var(--brax-white);
+
+  --md-accent-fg-color: var(--brax-orange);
+  --md-accent-fg-color--transparent: rgba(230, 80, 53, 0.12);
+
+  --md-typeset-a-color: var(--brax-orange);
+}
+
+/* BraX palette (dark theme) */
+[data-md-color-scheme="slate"] {
+  --brax-bg: #0B0C0F;
+  --brax-fg: #F5F4F7;
+  --brax-muted: rgba(245, 244, 247, 0.72);
+
+  /* Callouts should be visually distinct from the page background */
+  --brax-callout-bg: #1E1E1E;
+
+  --brax-orange: #FF8A65;
+  --brax-green: #66E6C8;
+  --brax-purple: #BB86FC;
+  --brax-brown: #E6B37A;
+
+  --md-default-bg-color: var(--brax-bg);
+  --md-default-fg-color: var(--brax-fg);
+  --md-default-fg-color--light: rgba(245, 244, 247, 0.72);
+  --md-default-fg-color--lighter: rgba(245, 244, 247, 0.48);
+  --md-default-fg-color--lightest: rgba(245, 244, 247, 0.18);
+
+  --md-accent-fg-color: var(--brax-orange);
+  --md-accent-fg-color--transparent: rgba(255, 138, 101, 0.14);
+
+  --md-typeset-a-color: var(--brax-orange);
+}
+
+/* Header logo: black in light mode, white in dark mode via filter */
+.md-header__button.md-logo img {
+  filter: none;
+}
+
+[data-md-color-scheme="slate"] .md-header__button.md-logo img {
+  filter: invert(1);
+}
+
+/* Improve card contrast in dark mode (use palette-derived rgba) */
+[data-md-color-scheme="slate"] .card {
+  background: rgba(30, 30, 30, 0.96);
+  border-color: rgba(245, 244, 247, 0.18);
+  box-shadow: 0 24px 48px rgba(23, 23, 23, 0.65);
+}
+
+[data-md-color-scheme="slate"] .card h3,
+[data-md-color-scheme="slate"] .card strong,
+[data-md-color-scheme="slate"] .card p,
+[data-md-color-scheme="slate"] .card span,
+[data-md-color-scheme="slate"] .card .meta {
+  color: var(--brax-fg);
+}
+
+/* Centralize inline "HTML callouts" (divs with inline colors) to the BraX palette */
+.md-typeset div[style*="background:#"],
+.md-typeset div[style*="background: #"],
+.md-typeset div[style*="linear-gradient("] {
+  background: var(--brax-callout-bg) !important;
+  color: var(--brax-fg) !important;
+}
+
+/* Make "left border accent" consistent with the site accent */
+.md-typeset div[style*="border-left: 4px solid"] {
+  border-left-color: var(--md-accent-fg-color) !important;
+}
+
+/* Ensure text inside these callouts inherits the palette text color (override inline heading colors) */
+.md-typeset div[style*="background:#"] h1,
+.md-typeset div[style*="background:#"] h2,
+.md-typeset div[style*="background:#"] h3,
+.md-typeset div[style*="background:#"] h4,
+.md-typeset div[style*="background:#"] h5,
+.md-typeset div[style*="background:#"] h6,
+.md-typeset div[style*="background:#"] p,
+.md-typeset div[style*="background:#"] li,
+.md-typeset div[style*="background:#"] span,
+.md-typeset div[style*="background:#"] strong,
+.md-typeset div[style*="background: #"] h1,
+.md-typeset div[style*="background: #"] h2,
+.md-typeset div[style*="background: #"] h3,
+.md-typeset div[style*="background: #"] h4,
+.md-typeset div[style*="background: #"] h5,
+.md-typeset div[style*="background: #"] h6,
+.md-typeset div[style*="background: #"] p,
+.md-typeset div[style*="background: #"] li,
+.md-typeset div[style*="background: #"] span,
+.md-typeset div[style*="background: #"] strong,
+.md-typeset div[style*="linear-gradient("] h1,
+.md-typeset div[style*="linear-gradient("] h2,
+.md-typeset div[style*="linear-gradient("] h3,
+.md-typeset div[style*="linear-gradient("] h4,
+.md-typeset div[style*="linear-gradient("] h5,
+.md-typeset div[style*="linear-gradient("] h6,
+.md-typeset div[style*="linear-gradient("] p,
+.md-typeset div[style*="linear-gradient("] li,
+.md-typeset div[style*="linear-gradient("] span,
+.md-typeset div[style*="linear-gradient("] strong {
+  color: inherit !important;
+}
+
+.md-typeset div[style*="background:#"] a,
+.md-typeset div[style*="background: #"] a,
+.md-typeset div[style*="linear-gradient("] a {
+  color: var(--md-typeset-a-color) !important;
+}
+
+/* For gradient-style hero callouts, force white text on the accent background */
+.md-typeset div[style*="linear-gradient("] {
+  background: var(--md-accent-fg-color) !important;
+  color: #FFFFFF !important;
+}
+
+/* FAQ collapsible blocks (??? question): default */
+.md-typeset details.question,
+.md-typeset .admonition.question {
+  background-color: var(--brax-callout-bg) !important;
+  color: var(--brax-fg) !important;
+  border: 1px solid rgba(23, 23, 23, 0.12) !important;
+  border-left: 4px solid var(--brax-callout-bg) !important;
+  border-radius: 10px;
+}
+
+/* iodéOS FAQ page: container backgrounds */
+.iode-faq details.question,
+.iode-faq .admonition.question {
+  background-color: #F5F4F7 !important;
+  border-left-color: #F5F4F7 !important;
+}
+
+.iode-faq details.question > summary,
+.iode-faq .admonition.question > .admonition-title,
+.iode-faq details.question > :not(summary),
+.iode-faq .admonition.question > :not(.admonition-title) {
+  background-color: #F5F4F7 !important;
+}
+
+[data-md-color-scheme="slate"] .iode-faq details.question,
+[data-md-color-scheme="slate"] .iode-faq .admonition.question {
+  background-color: #1E1E1E !important;
+  color: #F5F4F7 !important;
+  border-color: rgba(245, 244, 247, 0.12) !important;
+  border-left-color: #1E1E1E !important;
+}
+
+[data-md-color-scheme="slate"] .iode-faq details.question > summary,
+[data-md-color-scheme="slate"] .iode-faq .admonition.question > .admonition-title,
+[data-md-color-scheme="slate"] .iode-faq details.question > :not(summary),
+[data-md-color-scheme="slate"] .iode-faq .admonition.question > :not(.admonition-title) {
+  background-color: #1E1E1E !important;
+  color: #F5F4F7 !important;
+}
+
+.md-typeset details.question > summary,
+.md-typeset .admonition.question > .admonition-title {
+  background-color: var(--brax-callout-bg) !important;
+  color: var(--brax-fg) !important;
+}
+
+.md-typeset details.question > :not(summary),
+.md-typeset .admonition.question > :not(.admonition-title) {
+  background-color: var(--brax-callout-bg) !important;
+  color: var(--brax-fg) !important;
+}
+
+.md-typeset details.question > summary::before,
+.md-typeset .admonition.question > .admonition-title::before {
+  background-color: var(--brax-fg) !important;
+}
+
+.md-typeset details.question > summary::after {
+  color: var(--brax-fg) !important;
+}
+
+.md-typeset details.question a,
+.md-typeset .admonition.question a {
+  color: var(--md-typeset-a-color);
+  text-decoration-color: rgba(230, 80, 53, 0.35);
+}
+
+/* FAQ (dark theme) */
+[data-md-color-scheme="slate"] .md-typeset details.question,
+[data-md-color-scheme="slate"] .md-typeset .admonition.question {
+  background-color: var(--brax-bg) !important;
+  color: #F5F4F7 !important;
+  border: 1px solid rgba(245, 244, 247, 0.12) !important;
+  border-left: 4px solid var(--brax-bg) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.question > summary,
+[data-md-color-scheme="slate"] .md-typeset .admonition.question > .admonition-title {
+  background-color: var(--brax-bg) !important;
+  color: #F5F4F7 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.question > :not(summary),
+[data-md-color-scheme="slate"] .md-typeset .admonition.question > :not(.admonition-title) {
+  background-color: var(--brax-bg) !important;
+  color: #F5F4F7 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.question > summary::before,
+[data-md-color-scheme="slate"] .md-typeset .admonition.question > .admonition-title::before {
+  background-color: #F5F4F7 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.question > summary::after {
+  color: #F5F4F7 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.question a,
+[data-md-color-scheme="slate"] .md-typeset .admonition.question a {
+  color: var(--md-typeset-a-color);
+  text-decoration-color: rgba(255, 138, 101, 0.35);
+}

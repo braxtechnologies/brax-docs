@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+.idea
+.cache
+.venv/
+# Zensical build output
+site/
+# VSCode
+.vscode/
+# macOS / Windows
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+.zensical-quickstart.md
+WARP.md
+ZENSICAL_MIGRATION.md
+tmp
+.github/workflows/ci.yml

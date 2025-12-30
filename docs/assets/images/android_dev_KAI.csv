@@ -1,0 +1,59 @@
+Category,Knowledge,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6
+Frameworks,AOSP,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Frameworks,JUnit,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Frameworks,Scrum,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Frameworks,Agile,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,SIP or any VoIP protocols,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,XMPP or any messaging protocols,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,ZRTP/RTP,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,PGP,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,OTR,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,OMEMO,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Protocols,SSL,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,Bash/Shell,Practical application,Practical application,Practical application,Practical application,Practical application,Practical application
+Programming languages,C/C++,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,CSS,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,Groovy,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,HTML,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,Java,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,JavaScript,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,Kotlin,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,Python,Limited experience,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,SQL,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Programming languages,XML,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Android X,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Dagger 2,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Espresso,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,EventBus,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Kotlin Coroutines,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Jake Wharton Butter Knife,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Mockito,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,OkHttp,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Picasso/Glide/Fresco/Imageloader,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Retrofit,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,RxJava/RxAndroid/RxKotlin,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,SMACK or any XMPP client library,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Timber,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Zetetic SQL Cipher,Practical application,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Linphone or any SIP SDK,Limited experience,Practical application,Practical application,Applied theory,Applied theory,Applied theory
+Libraries,Microsoft Exchange web services (EWS),Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Atlassian Bitbucket or any code management tool,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Atlassian Bamboo or Jenkins,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Android Studio,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Appium/Selenium,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Billing Systems,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Crowdin or any translation management system,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Docker,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Elastic Kibana,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Firebase,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Gerrit,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Gradle,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Git or SVN,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Ignite Realtime Openfire or any XMPP server,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,IntelliJ Idea,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Kamailio or an SIP server,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,MDM (mobile device management system),Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Portainer.io,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Terminal/Prompt,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Softwares/Tools/Platforms,Ubuntu or any Linux,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
+Languages (idioms),Advanced Business English,Limited experience,Limited experience,Practical application,Applied theory,Applied theory,Applied theory
