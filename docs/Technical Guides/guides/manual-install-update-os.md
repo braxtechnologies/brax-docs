@@ -56,7 +56,7 @@
 Installing via spflash holds some advantages over installing via fastboot, mainly the possibility to not erase userdata, possible since the bootloader can be locked when using spflash.
 
 Before you start, you need to ensure the following:
-- You've installed the spflash tool (by MediaTek). For Windows: <a href="/assets/files/SP_Flash_Tool_Selector_exe_Windows_v1.2444.00.000.rar">SP_Flash_Tool_Selector_exe_Windows_v1.2444.00.000.rar</a> (15.3 MB); for Linux: use the appropriate package for your distribution.
+- You've installed the spflash tool (by MediaTek). For Windows: <a href="/assets/files/SP_Flash_Tool_Selector_exe_Windows_v1.2444.00.000.rar">Download link</a>; for Linux: <a href="/assets/files/SP_Flash_Tool_v6.2228_Linux.zip">Download link</a>.
 
 **How to Install the OS on Windows**
 
