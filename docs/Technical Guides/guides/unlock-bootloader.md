@@ -15,8 +15,12 @@ Unlocking your Brax device bootloader gives you full access to the system and al
 
 ## Prerequisites
 
-- <a href="https://developer.android.com/tools/releases/platform-tools" target="_blank" rel="noopener noreferrer">Android Platform Tools</a> downloaded and extracted to your Desktop folder.
-- You have installed the latest MediaTek USB driver (Windows: <a href="/assets/files/MediaTek-SP-Driver-v5.2307.zip">MediaTek-SP-Driver-v5.2307.zip</a>) or the appropriate Linux driver
+- [Android Platform Tools](./Tools%20%26%20Resources.md) downloaded and extracted to your Desktop folder.
+- You have installed the latest MediaTek USB driver (Windows: MediaTek-SP-Driver-v5.2307.zip) or the appropriate Linux driver
+
+!!! info
+    All tools and resources are available on our [Tools & Resources](./Tools%20%26%20Resources.md) page.
+
 
 ## 1. Enable OEM Unlocking & USB debugging
 
