@@ -45,18 +45,24 @@
   </p>
   <ul style="margin: .5rem 0 0 1.5rem; line-height: 1.8;">
 <li>Your device charged to at least <strong>35%</strong></li>
-    <li>(Windows only) Latest <strong>MediaTek USB driver</strong> installed (<a href="/assets/files/MediaTek-SP-Driver-v5.2307.zip">MediaTek-SP-Driver-v5.2307.zip</a>)</li>
+    <li>(Windows only) Latest <strong>MediaTek USB driver</strong> installed (MediaTek-SP-Driver-v5.2307.zip)</li>
     <li><strong>Reliable USB data cable</strong> (not just charging cable)</li>
     <li>Downloaded the latest <strong>OS package installer</strong> for your chosen OS</li>
   </ul>
 </div>
 
+!!! info
+    All tools and resources are available on our [Tools & Resources](./Tools%20%26%20Resources.md) page.
+
 ## Install via spflash
 
 Installing via spflash holds some advantages over installing via fastboot, mainly the possibility to not erase userdata, possible since the bootloader can be locked when using spflash.
 
-Before you start, you need to ensure the following:
-- You've installed the spflash tool (by MediaTek). For Windows: <a href="/assets/files/SP_Flash_Tool_Selector_exe_Windows_v1.2444.00.000.rar">SP_Flash_Tool_Selector_exe_Windows_v1.2444.00.000.rar</a> (15.3 MB); for Linux: use the appropriate package for your distribution.
+Before you start, you need to ensure that you have downloaded MediaTek's SP Flashh tool.
+
+!!! info
+    All tools and resources are available on our [Tools & Resources](./Tools%20%26%20Resources.md) page.
+
 
 **How to Install the OS on Windows**
 
@@ -88,7 +94,7 @@ You can now reboot your phone and enjoy the version you've installed.
 
 Before you start, you need to ensure the following:
 - Your device has an unlocked bootloader ([see how to unlock the bootloader](unlock-bootloader.md))
-- [Android Platform Tools](https://developer.android.com/tools/releases/platform-tools) downloaded and extracted to your Desktop folder
+- [Android Platform Tools](./Tools%20%26%20Resources.md) downloaded and extracted to your Desktop folder
 
 ### Steps
 

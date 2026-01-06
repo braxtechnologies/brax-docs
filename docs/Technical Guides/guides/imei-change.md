@@ -25,9 +25,13 @@ Only perform these steps on a Brax device that you own or are explicitly authori
 On a Windows PC (32 bit or 64 bit):
 
 1. **MediaTek USB drivers** installed.
-2. The **AP-DB package for your model** (AP and MD database files) from the official community download.
+2. The **AP-DB package for your model**.
 3. The **MediaTek SN Writer** tool (latest recommended version).
 4. A USB cable to connect the device.
+
+!!! info
+    All tools and resources are available on our [Tools & Resources](./Tools%20%26%20Resources.md) page.
+
 
 Make sure your device has enough battery charge before starting.
 
